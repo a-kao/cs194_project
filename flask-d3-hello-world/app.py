@@ -5,6 +5,8 @@ import json
 import flask
 from flask import request
 import numpy as np
+import pandas as pd
+from jinja2 import Template
 
 
 app = flask.Flask(__name__)
@@ -31,6 +33,25 @@ def gindex():
     if len(muy)==0: muy="3."
     return flask.render_template("gaus.html",mux=mux,muy=muy)
 
+
+@app.route("/players/<team>")
+def playersList(team):
+    df = pd.read_csv("/Users/tbrown126/Documents/cs194/project/CS194 Final Project/SeasonPlayer/SeasonPlayer2013Regular.csv")
+    groups = df.groupby('Tm')
+    selected = groups.get_group(team)
+    
+    players = list(selected['Player'])
+    template = Template('<ul>{% for player in players %}<li>{{ player }}</li>{% endfor %}</ul>')
+    return template.render(players=players)
+
+@app.route("/test")
+def test():
+    df = pd.read_csv("/Users/tbrown126/Documents/cs194/project/CS194 Final Project/SeasonPlayer/SeasonPlayer2013Regular.csv")
+    groups = df.groupby('Tm')
+    names = []
+    for name, group in groups:
+        names.append(name)
+    return flask.render_template("test.html",teams=names)
 
 @app.route("/data")
 @app.route("/data/<int:ndata>")
