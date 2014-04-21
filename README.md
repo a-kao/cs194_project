@@ -14,4 +14,4 @@ Data visualization tool using d3 + HTML + Python for NBA clustering (k-means)
 
 
 ###Update 4/19/14
-1. It looks like integrating d3 with a python backend can be done fairly easily through flask. I've uploaded a 'Hello World' style app that runs by running python app.py
+1. It looks like integrating d3 with a python backend can be done fairly easily through flask. I've uploaded a 'Hello World' style app that runs by running python app.py check out /test for a little demo of how we can process data with pandas and feed it to the front end.
