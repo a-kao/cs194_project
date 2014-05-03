@@ -1,0 +1,1312 @@
+Link,Game ID,Away Team,Away Long,Away Score,Home Team,Home Long,Home Score,OT Ind
+http://www.basketball-reference.com/boxscores/201010260BOS.html,201010260BOS,MIA,Miami Heat,80,BOS,Boston Celtics,88,RG
+http://www.basketball-reference.com/boxscores/201010260LAL.html,201010260LAL,HOU,Houston Rockets,110,LAL,Los Angeles Lakers,112,RG
+http://www.basketball-reference.com/boxscores/201010260POR.html,201010260POR,PHO,Phoenix Suns,92,POR,Portland Trail Blazers,106,RG
+http://www.basketball-reference.com/boxscores/201010270CLE.html,201010270CLE,BOS,Boston Celtics,87,CLE,Cleveland Cavaliers,95,RG
+http://www.basketball-reference.com/boxscores/201010270DAL.html,201010270DAL,CHA,Charlotte Bobcats,86,DAL,Dallas Mavericks,101,RG
+http://www.basketball-reference.com/boxscores/201010270DEN.html,201010270DEN,UTA,Utah Jazz,88,DEN,Denver Nuggets,110,RG
+http://www.basketball-reference.com/boxscores/201010270GSW.html,201010270GSW,HOU,Houston Rockets,128,GSW,Golden State Warriors,132,RG
+http://www.basketball-reference.com/boxscores/201010270LAC.html,201010270LAC,POR,Portland Trail Blazers,98,LAC,Los Angeles Clippers,88,RG
+http://www.basketball-reference.com/boxscores/201010270MEM.html,201010270MEM,ATL,Atlanta Hawks,119,MEM,Memphis Grizzlies,104,RG
+http://www.basketball-reference.com/boxscores/201010270MIN.html,201010270MIN,SAC,Sacramento Kings,117,MIN,Minnesota Timberwolves,116,RG
+http://www.basketball-reference.com/boxscores/201010270NJN.html,201010270NJN,DET,Detroit Pistons,98,NJN,New Jersey Nets,101,RG
+http://www.basketball-reference.com/boxscores/201010270NOH.html,201010270NOH,MIL,Milwaukee Bucks,91,NOH,New Orleans Hornets,95,RG
+http://www.basketball-reference.com/boxscores/201010270OKC.html,201010270OKC,CHI,Chicago Bulls,95,OKC,Oklahoma City Thunder,106,RG
+http://www.basketball-reference.com/boxscores/201010270PHI.html,201010270PHI,MIA,Miami Heat,97,PHI,Philadelphia 76ers,87,RG
+http://www.basketball-reference.com/boxscores/201010270SAS.html,201010270SAS,IND,Indiana Pacers,109,SAS,San Antonio Spurs,122,RG
+http://www.basketball-reference.com/boxscores/201010270TOR.html,201010270TOR,NYK,New York Knicks,98,TOR,Toronto Raptors,93,RG
+http://www.basketball-reference.com/boxscores/201010280ORL.html,201010280ORL,WAS,Washington Wizards,83,ORL,Orlando Magic,112,RG
+http://www.basketball-reference.com/boxscores/201010280UTA.html,201010280UTA,PHO,Phoenix Suns,110,UTA,Utah Jazz,94,RG
+http://www.basketball-reference.com/boxscores/201010290BOS.html,201010290BOS,NYK,New York Knicks,101,BOS,Boston Celtics,105,RG
+http://www.basketball-reference.com/boxscores/201010290CHA.html,201010290CHA,IND,Indiana Pacers,104,CHA,Charlotte Bobcats,101,RG
+http://www.basketball-reference.com/boxscores/201010290DAL.html,201010290DAL,MEM,Memphis Grizzlies,91,DAL,Dallas Mavericks,90,RG
+http://www.basketball-reference.com/boxscores/201010290DET.html,201010290DET,OKC,Oklahoma City Thunder,105,DET,Detroit Pistons,104,RG
+http://www.basketball-reference.com/boxscores/201010290GSW.html,201010290GSW,LAC,Los Angeles Clippers,91,GSW,Golden State Warriors,109,RG
+http://www.basketball-reference.com/boxscores/201010290MIA.html,201010290MIA,ORL,Orlando Magic,70,MIA,Miami Heat,96,RG
+http://www.basketball-reference.com/boxscores/201010290MIN.html,201010290MIN,MIL,Milwaukee Bucks,85,MIN,Minnesota Timberwolves,96,RG
+http://www.basketball-reference.com/boxscores/201010290NJN.html,201010290NJN,SAC,Sacramento Kings,100,NJN,New Jersey Nets,106,RG
+http://www.basketball-reference.com/boxscores/201010290NOH.html,201010290NOH,DEN,Denver Nuggets,95,NOH,New Orleans Hornets,101,RG
+http://www.basketball-reference.com/boxscores/201010290PHI.html,201010290PHI,ATL,Atlanta Hawks,104,PHI,Philadelphia 76ers,101,RG
+http://www.basketball-reference.com/boxscores/201010290PHO.html,201010290PHO,LAL,Los Angeles Lakers,114,PHO,Phoenix Suns,106,RG
+http://www.basketball-reference.com/boxscores/201010290TOR.html,201010290TOR,CLE,Cleveland Cavaliers,81,TOR,Toronto Raptors,101,RG
+http://www.basketball-reference.com/boxscores/201010300ATL.html,201010300ATL,WAS,Washington Wizards,95,ATL,Atlanta Hawks,99,RG
+http://www.basketball-reference.com/boxscores/201010300CHI.html,201010300CHI,DET,Detroit Pistons,91,CHI,Chicago Bulls,101,RG
+http://www.basketball-reference.com/boxscores/201010300CLE.html,201010300CLE,SAC,Sacramento Kings,107,CLE,Cleveland Cavaliers,104,RG
+http://www.basketball-reference.com/boxscores/201010300HOU.html,201010300HOU,DEN,Denver Nuggets,107,HOU,Houston Rockets,94,RG
+http://www.basketball-reference.com/boxscores/201010300IND.html,201010300IND,PHI,Philadelphia 76ers,86,IND,Indiana Pacers,99,RG
+http://www.basketball-reference.com/boxscores/201010300MEM.html,201010300MEM,MIN,Minnesota Timberwolves,89,MEM,Memphis Grizzlies,109,RG
+http://www.basketball-reference.com/boxscores/201010300MIL.html,201010300MIL,CHA,Charlotte Bobcats,88,MIL,Milwaukee Bucks,98,RG
+http://www.basketball-reference.com/boxscores/201010300NYK.html,201010300NYK,POR,Portland Trail Blazers,100,NYK,New York Knicks,95,RG
+http://www.basketball-reference.com/boxscores/201010300SAS.html,201010300SAS,NOH,New Orleans Hornets,99,SAS,San Antonio Spurs,90,RG
+http://www.basketball-reference.com/boxscores/201010310LAC.html,201010310LAC,DAL,Dallas Mavericks,99,LAC,Los Angeles Clippers,83,RG
+http://www.basketball-reference.com/boxscores/201010310LAL.html,201010310LAL,GSW,Golden State Warriors,83,LAL,Los Angeles Lakers,107,RG
+http://www.basketball-reference.com/boxscores/201010310NJN.html,201010310NJN,MIA,Miami Heat,101,NJN,New Jersey Nets,78,RG
+http://www.basketball-reference.com/boxscores/201010310OKC.html,201010310OKC,UTA,Utah Jazz,120,OKC,Oklahoma City Thunder,99,RG
+http://www.basketball-reference.com/boxscores/201011010CHI.html,201011010CHI,POR,Portland Trail Blazers,98,CHI,Chicago Bulls,110,RG
+http://www.basketball-reference.com/boxscores/201011010LAC.html,201011010LAC,SAS,San Antonio Spurs,97,LAC,Los Angeles Clippers,88,RG
+http://www.basketball-reference.com/boxscores/201011010SAC.html,201011010SAC,TOR,Toronto Raptors,108,SAC,Sacramento Kings,111,RG
+http://www.basketball-reference.com/boxscores/201011020CLE.html,201011020CLE,ATL,Atlanta Hawks,100,CLE,Cleveland Cavaliers,88,RG
+http://www.basketball-reference.com/boxscores/201011020DET.html,201011020DET,BOS,Boston Celtics,109,DET,Detroit Pistons,86,RG
+http://www.basketball-reference.com/boxscores/201011020LAL.html,201011020LAL,MEM,Memphis Grizzlies,105,LAL,Los Angeles Lakers,124,RG
+http://www.basketball-reference.com/boxscores/201011020MIA.html,201011020MIA,MIN,Minnesota Timberwolves,97,MIA,Miami Heat,129,RG
+http://www.basketball-reference.com/boxscores/201011020MIL.html,201011020MIL,POR,Portland Trail Blazers,90,MIL,Milwaukee Bucks,76,RG
+http://www.basketball-reference.com/boxscores/201011020WAS.html,201011020WAS,PHI,Philadelphia 76ers,115,WAS,Washington Wizards,116,OT
+http://www.basketball-reference.com/boxscores/201011030ATL.html,201011030ATL,DET,Detroit Pistons,85,ATL,Atlanta Hawks,94,RG
+http://www.basketball-reference.com/boxscores/201011030BOS.html,201011030BOS,MIL,Milwaukee Bucks,102,BOS,Boston Celtics,105,OT
+http://www.basketball-reference.com/boxscores/201011030DEN.html,201011030DEN,DAL,Dallas Mavericks,102,DEN,Denver Nuggets,101,RG
+http://www.basketball-reference.com/boxscores/201011030GSW.html,201011030GSW,MEM,Memphis Grizzlies,109,GSW,Golden State Warriors,115,RG
+http://www.basketball-reference.com/boxscores/201011030HOU.html,201011030HOU,NOH,New Orleans Hornets,107,HOU,Houston Rockets,99,RG
+http://www.basketball-reference.com/boxscores/201011030LAC.html,201011030LAC,OKC,Oklahoma City Thunder,92,LAC,Los Angeles Clippers,107,RG
+http://www.basketball-reference.com/boxscores/201011030NJN.html,201011030NJN,CHA,Charlotte Bobcats,85,NJN,New Jersey Nets,83,RG
+http://www.basketball-reference.com/boxscores/201011030ORL.html,201011030ORL,MIN,Minnesota Timberwolves,86,ORL,Orlando Magic,128,RG
+http://www.basketball-reference.com/boxscores/201011030PHI.html,201011030PHI,IND,Indiana Pacers,75,PHI,Philadelphia 76ers,101,RG
+http://www.basketball-reference.com/boxscores/201011030PHO.html,201011030PHO,SAS,San Antonio Spurs,112,PHO,Phoenix Suns,110,RG
+http://www.basketball-reference.com/boxscores/201011030SAC.html,201011030SAC,LAL,Los Angeles Lakers,112,SAC,Sacramento Kings,100,RG
+http://www.basketball-reference.com/boxscores/201011030UTA.html,201011030UTA,TOR,Toronto Raptors,108,UTA,Utah Jazz,125,RG
+http://www.basketball-reference.com/boxscores/201011040CHI.html,201011040CHI,NYK,New York Knicks,120,CHI,Chicago Bulls,112,RG
+http://www.basketball-reference.com/boxscores/201011040POR.html,201011040POR,OKC,Oklahoma City Thunder,107,POR,Portland Trail Blazers,106,OT
+http://www.basketball-reference.com/boxscores/201011050BOS.html,201011050BOS,CHI,Chicago Bulls,105,BOS,Boston Celtics,110,OT
+http://www.basketball-reference.com/boxscores/201011050DEN.html,201011050DEN,LAC,Los Angeles Clippers,104,DEN,Denver Nuggets,111,RG
+http://www.basketball-reference.com/boxscores/201011050DET.html,201011050DET,CHA,Charlotte Bobcats,90,DET,Detroit Pistons,97,RG
+http://www.basketball-reference.com/boxscores/201011050GSW.html,201011050GSW,UTA,Utah Jazz,78,GSW,Golden State Warriors,85,RG
+http://www.basketball-reference.com/boxscores/201011050IND.html,201011050IND,MIL,Milwaukee Bucks,94,IND,Indiana Pacers,90,RG
+http://www.basketball-reference.com/boxscores/201011050LAL.html,201011050LAL,TOR,Toronto Raptors,103,LAL,Los Angeles Lakers,108,RG
+http://www.basketball-reference.com/boxscores/201011050MIN.html,201011050MIN,ATL,Atlanta Hawks,113,MIN,Minnesota Timberwolves,103,RG
+http://www.basketball-reference.com/boxscores/201011050NOH.html,201011050NOH,MIA,Miami Heat,93,NOH,New Orleans Hornets,96,RG
+http://www.basketball-reference.com/boxscores/201011050NYK.html,201011050NYK,WAS,Washington Wizards,91,NYK,New York Knicks,112,RG
+http://www.basketball-reference.com/boxscores/201011050ORL.html,201011050ORL,NJN,New Jersey Nets,90,ORL,Orlando Magic,105,RG
+http://www.basketball-reference.com/boxscores/201011050PHI.html,201011050PHI,CLE,Cleveland Cavaliers,123,PHI,Philadelphia 76ers,116,RG
+http://www.basketball-reference.com/boxscores/201011050PHO.html,201011050PHO,MEM,Memphis Grizzlies,118,PHO,Phoenix Suns,123,2OT
+http://www.basketball-reference.com/boxscores/201011060CHA.html,201011060CHA,ORL,Orlando Magic,91,CHA,Charlotte Bobcats,88,RG
+http://www.basketball-reference.com/boxscores/201011060DAL.html,201011060DAL,DEN,Denver Nuggets,103,DAL,Dallas Mavericks,92,RG
+http://www.basketball-reference.com/boxscores/201011060MIA.html,201011060MIA,NJN,New Jersey Nets,89,MIA,Miami Heat,101,RG
+http://www.basketball-reference.com/boxscores/201011060MIL.html,201011060MIL,NOH,New Orleans Hornets,87,MIL,Milwaukee Bucks,81,RG
+http://www.basketball-reference.com/boxscores/201011060POR.html,201011060POR,TOR,Toronto Raptors,84,POR,Portland Trail Blazers,97,RG
+http://www.basketball-reference.com/boxscores/201011060SAC.html,201011060SAC,MEM,Memphis Grizzlies,100,SAC,Sacramento Kings,91,RG
+http://www.basketball-reference.com/boxscores/201011060SAS.html,201011060SAS,HOU,Houston Rockets,121,SAS,San Antonio Spurs,124,OT
+http://www.basketball-reference.com/boxscores/201011060UTA.html,201011060UTA,LAC,Los Angeles Clippers,107,UTA,Utah Jazz,109,2OT
+http://www.basketball-reference.com/boxscores/201011060WAS.html,201011060WAS,CLE,Cleveland Cavaliers,107,WAS,Washington Wizards,102,RG
+http://www.basketball-reference.com/boxscores/201011070ATL.html,201011070ATL,PHO,Phoenix Suns,118,ATL,Atlanta Hawks,114,RG
+http://www.basketball-reference.com/boxscores/201011070DET.html,201011070DET,GSW,Golden State Warriors,97,DET,Detroit Pistons,102,RG
+http://www.basketball-reference.com/boxscores/201011070HOU.html,201011070HOU,MIN,Minnesota Timberwolves,94,HOU,Houston Rockets,120,RG
+http://www.basketball-reference.com/boxscores/201011070LAL.html,201011070LAL,POR,Portland Trail Blazers,96,LAL,Los Angeles Lakers,121,RG
+http://www.basketball-reference.com/boxscores/201011070NYK.html,201011070NYK,PHI,Philadelphia 76ers,106,NYK,New York Knicks,96,RG
+http://www.basketball-reference.com/boxscores/201011070OKC.html,201011070OKC,BOS,Boston Celtics,92,OKC,Oklahoma City Thunder,83,RG
+http://www.basketball-reference.com/boxscores/201011080CHA.html,201011080CHA,SAS,San Antonio Spurs,95,CHA,Charlotte Bobcats,91,RG
+http://www.basketball-reference.com/boxscores/201011080CHI.html,201011080CHI,DEN,Denver Nuggets,92,CHI,Chicago Bulls,94,RG
+http://www.basketball-reference.com/boxscores/201011080DAL.html,201011080DAL,BOS,Boston Celtics,87,DAL,Dallas Mavericks,89,RG
+http://www.basketball-reference.com/boxscores/201011080MEM.html,201011080MEM,PHO,Phoenix Suns,99,MEM,Memphis Grizzlies,109,RG
+http://www.basketball-reference.com/boxscores/201011080ORL.html,201011080ORL,ATL,Atlanta Hawks,89,ORL,Orlando Magic,93,RG
+http://www.basketball-reference.com/boxscores/201011080TOR.html,201011080TOR,GSW,Golden State Warriors,109,TOR,Toronto Raptors,102,RG
+http://www.basketball-reference.com/boxscores/201011090IND.html,201011090IND,DEN,Denver Nuggets,113,IND,Indiana Pacers,144,RG
+http://www.basketball-reference.com/boxscores/201011090LAL.html,201011090LAL,MIN,Minnesota Timberwolves,94,LAL,Los Angeles Lakers,99,RG
+http://www.basketball-reference.com/boxscores/201011090MIA.html,201011090MIA,UTA,Utah Jazz,116,MIA,Miami Heat,114,OT
+http://www.basketball-reference.com/boxscores/201011090MIL.html,201011090MIL,NYK,New York Knicks,80,MIL,Milwaukee Bucks,107,RG
+http://www.basketball-reference.com/boxscores/201011090NJN.html,201011090NJN,CLE,Cleveland Cavaliers,93,NJN,New Jersey Nets,91,RG
+http://www.basketball-reference.com/boxscores/201011090NOH.html,201011090NOH,LAC,Los Angeles Clippers,82,NOH,New Orleans Hornets,101,RG
+http://www.basketball-reference.com/boxscores/201011090POR.html,201011090POR,DET,Detroit Pistons,78,POR,Portland Trail Blazers,100,RG
+http://www.basketball-reference.com/boxscores/201011100ATL.html,201011100ATL,MIL,Milwaukee Bucks,108,ATL,Atlanta Hawks,91,RG
+http://www.basketball-reference.com/boxscores/201011100CLE.html,201011100CLE,NJN,New Jersey Nets,95,CLE,Cleveland Cavaliers,87,RG
+http://www.basketball-reference.com/boxscores/201011100MEM.html,201011100MEM,DAL,Dallas Mavericks,106,MEM,Memphis Grizzlies,91,RG
+http://www.basketball-reference.com/boxscores/201011100NYK.html,201011100NYK,GSW,Golden State Warriors,122,NYK,New York Knicks,117,RG
+http://www.basketball-reference.com/boxscores/201011100OKC.html,201011100OKC,PHI,Philadelphia 76ers,103,OKC,Oklahoma City Thunder,109,RG
+http://www.basketball-reference.com/boxscores/201011100ORL.html,201011100ORL,UTA,Utah Jazz,104,ORL,Orlando Magic,94,RG
+http://www.basketball-reference.com/boxscores/201011100SAC.html,201011100SAC,MIN,Minnesota Timberwolves,98,SAC,Sacramento Kings,89,RG
+http://www.basketball-reference.com/boxscores/201011100SAS.html,201011100SAS,LAC,Los Angeles Clippers,95,SAS,San Antonio Spurs,107,RG
+http://www.basketball-reference.com/boxscores/201011100TOR.html,201011100TOR,CHA,Charlotte Bobcats,101,TOR,Toronto Raptors,96,RG
+http://www.basketball-reference.com/boxscores/201011100WAS.html,201011100WAS,HOU,Houston Rockets,91,WAS,Washington Wizards,98,RG
+http://www.basketball-reference.com/boxscores/201011110CHI.html,201011110CHI,GSW,Golden State Warriors,90,CHI,Chicago Bulls,120,RG
+http://www.basketball-reference.com/boxscores/201011110DEN.html,201011110DEN,LAL,Los Angeles Lakers,112,DEN,Denver Nuggets,118,RG
+http://www.basketball-reference.com/boxscores/201011110MIA.html,201011110MIA,BOS,Boston Celtics,112,MIA,Miami Heat,107,RG
+http://www.basketball-reference.com/boxscores/201011120ATL.html,201011120ATL,UTA,Utah Jazz,90,ATL,Atlanta Hawks,86,RG
+http://www.basketball-reference.com/boxscores/201011120DAL.html,201011120DAL,PHI,Philadelphia 76ers,90,DAL,Dallas Mavericks,99,RG
+http://www.basketball-reference.com/boxscores/201011120IND.html,201011120IND,HOU,Houston Rockets,102,IND,Indiana Pacers,99,RG
+http://www.basketball-reference.com/boxscores/201011120LAC.html,201011120LAC,DET,Detroit Pistons,113,LAC,Los Angeles Clippers,107,OT
+http://www.basketball-reference.com/boxscores/201011120MIN.html,201011120MIN,NYK,New York Knicks,103,MIN,Minnesota Timberwolves,112,RG
+http://www.basketball-reference.com/boxscores/201011120OKC.html,201011120OKC,POR,Portland Trail Blazers,108,OKC,Oklahoma City Thunder,110,RG
+http://www.basketball-reference.com/boxscores/201011120ORL.html,201011120ORL,TOR,Toronto Raptors,110,ORL,Orlando Magic,106,RG
+http://www.basketball-reference.com/boxscores/201011120PHO.html,201011120PHO,SAC,Sacramento Kings,89,PHO,Phoenix Suns,103,RG
+http://www.basketball-reference.com/boxscores/201011120WAS.html,201011120WAS,CHA,Charlotte Bobcats,93,WAS,Washington Wizards,85,RG
+http://www.basketball-reference.com/boxscores/201011130CHA.html,201011130CHA,UTA,Utah Jazz,96,CHA,Charlotte Bobcats,95,RG
+http://www.basketball-reference.com/boxscores/201011130CHI.html,201011130CHI,WAS,Washington Wizards,96,CHI,Chicago Bulls,103,RG
+http://www.basketball-reference.com/boxscores/201011130CLE.html,201011130CLE,IND,Indiana Pacers,99,CLE,Cleveland Cavaliers,85,RG
+http://www.basketball-reference.com/boxscores/201011130MEM.html,201011130MEM,BOS,Boston Celtics,116,MEM,Memphis Grizzlies,110,OT
+http://www.basketball-reference.com/boxscores/201011130MIA.html,201011130MIA,TOR,Toronto Raptors,100,MIA,Miami Heat,109,RG
+http://www.basketball-reference.com/boxscores/201011130MIL.html,201011130MIL,GSW,Golden State Warriors,72,MIL,Milwaukee Bucks,79,RG
+http://www.basketball-reference.com/boxscores/201011130NJN.html,201011130NJN,ORL,Orlando Magic,91,NJN,New Jersey Nets,90,RG
+http://www.basketball-reference.com/boxscores/201011130NOH.html,201011130NOH,POR,Portland Trail Blazers,87,NOH,New Orleans Hornets,107,RG
+http://www.basketball-reference.com/boxscores/201011130SAS.html,201011130SAS,PHI,Philadelphia 76ers,93,SAS,San Antonio Spurs,116,RG
+http://www.basketball-reference.com/boxscores/201011140ATL.html,201011140ATL,MIN,Minnesota Timberwolves,105,ATL,Atlanta Hawks,111,RG
+http://www.basketball-reference.com/boxscores/201011140LAL.html,201011140LAL,PHO,Phoenix Suns,121,LAL,Los Angeles Lakers,116,RG
+http://www.basketball-reference.com/boxscores/201011140NYK.html,201011140NYK,HOU,Houston Rockets,104,NYK,New York Knicks,96,RG
+http://www.basketball-reference.com/boxscores/201011140OKC.html,201011140OKC,SAS,San Antonio Spurs,117,OKC,Oklahoma City Thunder,104,RG
+http://www.basketball-reference.com/boxscores/201011140SAC.html,201011140SAC,DET,Detroit Pistons,100,SAC,Sacramento Kings,94,RG
+http://www.basketball-reference.com/boxscores/201011150CHA.html,201011150CHA,MIN,Minnesota Timberwolves,110,CHA,Charlotte Bobcats,113,RG
+http://www.basketball-reference.com/boxscores/201011150DAL.html,201011150DAL,NOH,New Orleans Hornets,95,DAL,Dallas Mavericks,98,RG
+http://www.basketball-reference.com/boxscores/201011150GSW.html,201011150GSW,DET,Detroit Pistons,97,GSW,Golden State Warriors,101,RG
+http://www.basketball-reference.com/boxscores/201011150LAC.html,201011150LAC,NJN,New Jersey Nets,110,LAC,Los Angeles Clippers,96,RG
+http://www.basketball-reference.com/boxscores/201011150ORL.html,201011150ORL,MEM,Memphis Grizzlies,72,ORL,Orlando Magic,89,RG
+http://www.basketball-reference.com/boxscores/201011150PHO.html,201011150PHO,DEN,Denver Nuggets,94,PHO,Phoenix Suns,100,RG
+http://www.basketball-reference.com/boxscores/201011150UTA.html,201011150UTA,OKC,Oklahoma City Thunder,115,UTA,Utah Jazz,108,RG
+http://www.basketball-reference.com/boxscores/201011160CLE.html,201011160CLE,PHI,Philadelphia 76ers,93,CLE,Cleveland Cavaliers,101,RG
+http://www.basketball-reference.com/boxscores/201011160DEN.html,201011160DEN,NYK,New York Knicks,118,DEN,Denver Nuggets,120,RG
+http://www.basketball-reference.com/boxscores/201011160HOU.html,201011160HOU,CHI,Chicago Bulls,95,HOU,Houston Rockets,92,RG
+http://www.basketball-reference.com/boxscores/201011160IND.html,201011160IND,ATL,Atlanta Hawks,102,IND,Indiana Pacers,92,RG
+http://www.basketball-reference.com/boxscores/201011160MEM.html,201011160MEM,POR,Portland Trail Blazers,100,MEM,Memphis Grizzlies,99,RG
+http://www.basketball-reference.com/boxscores/201011160MIL.html,201011160MIL,LAL,Los Angeles Lakers,118,MIL,Milwaukee Bucks,107,RG
+http://www.basketball-reference.com/boxscores/201011160WAS.html,201011160WAS,TOR,Toronto Raptors,94,WAS,Washington Wizards,109,RG
+http://www.basketball-reference.com/boxscores/201011170BOS.html,201011170BOS,WAS,Washington Wizards,83,BOS,Boston Celtics,114,RG
+http://www.basketball-reference.com/boxscores/201011170DET.html,201011170DET,LAL,Los Angeles Lakers,103,DET,Detroit Pistons,90,RG
+http://www.basketball-reference.com/boxscores/201011170MIA.html,201011170MIA,PHO,Phoenix Suns,96,MIA,Miami Heat,123,RG
+http://www.basketball-reference.com/boxscores/201011170MIN.html,201011170MIN,LAC,Los Angeles Clippers,111,MIN,Minnesota Timberwolves,113,RG
+http://www.basketball-reference.com/boxscores/201011170NOH.html,201011170NOH,DAL,Dallas Mavericks,97,NOH,New Orleans Hornets,99,RG
+http://www.basketball-reference.com/boxscores/201011170OKC.html,201011170OKC,HOU,Houston Rockets,99,OKC,Oklahoma City Thunder,116,RG
+http://www.basketball-reference.com/boxscores/201011170PHI.html,201011170PHI,TOR,Toronto Raptors,94,PHI,Philadelphia 76ers,86,RG
+http://www.basketball-reference.com/boxscores/201011170SAC.html,201011170SAC,NYK,New York Knicks,113,SAC,Sacramento Kings,106,RG
+http://www.basketball-reference.com/boxscores/201011170SAS.html,201011170SAS,CHI,Chicago Bulls,94,SAS,San Antonio Spurs,103,RG
+http://www.basketball-reference.com/boxscores/201011170UTA.html,201011170UTA,NJN,New Jersey Nets,88,UTA,Utah Jazz,98,RG
+http://www.basketball-reference.com/boxscores/201011180IND.html,201011180IND,LAC,Los Angeles Clippers,80,IND,Indiana Pacers,107,RG
+http://www.basketball-reference.com/boxscores/201011180ORL.html,201011180ORL,PHO,Phoenix Suns,89,ORL,Orlando Magic,105,RG
+http://www.basketball-reference.com/boxscores/201011180POR.html,201011180POR,DEN,Denver Nuggets,83,POR,Portland Trail Blazers,86,RG
+http://www.basketball-reference.com/boxscores/201011190BOS.html,201011190BOS,OKC,Oklahoma City Thunder,89,BOS,Boston Celtics,84,RG
+http://www.basketball-reference.com/boxscores/201011190DAL.html,201011190DAL,CHI,Chicago Bulls,88,DAL,Dallas Mavericks,83,RG
+http://www.basketball-reference.com/boxscores/201011190GSW.html,201011190GSW,NYK,New York Knicks,125,GSW,Golden State Warriors,119,RG
+http://www.basketball-reference.com/boxscores/201011190MIA.html,201011190MIA,CHA,Charlotte Bobcats,87,MIA,Miami Heat,95,RG
+http://www.basketball-reference.com/boxscores/201011190MIN.html,201011190MIN,LAL,Los Angeles Lakers,112,MIN,Minnesota Timberwolves,95,RG
+http://www.basketball-reference.com/boxscores/201011190NOH.html,201011190NOH,CLE,Cleveland Cavaliers,101,NOH,New Orleans Hornets,108,RG
+http://www.basketball-reference.com/boxscores/201011190PHI.html,201011190PHI,MIL,Milwaukee Bucks,79,PHI,Philadelphia 76ers,90,RG
+http://www.basketball-reference.com/boxscores/201011190SAC.html,201011190SAC,NJN,New Jersey Nets,81,SAC,Sacramento Kings,86,RG
+http://www.basketball-reference.com/boxscores/201011190TOR.html,201011190TOR,HOU,Houston Rockets,96,TOR,Toronto Raptors,106,RG
+http://www.basketball-reference.com/boxscores/201011190UTA.html,201011190UTA,SAS,San Antonio Spurs,94,UTA,Utah Jazz,82,RG
+http://www.basketball-reference.com/boxscores/201011190WAS.html,201011190WAS,MEM,Memphis Grizzlies,86,WAS,Washington Wizards,89,RG
+http://www.basketball-reference.com/boxscores/201011200ATL.html,201011200ATL,DAL,Dallas Mavericks,98,ATL,Atlanta Hawks,93,RG
+http://www.basketball-reference.com/boxscores/201011200CHA.html,201011200CHA,PHO,Phoenix Suns,105,CHA,Charlotte Bobcats,123,RG
+http://www.basketball-reference.com/boxscores/201011200DEN.html,201011200DEN,NJN,New Jersey Nets,103,DEN,Denver Nuggets,107,RG
+http://www.basketball-reference.com/boxscores/201011200IND.html,201011200IND,ORL,Orlando Magic,90,IND,Indiana Pacers,86,RG
+http://www.basketball-reference.com/boxscores/201011200LAC.html,201011200LAC,NYK,New York Knicks,124,LAC,Los Angeles Clippers,115,RG
+http://www.basketball-reference.com/boxscores/201011200MEM.html,201011200MEM,MIA,Miami Heat,95,MEM,Memphis Grizzlies,97,RG
+http://www.basketball-reference.com/boxscores/201011200MIL.html,201011200MIL,OKC,Oklahoma City Thunder,82,MIL,Milwaukee Bucks,81,RG
+http://www.basketball-reference.com/boxscores/201011200POR.html,201011200POR,UTA,Utah Jazz,103,POR,Portland Trail Blazers,94,RG
+http://www.basketball-reference.com/boxscores/201011200SAS.html,201011200SAS,CLE,Cleveland Cavaliers,92,SAS,San Antonio Spurs,116,RG
+http://www.basketball-reference.com/boxscores/201011210DET.html,201011210DET,WAS,Washington Wizards,110,DET,Detroit Pistons,115,OT
+http://www.basketball-reference.com/boxscores/201011210LAL.html,201011210LAL,GSW,Golden State Warriors,89,LAL,Los Angeles Lakers,117,RG
+http://www.basketball-reference.com/boxscores/201011210SAC.html,201011210SAC,NOH,New Orleans Hornets,75,SAC,Sacramento Kings,71,RG
+http://www.basketball-reference.com/boxscores/201011210TOR.html,201011210TOR,BOS,Boston Celtics,101,TOR,Toronto Raptors,102,RG
+http://www.basketball-reference.com/boxscores/201011220ATL.html,201011220ATL,BOS,Boston Celtics,99,ATL,Atlanta Hawks,76,RG
+http://www.basketball-reference.com/boxscores/201011220GSW.html,201011220GSW,DEN,Denver Nuggets,106,GSW,Golden State Warriors,89,RG
+http://www.basketball-reference.com/boxscores/201011220HOU.html,201011220HOU,PHO,Phoenix Suns,123,HOU,Houston Rockets,116,RG
+http://www.basketball-reference.com/boxscores/201011220LAC.html,201011220LAC,NOH,New Orleans Hornets,95,LAC,Los Angeles Clippers,99,RG
+http://www.basketball-reference.com/boxscores/201011220MIA.html,201011220MIA,IND,Indiana Pacers,93,MIA,Miami Heat,77,RG
+http://www.basketball-reference.com/boxscores/201011220OKC.html,201011220OKC,MIN,Minnesota Timberwolves,107,OKC,Oklahoma City Thunder,117,RG
+http://www.basketball-reference.com/boxscores/201011220SAS.html,201011220SAS,ORL,Orlando Magic,97,SAS,San Antonio Spurs,106,RG
+http://www.basketball-reference.com/boxscores/201011220UTA.html,201011220UTA,SAC,Sacramento Kings,83,UTA,Utah Jazz,94,RG
+http://www.basketball-reference.com/boxscores/201011230DAL.html,201011230DAL,DET,Detroit Pistons,84,DAL,Dallas Mavericks,88,RG
+http://www.basketball-reference.com/boxscores/201011230IND.html,201011230IND,CLE,Cleveland Cavaliers,89,IND,Indiana Pacers,100,RG
+http://www.basketball-reference.com/boxscores/201011230LAL.html,201011230LAL,CHI,Chicago Bulls,91,LAL,Los Angeles Lakers,98,RG
+http://www.basketball-reference.com/boxscores/201011230NJN.html,201011230NJN,ATL,Atlanta Hawks,101,NJN,New Jersey Nets,107,OT
+http://www.basketball-reference.com/boxscores/201011230NYK.html,201011230NYK,CHA,Charlotte Bobcats,107,NYK,New York Knicks,110,RG
+http://www.basketball-reference.com/boxscores/201011230WAS.html,201011230WAS,PHI,Philadelphia 76ers,114,WAS,Washington Wizards,116,OT
+http://www.basketball-reference.com/boxscores/201011240BOS.html,201011240BOS,NJN,New Jersey Nets,83,BOS,Boston Celtics,89,RG
+http://www.basketball-reference.com/boxscores/201011240CHA.html,201011240CHA,NYK,New York Knicks,99,CHA,Charlotte Bobcats,95,RG
+http://www.basketball-reference.com/boxscores/201011240CLE.html,201011240CLE,MIL,Milwaukee Bucks,81,CLE,Cleveland Cavaliers,83,RG
+http://www.basketball-reference.com/boxscores/201011240HOU.html,201011240HOU,GSW,Golden State Warriors,101,HOU,Houston Rockets,111,RG
+http://www.basketball-reference.com/boxscores/201011240MEM.html,201011240MEM,DET,Detroit Pistons,84,MEM,Memphis Grizzlies,105,RG
+http://www.basketball-reference.com/boxscores/201011240MIN.html,201011240MIN,SAS,San Antonio Spurs,113,MIN,Minnesota Timberwolves,109,OT
+http://www.basketball-reference.com/boxscores/201011240OKC.html,201011240OKC,DAL,Dallas Mavericks,111,OKC,Oklahoma City Thunder,103,RG
+http://www.basketball-reference.com/boxscores/201011240ORL.html,201011240ORL,MIA,Miami Heat,95,ORL,Orlando Magic,104,RG
+http://www.basketball-reference.com/boxscores/201011240PHO.html,201011240PHO,CHI,Chicago Bulls,123,PHO,Phoenix Suns,115,2OT
+http://www.basketball-reference.com/boxscores/201011240TOR.html,201011240TOR,PHI,Philadelphia 76ers,90,TOR,Toronto Raptors,106,RG
+http://www.basketball-reference.com/boxscores/201011240UTA.html,201011240UTA,NOH,New Orleans Hornets,87,UTA,Utah Jazz,105,RG
+http://www.basketball-reference.com/boxscores/201011250ATL.html,201011250ATL,WAS,Washington Wizards,96,ATL,Atlanta Hawks,116,RG
+http://www.basketball-reference.com/boxscores/201011250LAC.html,201011250LAC,SAC,Sacramento Kings,82,LAC,Los Angeles Clippers,100,RG
+http://www.basketball-reference.com/boxscores/201011260BOS.html,201011260BOS,TOR,Toronto Raptors,101,BOS,Boston Celtics,110,RG
+http://www.basketball-reference.com/boxscores/201011260CHA.html,201011260CHA,HOU,Houston Rockets,89,CHA,Charlotte Bobcats,99,RG
+http://www.basketball-reference.com/boxscores/201011260DEN.html,201011260DEN,CHI,Chicago Bulls,97,DEN,Denver Nuggets,98,RG
+http://www.basketball-reference.com/boxscores/201011260DET.html,201011260DET,MIL,Milwaukee Bucks,89,DET,Detroit Pistons,103,RG
+http://www.basketball-reference.com/boxscores/201011260IND.html,201011260IND,OKC,Oklahoma City Thunder,110,IND,Indiana Pacers,106,OT
+http://www.basketball-reference.com/boxscores/201011260MEM.html,201011260MEM,GSW,Golden State Warriors,111,MEM,Memphis Grizzlies,116,RG
+http://www.basketball-reference.com/boxscores/201011260MIA.html,201011260MIA,PHI,Philadelphia 76ers,90,MIA,Miami Heat,99,RG
+http://www.basketball-reference.com/boxscores/201011260ORL.html,201011260ORL,CLE,Cleveland Cavaliers,100,ORL,Orlando Magic,111,RG
+http://www.basketball-reference.com/boxscores/201011260PHO.html,201011260PHO,LAC,Los Angeles Clippers,108,PHO,Phoenix Suns,116,RG
+http://www.basketball-reference.com/boxscores/201011260POR.html,201011260POR,NOH,New Orleans Hornets,97,POR,Portland Trail Blazers,78,RG
+http://www.basketball-reference.com/boxscores/201011260SAS.html,201011260SAS,DAL,Dallas Mavericks,103,SAS,San Antonio Spurs,94,RG
+http://www.basketball-reference.com/boxscores/201011260UTA.html,201011260UTA,LAL,Los Angeles Lakers,96,UTA,Utah Jazz,102,RG
+http://www.basketball-reference.com/boxscores/201011270CLE.html,201011270CLE,MEM,Memphis Grizzlies,86,CLE,Cleveland Cavaliers,92,RG
+http://www.basketball-reference.com/boxscores/201011270DAL.html,201011270DAL,MIA,Miami Heat,95,DAL,Dallas Mavericks,106,RG
+http://www.basketball-reference.com/boxscores/201011270MIL.html,201011270MIL,CHA,Charlotte Bobcats,101,MIL,Milwaukee Bucks,104,RG
+http://www.basketball-reference.com/boxscores/201011270MIN.html,201011270MIN,GSW,Golden State Warriors,104,MIN,Minnesota Timberwolves,94,RG
+http://www.basketball-reference.com/boxscores/201011270NYK.html,201011270NYK,ATL,Atlanta Hawks,99,NYK,New York Knicks,90,RG
+http://www.basketball-reference.com/boxscores/201011270PHI.html,201011270PHI,NJN,New Jersey Nets,86,PHI,Philadelphia 76ers,102,RG
+http://www.basketball-reference.com/boxscores/201011270SAC.html,201011270SAC,CHI,Chicago Bulls,96,SAC,Sacramento Kings,85,RG
+http://www.basketball-reference.com/boxscores/201011270WAS.html,201011270WAS,ORL,Orlando Magic,100,WAS,Washington Wizards,99,RG
+http://www.basketball-reference.com/boxscores/201011280DEN.html,201011280DEN,PHO,Phoenix Suns,133,DEN,Denver Nuggets,138,RG
+http://www.basketball-reference.com/boxscores/201011280DET.html,201011280DET,NYK,New York Knicks,125,DET,Detroit Pistons,116,2OT
+http://www.basketball-reference.com/boxscores/201011280HOU.html,201011280HOU,OKC,Oklahoma City Thunder,98,HOU,Houston Rockets,99,RG
+http://www.basketball-reference.com/boxscores/201011280LAC.html,201011280LAC,UTA,Utah Jazz,109,LAC,Los Angeles Clippers,97,RG
+http://www.basketball-reference.com/boxscores/201011280LAL.html,201011280LAL,IND,Indiana Pacers,95,LAL,Los Angeles Lakers,92,RG
+http://www.basketball-reference.com/boxscores/201011280NJN.html,201011280NJN,POR,Portland Trail Blazers,96,NJN,New Jersey Nets,98,RG
+http://www.basketball-reference.com/boxscores/201011280NOH.html,201011280NOH,SAS,San Antonio Spurs,109,NOH,New Orleans Hornets,95,RG
+http://www.basketball-reference.com/boxscores/201011280TOR.html,201011280TOR,ATL,Atlanta Hawks,96,TOR,Toronto Raptors,78,RG
+http://www.basketball-reference.com/boxscores/201011290DAL.html,201011290DAL,HOU,Houston Rockets,91,DAL,Dallas Mavericks,101,RG
+http://www.basketball-reference.com/boxscores/201011290MIA.html,201011290MIA,WAS,Washington Wizards,94,MIA,Miami Heat,105,RG
+http://www.basketball-reference.com/boxscores/201011290OKC.html,201011290OKC,NOH,New Orleans Hornets,89,OKC,Oklahoma City Thunder,95,RG
+http://www.basketball-reference.com/boxscores/201011290UTA.html,201011290UTA,MIL,Milwaukee Bucks,88,UTA,Utah Jazz,109,RG
+http://www.basketball-reference.com/boxscores/201011300CLE.html,201011300CLE,BOS,Boston Celtics,106,CLE,Cleveland Cavaliers,87,RG
+http://www.basketball-reference.com/boxscores/201011300GSW.html,201011300GSW,SAS,San Antonio Spurs,118,GSW,Golden State Warriors,98,RG
+http://www.basketball-reference.com/boxscores/201011300MEM.html,201011300MEM,LAL,Los Angeles Lakers,96,MEM,Memphis Grizzlies,98,RG
+http://www.basketball-reference.com/boxscores/201011300NYK.html,201011300NYK,NJN,New Jersey Nets,100,NYK,New York Knicks,111,RG
+http://www.basketball-reference.com/boxscores/201011300ORL.html,201011300ORL,DET,Detroit Pistons,79,ORL,Orlando Magic,90,RG
+http://www.basketball-reference.com/boxscores/201011300PHI.html,201011300PHI,POR,Portland Trail Blazers,79,PHI,Philadelphia 76ers,88,RG
+http://www.basketball-reference.com/boxscores/201011300SAC.html,201011300SAC,IND,Indiana Pacers,107,SAC,Sacramento Kings,98,RG
+http://www.basketball-reference.com/boxscores/201012010ATL.html,201012010ATL,MEM,Memphis Grizzlies,109,ATL,Atlanta Hawks,112,RG
+http://www.basketball-reference.com/boxscores/201012010BOS.html,201012010BOS,POR,Portland Trail Blazers,95,BOS,Boston Celtics,99,RG
+http://www.basketball-reference.com/boxscores/201012010CHI.html,201012010CHI,ORL,Orlando Magic,107,CHI,Chicago Bulls,78,RG
+http://www.basketball-reference.com/boxscores/201012010DAL.html,201012010DAL,MIN,Minnesota Timberwolves,86,DAL,Dallas Mavericks,100,RG
+http://www.basketball-reference.com/boxscores/201012010DEN.html,201012010DEN,MIL,Milwaukee Bucks,94,DEN,Denver Nuggets,105,RG
+http://www.basketball-reference.com/boxscores/201012010HOU.html,201012010HOU,LAL,Los Angeles Lakers,99,HOU,Houston Rockets,109,RG
+http://www.basketball-reference.com/boxscores/201012010LAC.html,201012010LAC,SAS,San Antonio Spurs,85,LAC,Los Angeles Clippers,90,RG
+http://www.basketball-reference.com/boxscores/201012010MIA.html,201012010MIA,DET,Detroit Pistons,72,MIA,Miami Heat,97,RG
+http://www.basketball-reference.com/boxscores/201012010NJN.html,201012010NJN,OKC,Oklahoma City Thunder,123,NJN,New Jersey Nets,120,3OT
+http://www.basketball-reference.com/boxscores/201012010NOH.html,201012010NOH,CHA,Charlotte Bobcats,73,NOH,New Orleans Hornets,89,RG
+http://www.basketball-reference.com/boxscores/201012010TOR.html,201012010TOR,WAS,Washington Wizards,108,TOR,Toronto Raptors,127,RG
+http://www.basketball-reference.com/boxscores/201012010UTA.html,201012010UTA,IND,Indiana Pacers,88,UTA,Utah Jazz,110,RG
+http://www.basketball-reference.com/boxscores/201012020CLE.html,201012020CLE,MIA,Miami Heat,118,CLE,Cleveland Cavaliers,90,RG
+http://www.basketball-reference.com/boxscores/201012020GSW.html,201012020GSW,PHO,Phoenix Suns,107,GSW,Golden State Warriors,101,RG
+http://www.basketball-reference.com/boxscores/201012030ATL.html,201012030ATL,PHI,Philadelphia 76ers,88,ATL,Atlanta Hawks,93,RG
+http://www.basketball-reference.com/boxscores/201012030BOS.html,201012030BOS,CHI,Chicago Bulls,92,BOS,Boston Celtics,104,RG
+http://www.basketball-reference.com/boxscores/201012030CHA.html,201012030CHA,NJN,New Jersey Nets,84,CHA,Charlotte Bobcats,91,OT
+http://www.basketball-reference.com/boxscores/201012030DEN.html,201012030DEN,LAC,Los Angeles Clippers,104,DEN,Denver Nuggets,109,RG
+http://www.basketball-reference.com/boxscores/201012030DET.html,201012030DET,ORL,Orlando Magic,104,DET,Detroit Pistons,91,RG
+http://www.basketball-reference.com/boxscores/201012030LAL.html,201012030LAL,SAC,Sacramento Kings,80,LAL,Los Angeles Lakers,113,RG
+http://www.basketball-reference.com/boxscores/201012030MEM.html,201012030MEM,HOU,Houston Rockets,127,MEM,Memphis Grizzlies,111,RG
+http://www.basketball-reference.com/boxscores/201012030NOH.html,201012030NOH,NYK,New York Knicks,100,NOH,New Orleans Hornets,92,RG
+http://www.basketball-reference.com/boxscores/201012030PHO.html,201012030PHO,IND,Indiana Pacers,97,PHO,Phoenix Suns,105,RG
+http://www.basketball-reference.com/boxscores/201012030SAS.html,201012030SAS,MIN,Minnesota Timberwolves,101,SAS,San Antonio Spurs,107,RG
+http://www.basketball-reference.com/boxscores/201012030TOR.html,201012030TOR,OKC,Oklahoma City Thunder,99,TOR,Toronto Raptors,111,RG
+http://www.basketball-reference.com/boxscores/201012030UTA.html,201012030UTA,DAL,Dallas Mavericks,93,UTA,Utah Jazz,81,RG
+http://www.basketball-reference.com/boxscores/201012030WAS.html,201012030WAS,POR,Portland Trail Blazers,79,WAS,Washington Wizards,83,RG
+http://www.basketball-reference.com/boxscores/201012040CHI.html,201012040CHI,HOU,Houston Rockets,116,CHI,Chicago Bulls,119,OT
+http://www.basketball-reference.com/boxscores/201012040MIA.html,201012040MIA,ATL,Atlanta Hawks,77,MIA,Miami Heat,89,RG
+http://www.basketball-reference.com/boxscores/201012040MIL.html,201012040MIL,ORL,Orlando Magic,85,MIL,Milwaukee Bucks,96,RG
+http://www.basketball-reference.com/boxscores/201012040MIN.html,201012040MIN,CLE,Cleveland Cavaliers,95,MIN,Minnesota Timberwolves,129,RG
+http://www.basketball-reference.com/boxscores/201012040PHI.html,201012040PHI,CHA,Charlotte Bobcats,91,PHI,Philadelphia 76ers,109,RG
+http://www.basketball-reference.com/boxscores/201012040SAC.html,201012040SAC,DAL,Dallas Mavericks,105,SAC,Sacramento Kings,103,RG
+http://www.basketball-reference.com/boxscores/201012050DEN.html,201012050DEN,MEM,Memphis Grizzlies,107,DEN,Denver Nuggets,108,RG
+http://www.basketball-reference.com/boxscores/201012050DET.html,201012050DET,CLE,Cleveland Cavaliers,92,DET,Detroit Pistons,102,RG
+http://www.basketball-reference.com/boxscores/201012050NJN.html,201012050NJN,BOS,Boston Celtics,100,NJN,New Jersey Nets,75,RG
+http://www.basketball-reference.com/boxscores/201012050OKC.html,201012050OKC,GSW,Golden State Warriors,109,OKC,Oklahoma City Thunder,114,RG
+http://www.basketball-reference.com/boxscores/201012050PHO.html,201012050PHO,WAS,Washington Wizards,108,PHO,Phoenix Suns,125,RG
+http://www.basketball-reference.com/boxscores/201012050POR.html,201012050POR,LAC,Los Angeles Clippers,91,POR,Portland Trail Blazers,100,RG
+http://www.basketball-reference.com/boxscores/201012050SAS.html,201012050SAS,NOH,New Orleans Hornets,84,SAS,San Antonio Spurs,109,RG
+http://www.basketball-reference.com/boxscores/201012050TOR.html,201012050TOR,NYK,New York Knicks,116,TOR,Toronto Raptors,99,RG
+http://www.basketball-reference.com/boxscores/201012060CHI.html,201012060CHI,OKC,Oklahoma City Thunder,90,CHI,Chicago Bulls,99,RG
+http://www.basketball-reference.com/boxscores/201012060IND.html,201012060IND,TOR,Toronto Raptors,100,IND,Indiana Pacers,124,RG
+http://www.basketball-reference.com/boxscores/201012060LAC.html,201012060LAC,SAC,Sacramento Kings,91,LAC,Los Angeles Clippers,98,RG
+http://www.basketball-reference.com/boxscores/201012060MIL.html,201012060MIL,MIA,Miami Heat,88,MIL,Milwaukee Bucks,78,RG
+http://www.basketball-reference.com/boxscores/201012060NYK.html,201012060NYK,MIN,Minnesota Timberwolves,114,NYK,New York Knicks,121,RG
+http://www.basketball-reference.com/boxscores/201012060ORL.html,201012060ORL,ATL,Atlanta Hawks,80,ORL,Orlando Magic,74,RG
+http://www.basketball-reference.com/boxscores/201012060UTA.html,201012060UTA,MEM,Memphis Grizzlies,85,UTA,Utah Jazz,94,RG
+http://www.basketball-reference.com/boxscores/201012070ATL.html,201012070ATL,NJN,New Jersey Nets,101,ATL,Atlanta Hawks,116,RG
+http://www.basketball-reference.com/boxscores/201012070CHA.html,201012070CHA,DEN,Denver Nuggets,98,CHA,Charlotte Bobcats,100,RG
+http://www.basketball-reference.com/boxscores/201012070DAL.html,201012070DAL,GSW,Golden State Warriors,100,DAL,Dallas Mavericks,105,RG
+http://www.basketball-reference.com/boxscores/201012070HOU.html,201012070HOU,DET,Detroit Pistons,83,HOU,Houston Rockets,97,RG
+http://www.basketball-reference.com/boxscores/201012070LAL.html,201012070LAL,WAS,Washington Wizards,108,LAL,Los Angeles Lakers,115,RG
+http://www.basketball-reference.com/boxscores/201012070PHI.html,201012070PHI,CLE,Cleveland Cavaliers,97,PHI,Philadelphia 76ers,117,RG
+http://www.basketball-reference.com/boxscores/201012070POR.html,201012070POR,PHO,Phoenix Suns,99,POR,Portland Trail Blazers,106,RG
+http://www.basketball-reference.com/boxscores/201012080BOS.html,201012080BOS,DEN,Denver Nuggets,89,BOS,Boston Celtics,105,RG
+http://www.basketball-reference.com/boxscores/201012080CLE.html,201012080CLE,CHI,Chicago Bulls,88,CLE,Cleveland Cavaliers,83,RG
+http://www.basketball-reference.com/boxscores/201012080LAC.html,201012080LAC,LAL,Los Angeles Lakers,87,LAC,Los Angeles Clippers,86,RG
+http://www.basketball-reference.com/boxscores/201012080MIL.html,201012080MIL,IND,Indiana Pacers,95,MIL,Milwaukee Bucks,97,RG
+http://www.basketball-reference.com/boxscores/201012080MIN.html,201012080MIN,OKC,Oklahoma City Thunder,111,MIN,Minnesota Timberwolves,103,RG
+http://www.basketball-reference.com/boxscores/201012080NOH.html,201012080NOH,DET,Detroit Pistons,74,NOH,New Orleans Hornets,93,RG
+http://www.basketball-reference.com/boxscores/201012080NYK.html,201012080NYK,TOR,Toronto Raptors,110,NYK,New York Knicks,113,RG
+http://www.basketball-reference.com/boxscores/201012080PHO.html,201012080PHO,MEM,Memphis Grizzlies,104,PHO,Phoenix Suns,98,OT
+http://www.basketball-reference.com/boxscores/201012080SAC.html,201012080SAC,WAS,Washington Wizards,91,SAC,Sacramento Kings,116,RG
+http://www.basketball-reference.com/boxscores/201012080SAS.html,201012080SAS,GSW,Golden State Warriors,94,SAS,San Antonio Spurs,111,RG
+http://www.basketball-reference.com/boxscores/201012080UTA.html,201012080UTA,MIA,Miami Heat,111,UTA,Utah Jazz,98,RG
+http://www.basketball-reference.com/boxscores/201012090DAL.html,201012090DAL,NJN,New Jersey Nets,89,DAL,Dallas Mavericks,102,RG
+http://www.basketball-reference.com/boxscores/201012090PHI.html,201012090PHI,BOS,Boston Celtics,102,PHI,Philadelphia 76ers,101,RG
+http://www.basketball-reference.com/boxscores/201012090POR.html,201012090POR,ORL,Orlando Magic,83,POR,Portland Trail Blazers,97,RG
+http://www.basketball-reference.com/boxscores/201012100CHI.html,201012100CHI,LAL,Los Angeles Lakers,84,CHI,Chicago Bulls,88,RG
+http://www.basketball-reference.com/boxscores/201012100GSW.html,201012100GSW,MIA,Miami Heat,106,GSW,Golden State Warriors,84,RG
+http://www.basketball-reference.com/boxscores/201012100IND.html,201012100IND,CHA,Charlotte Bobcats,92,IND,Indiana Pacers,100,RG
+http://www.basketball-reference.com/boxscores/201012100MIL.html,201012100MIL,HOU,Houston Rockets,91,MIL,Milwaukee Bucks,97,RG
+http://www.basketball-reference.com/boxscores/201012100MIN.html,201012100MIN,DET,Detroit Pistons,99,MIN,Minnesota Timberwolves,109,RG
+http://www.basketball-reference.com/boxscores/201012100NOH.html,201012100NOH,OKC,Oklahoma City Thunder,97,NOH,New Orleans Hornets,92,RG
+http://www.basketball-reference.com/boxscores/201012100PHO.html,201012100PHO,POR,Portland Trail Blazers,101,PHO,Phoenix Suns,94,RG
+http://www.basketball-reference.com/boxscores/201012100SAS.html,201012100SAS,ATL,Atlanta Hawks,92,SAS,San Antonio Spurs,108,RG
+http://www.basketball-reference.com/boxscores/201012100TOR.html,201012100TOR,DEN,Denver Nuggets,123,TOR,Toronto Raptors,116,RG
+http://www.basketball-reference.com/boxscores/201012100UTA.html,201012100UTA,ORL,Orlando Magic,105,UTA,Utah Jazz,117,RG
+http://www.basketball-reference.com/boxscores/201012100WAS.html,201012100WAS,NYK,New York Knicks,101,WAS,Washington Wizards,95,RG
+http://www.basketball-reference.com/boxscores/201012110ATL.html,201012110ATL,IND,Indiana Pacers,83,ATL,Atlanta Hawks,97,RG
+http://www.basketball-reference.com/boxscores/201012110CHA.html,201012110CHA,BOS,Boston Celtics,93,CHA,Charlotte Bobcats,62,RG
+http://www.basketball-reference.com/boxscores/201012110CHI.html,201012110CHI,MIN,Minnesota Timberwolves,82,CHI,Chicago Bulls,113,RG
+http://www.basketball-reference.com/boxscores/201012110DAL.html,201012110DAL,UTA,Utah Jazz,97,DAL,Dallas Mavericks,103,RG
+http://www.basketball-reference.com/boxscores/201012110DET.html,201012110DET,TOR,Toronto Raptors,120,DET,Detroit Pistons,116,RG
+http://www.basketball-reference.com/boxscores/201012110HOU.html,201012110HOU,CLE,Cleveland Cavaliers,95,HOU,Houston Rockets,110,RG
+http://www.basketball-reference.com/boxscores/201012110LAC.html,201012110LAC,MEM,Memphis Grizzlies,84,LAC,Los Angeles Clippers,83,RG
+http://www.basketball-reference.com/boxscores/201012110SAC.html,201012110SAC,MIA,Miami Heat,104,SAC,Sacramento Kings,83,RG
+http://www.basketball-reference.com/boxscores/201012120LAC.html,201012120LAC,ORL,Orlando Magic,94,LAC,Los Angeles Clippers,85,RG
+http://www.basketball-reference.com/boxscores/201012120NJN.html,201012120NJN,LAL,Los Angeles Lakers,99,NJN,New Jersey Nets,92,RG
+http://www.basketball-reference.com/boxscores/201012120NYK.html,201012120NYK,DEN,Denver Nuggets,125,NYK,New York Knicks,129,RG
+http://www.basketball-reference.com/boxscores/201012120OKC.html,201012120OKC,CLE,Cleveland Cavaliers,77,OKC,Oklahoma City Thunder,106,RG
+http://www.basketball-reference.com/boxscores/201012120PHI.html,201012120PHI,NOH,New Orleans Hornets,70,PHI,Philadelphia 76ers,88,RG
+http://www.basketball-reference.com/boxscores/201012120SAS.html,201012120SAS,POR,Portland Trail Blazers,78,SAS,San Antonio Spurs,95,RG
+http://www.basketball-reference.com/boxscores/201012130CHI.html,201012130CHI,IND,Indiana Pacers,73,CHI,Chicago Bulls,92,RG
+http://www.basketball-reference.com/boxscores/201012130DAL.html,201012130DAL,MIL,Milwaukee Bucks,103,DAL,Dallas Mavericks,99,RG
+http://www.basketball-reference.com/boxscores/201012130MEM.html,201012130MEM,POR,Portland Trail Blazers,73,MEM,Memphis Grizzlies,86,RG
+http://www.basketball-reference.com/boxscores/201012130MIA.html,201012130MIA,NOH,New Orleans Hornets,84,MIA,Miami Heat,96,RG
+http://www.basketball-reference.com/boxscores/201012130UTA.html,201012130UTA,GSW,Golden State Warriors,95,UTA,Utah Jazz,108,RG
+http://www.basketball-reference.com/boxscores/201012140CHA.html,201012140CHA,TOR,Toronto Raptors,91,CHA,Charlotte Bobcats,97,RG
+http://www.basketball-reference.com/boxscores/201012140DEN.html,201012140DEN,ORL,Orlando Magic,94,DEN,Denver Nuggets,111,RG
+http://www.basketball-reference.com/boxscores/201012140DET.html,201012140DET,ATL,Atlanta Hawks,80,DET,Detroit Pistons,103,RG
+http://www.basketball-reference.com/boxscores/201012140GSW.html,201012140GSW,MIN,Minnesota Timberwolves,99,GSW,Golden State Warriors,108,RG
+http://www.basketball-reference.com/boxscores/201012140HOU.html,201012140HOU,SAC,Sacramento Kings,105,HOU,Houston Rockets,118,RG
+http://www.basketball-reference.com/boxscores/201012140NJN.html,201012140NJN,PHI,Philadelphia 76ers,82,NJN,New Jersey Nets,77,RG
+http://www.basketball-reference.com/boxscores/201012140WAS.html,201012140WAS,LAL,Los Angeles Lakers,103,WAS,Washington Wizards,89,RG
+http://www.basketball-reference.com/boxscores/201012150DAL.html,201012150DAL,POR,Portland Trail Blazers,98,DAL,Dallas Mavericks,103,RG
+http://www.basketball-reference.com/boxscores/201012150IND.html,201012150IND,LAL,Los Angeles Lakers,109,IND,Indiana Pacers,94,RG
+http://www.basketball-reference.com/boxscores/201012150MEM.html,201012150MEM,CHA,Charlotte Bobcats,80,MEM,Memphis Grizzlies,113,RG
+http://www.basketball-reference.com/boxscores/201012150MIA.html,201012150MIA,CLE,Cleveland Cavaliers,95,MIA,Miami Heat,101,RG
+http://www.basketball-reference.com/boxscores/201012150NOH.html,201012150NOH,SAC,Sacramento Kings,91,NOH,New Orleans Hornets,94,RG
+http://www.basketball-reference.com/boxscores/201012150NYK.html,201012150NYK,BOS,Boston Celtics,118,NYK,New York Knicks,116,RG
+http://www.basketball-reference.com/boxscores/201012150OKC.html,201012150OKC,HOU,Houston Rockets,105,OKC,Oklahoma City Thunder,117,RG
+http://www.basketball-reference.com/boxscores/201012150PHI.html,201012150PHI,LAC,Los Angeles Clippers,91,PHI,Philadelphia 76ers,105,RG
+http://www.basketball-reference.com/boxscores/201012150PHO.html,201012150PHO,MIN,Minnesota Timberwolves,122,PHO,Phoenix Suns,128,RG
+http://www.basketball-reference.com/boxscores/201012150SAS.html,201012150SAS,MIL,Milwaukee Bucks,90,SAS,San Antonio Spurs,92,RG
+http://www.basketball-reference.com/boxscores/201012150TOR.html,201012150TOR,CHI,Chicago Bulls,110,TOR,Toronto Raptors,93,RG
+http://www.basketball-reference.com/boxscores/201012160BOS.html,201012160BOS,ATL,Atlanta Hawks,90,BOS,Boston Celtics,102,RG
+http://www.basketball-reference.com/boxscores/201012160DEN.html,201012160DEN,SAS,San Antonio Spurs,113,DEN,Denver Nuggets,112,RG
+http://www.basketball-reference.com/boxscores/201012160NJN.html,201012160NJN,WAS,Washington Wizards,89,NJN,New Jersey Nets,97,RG
+http://www.basketball-reference.com/boxscores/201012170ATL.html,201012170ATL,CHA,Charlotte Bobcats,85,ATL,Atlanta Hawks,90,RG
+http://www.basketball-reference.com/boxscores/201012170DAL.html,201012170DAL,PHO,Phoenix Suns,91,DAL,Dallas Mavericks,106,RG
+http://www.basketball-reference.com/boxscores/201012170DET.html,201012170DET,LAC,Los Angeles Clippers,109,DET,Detroit Pistons,88,RG
+http://www.basketball-reference.com/boxscores/201012170HOU.html,201012170HOU,MEM,Memphis Grizzlies,87,HOU,Houston Rockets,103,RG
+http://www.basketball-reference.com/boxscores/201012170IND.html,201012170IND,CLE,Cleveland Cavaliers,99,IND,Indiana Pacers,108,RG
+http://www.basketball-reference.com/boxscores/201012170NOH.html,201012170NOH,UTA,Utah Jazz,71,NOH,New Orleans Hornets,100,RG
+http://www.basketball-reference.com/boxscores/201012170NYK.html,201012170NYK,MIA,Miami Heat,113,NYK,New York Knicks,91,RG
+http://www.basketball-reference.com/boxscores/201012170OKC.html,201012170OKC,SAC,Sacramento Kings,87,OKC,Oklahoma City Thunder,102,RG
+http://www.basketball-reference.com/boxscores/201012170PHI.html,201012170PHI,LAL,Los Angeles Lakers,93,PHI,Philadelphia 76ers,81,RG
+http://www.basketball-reference.com/boxscores/201012170POR.html,201012170POR,MIN,Minnesota Timberwolves,102,POR,Portland Trail Blazers,107,RG
+http://www.basketball-reference.com/boxscores/201012170TOR.html,201012170TOR,NJN,New Jersey Nets,92,TOR,Toronto Raptors,98,RG
+http://www.basketball-reference.com/boxscores/201012180CHI.html,201012180CHI,LAC,Los Angeles Clippers,100,CHI,Chicago Bulls,99,RG
+http://www.basketball-reference.com/boxscores/201012180CLE.html,201012180CLE,NYK,New York Knicks,102,CLE,Cleveland Cavaliers,109,OT
+http://www.basketball-reference.com/boxscores/201012180DEN.html,201012180DEN,MIN,Minnesota Timberwolves,113,DEN,Denver Nuggets,115,RG
+http://www.basketball-reference.com/boxscores/201012180MIL.html,201012180MIL,UTA,Utah Jazz,95,MIL,Milwaukee Bucks,86,RG
+http://www.basketball-reference.com/boxscores/201012180ORL.html,201012180ORL,PHI,Philadelphia 76ers,97,ORL,Orlando Magic,89,RG
+http://www.basketball-reference.com/boxscores/201012180POR.html,201012180POR,GSW,Golden State Warriors,95,POR,Portland Trail Blazers,96,RG
+http://www.basketball-reference.com/boxscores/201012180SAS.html,201012180SAS,MEM,Memphis Grizzlies,106,SAS,San Antonio Spurs,112,OT
+http://www.basketball-reference.com/boxscores/201012180WAS.html,201012180WAS,MIA,Miami Heat,95,WAS,Washington Wizards,94,RG
+http://www.basketball-reference.com/boxscores/201012190BOS.html,201012190BOS,IND,Indiana Pacers,88,BOS,Boston Celtics,99,RG
+http://www.basketball-reference.com/boxscores/201012190DET.html,201012190DET,NOH,New Orleans Hornets,108,DET,Detroit Pistons,111,OT
+http://www.basketball-reference.com/boxscores/201012190NJN.html,201012190NJN,ATL,Atlanta Hawks,82,NJN,New Jersey Nets,89,RG
+http://www.basketball-reference.com/boxscores/201012190OKC.html,201012190OKC,PHO,Phoenix Suns,113,OKC,Oklahoma City Thunder,110,RG
+http://www.basketball-reference.com/boxscores/201012190SAC.html,201012190SAC,HOU,Houston Rockets,102,SAC,Sacramento Kings,93,RG
+http://www.basketball-reference.com/boxscores/201012190TOR.html,201012190TOR,LAL,Los Angeles Lakers,120,TOR,Toronto Raptors,110,RG
+http://www.basketball-reference.com/boxscores/201012200ATL.html,201012200ATL,ORL,Orlando Magic,81,ATL,Atlanta Hawks,91,RG
+http://www.basketball-reference.com/boxscores/201012200CLE.html,201012200CLE,UTA,Utah Jazz,101,CLE,Cleveland Cavaliers,90,RG
+http://www.basketball-reference.com/boxscores/201012200GSW.html,201012200GSW,HOU,Houston Rockets,121,GSW,Golden State Warriors,112,RG
+http://www.basketball-reference.com/boxscores/201012200IND.html,201012200IND,NOH,New Orleans Hornets,93,IND,Indiana Pacers,94,RG
+http://www.basketball-reference.com/boxscores/201012200LAC.html,201012200LAC,MIN,Minnesota Timberwolves,90,LAC,Los Angeles Clippers,113,RG
+http://www.basketball-reference.com/boxscores/201012200MIA.html,201012200MIA,DAL,Dallas Mavericks,98,MIA,Miami Heat,96,RG
+http://www.basketball-reference.com/boxscores/201012200POR.html,201012200POR,MIL,Milwaukee Bucks,80,POR,Portland Trail Blazers,106,RG
+http://www.basketball-reference.com/boxscores/201012200SAS.html,201012200SAS,PHO,Phoenix Suns,110,SAS,San Antonio Spurs,118,RG
+http://www.basketball-reference.com/boxscores/201012200WAS.html,201012200WAS,CHA,Charlotte Bobcats,75,WAS,Washington Wizards,108,RG
+http://www.basketball-reference.com/boxscores/201012210CHA.html,201012210CHA,OKC,Oklahoma City Thunder,99,CHA,Charlotte Bobcats,81,RG
+http://www.basketball-reference.com/boxscores/201012210CHI.html,201012210CHI,PHI,Philadelphia 76ers,76,CHI,Chicago Bulls,121,RG
+http://www.basketball-reference.com/boxscores/201012210LAL.html,201012210LAL,MIL,Milwaukee Bucks,98,LAL,Los Angeles Lakers,79,RG
+http://www.basketball-reference.com/boxscores/201012210MEM.html,201012210MEM,NJN,New Jersey Nets,101,MEM,Memphis Grizzlies,94,RG
+http://www.basketball-reference.com/boxscores/201012210ORL.html,201012210ORL,DAL,Dallas Mavericks,105,ORL,Orlando Magic,99,RG
+http://www.basketball-reference.com/boxscores/201012210SAC.html,201012210SAC,GSW,Golden State Warriors,117,SAC,Sacramento Kings,109,OT
+http://www.basketball-reference.com/boxscores/201012220ATL.html,201012220ATL,CLE,Cleveland Cavaliers,84,ATL,Atlanta Hawks,98,RG
+http://www.basketball-reference.com/boxscores/201012220BOS.html,201012220BOS,PHI,Philadelphia 76ers,80,BOS,Boston Celtics,84,RG
+http://www.basketball-reference.com/boxscores/201012220LAC.html,201012220LAC,HOU,Houston Rockets,97,LAC,Los Angeles Clippers,92,RG
+http://www.basketball-reference.com/boxscores/201012220MIN.html,201012220MIN,UTA,Utah Jazz,112,MIN,Minnesota Timberwolves,107,RG
+http://www.basketball-reference.com/boxscores/201012220NOH.html,201012220NOH,NJN,New Jersey Nets,91,NOH,New Orleans Hornets,105,RG
+http://www.basketball-reference.com/boxscores/201012220NYK.html,201012220NYK,OKC,Oklahoma City Thunder,98,NYK,New York Knicks,112,RG
+http://www.basketball-reference.com/boxscores/201012220SAS.html,201012220SAS,DEN,Denver Nuggets,103,SAS,San Antonio Spurs,109,RG
+http://www.basketball-reference.com/boxscores/201012220TOR.html,201012220TOR,DET,Detroit Pistons,115,TOR,Toronto Raptors,93,RG
+http://www.basketball-reference.com/boxscores/201012220WAS.html,201012220WAS,CHI,Chicago Bulls,87,WAS,Washington Wizards,80,RG
+http://www.basketball-reference.com/boxscores/201012230ORL.html,201012230ORL,SAS,San Antonio Spurs,101,ORL,Orlando Magic,123,RG
+http://www.basketball-reference.com/boxscores/201012230PHO.html,201012230PHO,MIA,Miami Heat,95,PHO,Phoenix Suns,83,RG
+http://www.basketball-reference.com/boxscores/201012230SAC.html,201012230SAC,MIL,Milwaukee Bucks,84,SAC,Sacramento Kings,79,RG
+http://www.basketball-reference.com/boxscores/201012250GSW.html,201012250GSW,POR,Portland Trail Blazers,102,GSW,Golden State Warriors,109,RG
+http://www.basketball-reference.com/boxscores/201012250LAL.html,201012250LAL,MIA,Miami Heat,96,LAL,Los Angeles Lakers,80,RG
+http://www.basketball-reference.com/boxscores/201012250NYK.html,201012250NYK,CHI,Chicago Bulls,95,NYK,New York Knicks,103,RG
+http://www.basketball-reference.com/boxscores/201012250OKC.html,201012250OKC,DEN,Denver Nuggets,106,OKC,Oklahoma City Thunder,114,RG
+http://www.basketball-reference.com/boxscores/201012250ORL.html,201012250ORL,BOS,Boston Celtics,78,ORL,Orlando Magic,86,RG
+http://www.basketball-reference.com/boxscores/201012260CLE.html,201012260CLE,MIN,Minnesota Timberwolves,98,CLE,Cleveland Cavaliers,97,RG
+http://www.basketball-reference.com/boxscores/201012260DEN.html,201012260DEN,PHI,Philadelphia 76ers,95,DEN,Denver Nuggets,89,RG
+http://www.basketball-reference.com/boxscores/201012260DET.html,201012260DET,CHI,Chicago Bulls,95,DET,Detroit Pistons,92,OT
+http://www.basketball-reference.com/boxscores/201012260IND.html,201012260IND,MEM,Memphis Grizzlies,104,IND,Indiana Pacers,90,RG
+http://www.basketball-reference.com/boxscores/201012260LAC.html,201012260LAC,PHO,Phoenix Suns,103,LAC,Los Angeles Clippers,108,RG
+http://www.basketball-reference.com/boxscores/201012260NOH.html,201012260NOH,ATL,Atlanta Hawks,86,NOH,New Orleans Hornets,93,RG
+http://www.basketball-reference.com/boxscores/201012260SAS.html,201012260SAS,WAS,Washington Wizards,80,SAS,San Antonio Spurs,94,RG
+http://www.basketball-reference.com/boxscores/201012270CHA.html,201012270CHA,DET,Detroit Pistons,100,CHA,Charlotte Bobcats,105,RG
+http://www.basketball-reference.com/boxscores/201012270GSW.html,201012270GSW,PHI,Philadelphia 76ers,95,GSW,Golden State Warriors,110,RG
+http://www.basketball-reference.com/boxscores/201012270HOU.html,201012270HOU,WAS,Washington Wizards,93,HOU,Houston Rockets,100,RG
+http://www.basketball-reference.com/boxscores/201012270MEM.html,201012270MEM,TOR,Toronto Raptors,85,MEM,Memphis Grizzlies,96,RG
+http://www.basketball-reference.com/boxscores/201012270MIL.html,201012270MIL,ATL,Atlanta Hawks,95,MIL,Milwaukee Bucks,80,RG
+http://www.basketball-reference.com/boxscores/201012270MIN.html,201012270MIN,NOH,New Orleans Hornets,98,MIN,Minnesota Timberwolves,113,RG
+http://www.basketball-reference.com/boxscores/201012270NJN.html,201012270NJN,ORL,Orlando Magic,104,NJN,New Jersey Nets,88,RG
+http://www.basketball-reference.com/boxscores/201012270OKC.html,201012270OKC,DAL,Dallas Mavericks,103,OKC,Oklahoma City Thunder,93,RG
+http://www.basketball-reference.com/boxscores/201012270SAC.html,201012270SAC,LAC,Los Angeles Clippers,100,SAC,Sacramento Kings,99,RG
+http://www.basketball-reference.com/boxscores/201012270UTA.html,201012270UTA,POR,Portland Trail Blazers,96,UTA,Utah Jazz,91,RG
+http://www.basketball-reference.com/boxscores/201012280CHI.html,201012280CHI,MIL,Milwaukee Bucks,77,CHI,Chicago Bulls,90,RG
+http://www.basketball-reference.com/boxscores/201012280CLE.html,201012280CLE,ORL,Orlando Magic,110,CLE,Cleveland Cavaliers,95,RG
+http://www.basketball-reference.com/boxscores/201012280DAL.html,201012280DAL,TOR,Toronto Raptors,84,DAL,Dallas Mavericks,76,RG
+http://www.basketball-reference.com/boxscores/201012280DEN.html,201012280DEN,POR,Portland Trail Blazers,77,DEN,Denver Nuggets,95,RG
+http://www.basketball-reference.com/boxscores/201012280IND.html,201012280IND,BOS,Boston Celtics,95,IND,Indiana Pacers,83,RG
+http://www.basketball-reference.com/boxscores/201012280MIA.html,201012280MIA,NYK,New York Knicks,98,MIA,Miami Heat,106,RG
+http://www.basketball-reference.com/boxscores/201012280SAS.html,201012280SAS,LAL,Los Angeles Lakers,82,SAS,San Antonio Spurs,97,RG
+http://www.basketball-reference.com/boxscores/201012290ATL.html,201012290ATL,GSW,Golden State Warriors,93,ATL,Atlanta Hawks,103,RG
+http://www.basketball-reference.com/boxscores/201012290CHA.html,201012290CHA,CLE,Cleveland Cavaliers,92,CHA,Charlotte Bobcats,101,RG
+http://www.basketball-reference.com/boxscores/201012290DET.html,201012290DET,BOS,Boston Celtics,92,DET,Detroit Pistons,104,RG
+http://www.basketball-reference.com/boxscores/201012290HOU.html,201012290HOU,MIA,Miami Heat,125,HOU,Houston Rockets,119,RG
+http://www.basketball-reference.com/boxscores/201012290LAC.html,201012290LAC,UTA,Utah Jazz,103,LAC,Los Angeles Clippers,95,RG
+http://www.basketball-reference.com/boxscores/201012290MIN.html,201012290MIN,DEN,Denver Nuggets,119,MIN,Minnesota Timberwolves,113,RG
+http://www.basketball-reference.com/boxscores/201012290NOH.html,201012290NOH,LAL,Los Angeles Lakers,103,NOH,New Orleans Hornets,88,RG
+http://www.basketball-reference.com/boxscores/201012290OKC.html,201012290OKC,NJN,New Jersey Nets,93,OKC,Oklahoma City Thunder,114,RG
+http://www.basketball-reference.com/boxscores/201012290PHO.html,201012290PHO,PHI,Philadelphia 76ers,123,PHO,Phoenix Suns,110,RG
+http://www.basketball-reference.com/boxscores/201012290SAC.html,201012290SAC,MEM,Memphis Grizzlies,98,SAC,Sacramento Kings,100,RG
+http://www.basketball-reference.com/boxscores/201012290WAS.html,201012290WAS,IND,Indiana Pacers,90,WAS,Washington Wizards,104,RG
+http://www.basketball-reference.com/boxscores/201012300DAL.html,201012300DAL,SAS,San Antonio Spurs,99,DAL,Dallas Mavericks,93,RG
+http://www.basketball-reference.com/boxscores/201012300ORL.html,201012300ORL,NYK,New York Knicks,103,ORL,Orlando Magic,112,RG
+http://www.basketball-reference.com/boxscores/201012300POR.html,201012300POR,UTA,Utah Jazz,89,POR,Portland Trail Blazers,100,RG
+http://www.basketball-reference.com/boxscores/201012310BOS.html,201012310BOS,NOH,New Orleans Hornets,83,BOS,Boston Celtics,81,RG
+http://www.basketball-reference.com/boxscores/201012310CHA.html,201012310CHA,GSW,Golden State Warriors,96,CHA,Charlotte Bobcats,95,RG
+http://www.basketball-reference.com/boxscores/201012310CHI.html,201012310CHI,NJN,New Jersey Nets,81,CHI,Chicago Bulls,90,RG
+http://www.basketball-reference.com/boxscores/201012310HOU.html,201012310HOU,TOR,Toronto Raptors,105,HOU,Houston Rockets,114,RG
+http://www.basketball-reference.com/boxscores/201012310IND.html,201012310IND,WAS,Washington Wizards,86,IND,Indiana Pacers,95,RG
+http://www.basketball-reference.com/boxscores/201012310LAL.html,201012310LAL,PHI,Philadelphia 76ers,98,LAL,Los Angeles Lakers,102,RG
+http://www.basketball-reference.com/boxscores/201012310OKC.html,201012310OKC,ATL,Atlanta Hawks,94,OKC,Oklahoma City Thunder,103,RG
+http://www.basketball-reference.com/boxscores/201012310PHO.html,201012310PHO,DET,Detroit Pistons,75,PHO,Phoenix Suns,92,RG
+http://www.basketball-reference.com/boxscores/201101010CHI.html,201101010CHI,CLE,Cleveland Cavaliers,91,CHI,Chicago Bulls,100,RG
+http://www.basketball-reference.com/boxscores/201101010DEN.html,201101010DEN,SAC,Sacramento Kings,86,DEN,Denver Nuggets,104,RG
+http://www.basketball-reference.com/boxscores/201101010MIA.html,201101010MIA,GSW,Golden State Warriors,107,MIA,Miami Heat,114,RG
+http://www.basketball-reference.com/boxscores/201101010MIL.html,201101010MIL,DAL,Dallas Mavericks,87,MIL,Milwaukee Bucks,99,RG
+http://www.basketball-reference.com/boxscores/201101010MIN.html,201101010MIN,NJN,New Jersey Nets,88,MIN,Minnesota Timberwolves,103,RG
+http://www.basketball-reference.com/boxscores/201101010SAS.html,201101010SAS,OKC,Oklahoma City Thunder,74,SAS,San Antonio Spurs,101,RG
+http://www.basketball-reference.com/boxscores/201101010UTA.html,201101010UTA,MEM,Memphis Grizzlies,92,UTA,Utah Jazz,98,RG
+http://www.basketball-reference.com/boxscores/201101010WAS.html,201101010WAS,NOH,New Orleans Hornets,92,WAS,Washington Wizards,81,RG
+http://www.basketball-reference.com/boxscores/201101020CLE.html,201101020CLE,DAL,Dallas Mavericks,104,CLE,Cleveland Cavaliers,95,RG
+http://www.basketball-reference.com/boxscores/201101020LAC.html,201101020LAC,ATL,Atlanta Hawks,107,LAC,Los Angeles Clippers,98,RG
+http://www.basketball-reference.com/boxscores/201101020LAL.html,201101020LAL,MEM,Memphis Grizzlies,104,LAL,Los Angeles Lakers,85,RG
+http://www.basketball-reference.com/boxscores/201101020NYK.html,201101020NYK,IND,Indiana Pacers,92,NYK,New York Knicks,98,RG
+http://www.basketball-reference.com/boxscores/201101020POR.html,201101020POR,HOU,Houston Rockets,85,POR,Portland Trail Blazers,100,RG
+http://www.basketball-reference.com/boxscores/201101020SAC.html,201101020SAC,PHO,Phoenix Suns,89,SAC,Sacramento Kings,94,RG
+http://www.basketball-reference.com/boxscores/201101020TOR.html,201101020TOR,BOS,Boston Celtics,93,TOR,Toronto Raptors,79,RG
+http://www.basketball-reference.com/boxscores/201101030BOS.html,201101030BOS,MIN,Minnesota Timberwolves,93,BOS,Boston Celtics,96,RG
+http://www.basketball-reference.com/boxscores/201101030CHA.html,201101030CHA,MIA,Miami Heat,96,CHA,Charlotte Bobcats,82,RG
+http://www.basketball-reference.com/boxscores/201101030DEN.html,201101030DEN,HOU,Houston Rockets,106,DEN,Denver Nuggets,113,RG
+http://www.basketball-reference.com/boxscores/201101030NOH.html,201101030NOH,PHI,Philadelphia 76ers,77,NOH,New Orleans Hornets,84,RG
+http://www.basketball-reference.com/boxscores/201101030ORL.html,201101030ORL,GSW,Golden State Warriors,90,ORL,Orlando Magic,110,RG
+http://www.basketball-reference.com/boxscores/201101030UTA.html,201101030UTA,DET,Detroit Pistons,97,UTA,Utah Jazz,102,RG
+http://www.basketball-reference.com/boxscores/201101040CHI.html,201101040CHI,TOR,Toronto Raptors,91,CHI,Chicago Bulls,111,RG
+http://www.basketball-reference.com/boxscores/201101040DAL.html,201101040DAL,POR,Portland Trail Blazers,81,DAL,Dallas Mavericks,84,RG
+http://www.basketball-reference.com/boxscores/201101040LAL.html,201101040LAL,DET,Detroit Pistons,83,LAL,Los Angeles Lakers,108,RG
+http://www.basketball-reference.com/boxscores/201101040MEM.html,201101040MEM,OKC,Oklahoma City Thunder,105,MEM,Memphis Grizzlies,110,RG
+http://www.basketball-reference.com/boxscores/201101040MIA.html,201101040MIA,MIL,Milwaukee Bucks,89,MIA,Miami Heat,101,RG
+http://www.basketball-reference.com/boxscores/201101040NYK.html,201101040NYK,SAS,San Antonio Spurs,115,NYK,New York Knicks,128,RG
+http://www.basketball-reference.com/boxscores/201101040SAC.html,201101040SAC,ATL,Atlanta Hawks,108,SAC,Sacramento Kings,102,RG
+http://www.basketball-reference.com/boxscores/201101050BOS.html,201101050BOS,SAS,San Antonio Spurs,103,BOS,Boston Celtics,105,RG
+http://www.basketball-reference.com/boxscores/201101050CLE.html,201101050CLE,TOR,Toronto Raptors,120,CLE,Cleveland Cavaliers,105,RG
+http://www.basketball-reference.com/boxscores/201101050HOU.html,201101050HOU,POR,Portland Trail Blazers,103,HOU,Houston Rockets,100,RG
+http://www.basketball-reference.com/boxscores/201101050LAC.html,201101050LAC,DEN,Denver Nuggets,93,LAC,Los Angeles Clippers,106,RG
+http://www.basketball-reference.com/boxscores/201101050MIN.html,201101050MIN,CHA,Charlotte Bobcats,108,MIN,Minnesota Timberwolves,105,OT
+http://www.basketball-reference.com/boxscores/201101050NJN.html,201101050NJN,CHI,Chicago Bulls,94,NJN,New Jersey Nets,96,RG
+http://www.basketball-reference.com/boxscores/201101050NOH.html,201101050NOH,GSW,Golden State Warriors,110,NOH,New Orleans Hornets,103,RG
+http://www.basketball-reference.com/boxscores/201101050ORL.html,201101050ORL,MIL,Milwaukee Bucks,87,ORL,Orlando Magic,97,RG
+http://www.basketball-reference.com/boxscores/201101050PHI.html,201101050PHI,WAS,Washington Wizards,97,PHI,Philadelphia 76ers,109,RG
+http://www.basketball-reference.com/boxscores/201101050PHO.html,201101050PHO,LAL,Los Angeles Lakers,99,PHO,Phoenix Suns,95,RG
+http://www.basketball-reference.com/boxscores/201101050UTA.html,201101050UTA,ATL,Atlanta Hawks,110,UTA,Utah Jazz,87,RG
+http://www.basketball-reference.com/boxscores/201101060DAL.html,201101060DAL,OKC,Oklahoma City Thunder,99,DAL,Dallas Mavericks,95,RG
+http://www.basketball-reference.com/boxscores/201101060SAC.html,201101060SAC,DEN,Denver Nuggets,102,SAC,Sacramento Kings,122,RG
+http://www.basketball-reference.com/boxscores/201101070BOS.html,201101070BOS,TOR,Toronto Raptors,102,BOS,Boston Celtics,122,RG
+http://www.basketball-reference.com/boxscores/201101070GSW.html,201101070GSW,CLE,Cleveland Cavaliers,98,GSW,Golden State Warriors,116,RG
+http://www.basketball-reference.com/boxscores/201101070IND.html,201101070IND,SAS,San Antonio Spurs,90,IND,Indiana Pacers,87,RG
+http://www.basketball-reference.com/boxscores/201101070LAL.html,201101070LAL,NOH,New Orleans Hornets,97,LAL,Los Angeles Lakers,101,RG
+http://www.basketball-reference.com/boxscores/201101070MEM.html,201101070MEM,UTA,Utah Jazz,99,MEM,Memphis Grizzlies,110,RG
+http://www.basketball-reference.com/boxscores/201101070MIL.html,201101070MIL,MIA,Miami Heat,101,MIL,Milwaukee Bucks,95,OT
+http://www.basketball-reference.com/boxscores/201101070MIN.html,201101070MIN,POR,Portland Trail Blazers,108,MIN,Minnesota Timberwolves,98,RG
+http://www.basketball-reference.com/boxscores/201101070ORL.html,201101070ORL,HOU,Houston Rockets,95,ORL,Orlando Magic,110,RG
+http://www.basketball-reference.com/boxscores/201101070PHI.html,201101070PHI,CHI,Chicago Bulls,99,PHI,Philadelphia 76ers,105,RG
+http://www.basketball-reference.com/boxscores/201101070PHO.html,201101070PHO,NYK,New York Knicks,121,PHO,Phoenix Suns,96,RG
+http://www.basketball-reference.com/boxscores/201101070WAS.html,201101070WAS,NJN,New Jersey Nets,77,WAS,Washington Wizards,97,RG
+http://www.basketball-reference.com/boxscores/201101080ATL.html,201101080ATL,IND,Indiana Pacers,93,ATL,Atlanta Hawks,108,RG
+http://www.basketball-reference.com/boxscores/201101080CHA.html,201101080CHA,WAS,Washington Wizards,89,CHA,Charlotte Bobcats,104,RG
+http://www.basketball-reference.com/boxscores/201101080CHI.html,201101080CHI,BOS,Boston Celtics,79,CHI,Chicago Bulls,90,RG
+http://www.basketball-reference.com/boxscores/201101080DAL.html,201101080DAL,ORL,Orlando Magic,117,DAL,Dallas Mavericks,107,RG
+http://www.basketball-reference.com/boxscores/201101080DET.html,201101080DET,PHI,Philadelphia 76ers,109,DET,Detroit Pistons,112,OT
+http://www.basketball-reference.com/boxscores/201101080HOU.html,201101080HOU,UTA,Utah Jazz,103,HOU,Houston Rockets,99,OT
+http://www.basketball-reference.com/boxscores/201101080NJN.html,201101080NJN,MIL,Milwaukee Bucks,115,NJN,New Jersey Nets,92,RG
+http://www.basketball-reference.com/boxscores/201101080OKC.html,201101080OKC,MEM,Memphis Grizzlies,100,OKC,Oklahoma City Thunder,109,RG
+http://www.basketball-reference.com/boxscores/201101090DEN.html,201101090DEN,NOH,New Orleans Hornets,96,DEN,Denver Nuggets,87,RG
+http://www.basketball-reference.com/boxscores/201101090LAC.html,201101090LAC,GSW,Golden State Warriors,91,LAC,Los Angeles Clippers,105,RG
+http://www.basketball-reference.com/boxscores/201101090LAL.html,201101090LAL,NYK,New York Knicks,87,LAL,Los Angeles Lakers,109,RG
+http://www.basketball-reference.com/boxscores/201101090PHO.html,201101090PHO,CLE,Cleveland Cavaliers,100,PHO,Phoenix Suns,108,RG
+http://www.basketball-reference.com/boxscores/201101090POR.html,201101090POR,MIA,Miami Heat,107,POR,Portland Trail Blazers,100,OT
+http://www.basketball-reference.com/boxscores/201101090SAS.html,201101090SAS,MIN,Minnesota Timberwolves,91,SAS,San Antonio Spurs,94,RG
+http://www.basketball-reference.com/boxscores/201101090TOR.html,201101090TOR,SAC,Sacramento Kings,112,TOR,Toronto Raptors,118,RG
+http://www.basketball-reference.com/boxscores/201101100BOS.html,201101100BOS,HOU,Houston Rockets,108,BOS,Boston Celtics,102,RG
+http://www.basketball-reference.com/boxscores/201101100CHA.html,201101100CHA,MEM,Memphis Grizzlies,82,CHA,Charlotte Bobcats,96,RG
+http://www.basketball-reference.com/boxscores/201101100CHI.html,201101100CHI,DET,Detroit Pistons,82,CHI,Chicago Bulls,95,RG
+http://www.basketball-reference.com/boxscores/201101110DEN.html,201101110DEN,PHO,Phoenix Suns,98,DEN,Denver Nuggets,132,RG
+http://www.basketball-reference.com/boxscores/201101110LAL.html,201101110LAL,CLE,Cleveland Cavaliers,57,LAL,Los Angeles Lakers,112,RG
+http://www.basketball-reference.com/boxscores/201101110MIN.html,201101110MIN,SAS,San Antonio Spurs,107,MIN,Minnesota Timberwolves,96,RG
+http://www.basketball-reference.com/boxscores/201101110PHI.html,201101110PHI,IND,Indiana Pacers,111,PHI,Philadelphia 76ers,103,RG
+http://www.basketball-reference.com/boxscores/201101110POR.html,201101110POR,NYK,New York Knicks,100,POR,Portland Trail Blazers,86,RG
+http://www.basketball-reference.com/boxscores/201101110WAS.html,201101110WAS,SAC,Sacramento Kings,133,WAS,Washington Wizards,136,OT
+http://www.basketball-reference.com/boxscores/201101120BOS.html,201101120BOS,SAC,Sacramento Kings,95,BOS,Boston Celtics,119,RG
+http://www.basketball-reference.com/boxscores/201101120CHA.html,201101120CHA,CHI,Chicago Bulls,91,CHA,Charlotte Bobcats,96,RG
+http://www.basketball-reference.com/boxscores/201101120DET.html,201101120DET,MEM,Memphis Grizzlies,107,DET,Detroit Pistons,99,RG
+http://www.basketball-reference.com/boxscores/201101120GSW.html,201101120GSW,LAL,Los Angeles Lakers,115,GSW,Golden State Warriors,110,RG
+http://www.basketball-reference.com/boxscores/201101120HOU.html,201101120HOU,OKC,Oklahoma City Thunder,118,HOU,Houston Rockets,112,RG
+http://www.basketball-reference.com/boxscores/201101120IND.html,201101120IND,DAL,Dallas Mavericks,89,IND,Indiana Pacers,102,RG
+http://www.basketball-reference.com/boxscores/201101120LAC.html,201101120LAC,MIA,Miami Heat,105,LAC,Los Angeles Clippers,111,RG
+http://www.basketball-reference.com/boxscores/201101120MIL.html,201101120MIL,SAS,San Antonio Spurs,91,MIL,Milwaukee Bucks,84,RG
+http://www.basketball-reference.com/boxscores/201101120NOH.html,201101120NOH,ORL,Orlando Magic,89,NOH,New Orleans Hornets,92,OT
+http://www.basketball-reference.com/boxscores/201101120PHO.html,201101120PHO,NJN,New Jersey Nets,109,PHO,Phoenix Suns,118,OT
+http://www.basketball-reference.com/boxscores/201101120TOR.html,201101120TOR,ATL,Atlanta Hawks,104,TOR,Toronto Raptors,101,RG
+http://www.basketball-reference.com/boxscores/201101120UTA.html,201101120UTA,NYK,New York Knicks,125,UTA,Utah Jazz,131,RG
+http://www.basketball-reference.com/boxscores/201101130DEN.html,201101130DEN,MIA,Miami Heat,102,DEN,Denver Nuggets,130,RG
+http://www.basketball-reference.com/boxscores/201101130MIN.html,201101130MIN,WAS,Washington Wizards,97,MIN,Minnesota Timberwolves,109,RG
+http://www.basketball-reference.com/boxscores/201101130OKC.html,201101130OKC,ORL,Orlando Magic,124,OKC,Oklahoma City Thunder,125,RG
+http://www.basketball-reference.com/boxscores/201101140BOS.html,201101140BOS,CHA,Charlotte Bobcats,94,BOS,Boston Celtics,99,RG
+http://www.basketball-reference.com/boxscores/201101140GSW.html,201101140GSW,LAC,Los Angeles Clippers,112,GSW,Golden State Warriors,122,RG
+http://www.basketball-reference.com/boxscores/201101140HOU.html,201101140HOU,NOH,New Orleans Hornets,110,HOU,Houston Rockets,105,OT
+http://www.basketball-reference.com/boxscores/201101140IND.html,201101140IND,CHI,Chicago Bulls,99,IND,Indiana Pacers,86,RG
+http://www.basketball-reference.com/boxscores/201101140LAL.html,201101140LAL,NJN,New Jersey Nets,88,LAL,Los Angeles Lakers,100,RG
+http://www.basketball-reference.com/boxscores/201101140NYK.html,201101140NYK,SAC,Sacramento Kings,93,NYK,New York Knicks,83,RG
+http://www.basketball-reference.com/boxscores/201101140PHI.html,201101140PHI,MIL,Milwaukee Bucks,94,PHI,Philadelphia 76ers,95,RG
+http://www.basketball-reference.com/boxscores/201101140PHO.html,201101140PHO,POR,Portland Trail Blazers,111,PHO,Phoenix Suns,115,RG
+http://www.basketball-reference.com/boxscores/201101140SAS.html,201101140SAS,DAL,Dallas Mavericks,89,SAS,San Antonio Spurs,101,RG
+http://www.basketball-reference.com/boxscores/201101140TOR.html,201101140TOR,DET,Detroit Pistons,101,TOR,Toronto Raptors,95,RG
+http://www.basketball-reference.com/boxscores/201101140UTA.html,201101140UTA,CLE,Cleveland Cavaliers,99,UTA,Utah Jazz,121,RG
+http://www.basketball-reference.com/boxscores/201101150ATL.html,201101150ATL,HOU,Houston Rockets,112,ATL,Atlanta Hawks,106,RG
+http://www.basketball-reference.com/boxscores/201101150CHA.html,201101150CHA,NOH,New Orleans Hornets,88,CHA,Charlotte Bobcats,81,RG
+http://www.basketball-reference.com/boxscores/201101150CHI.html,201101150CHI,MIA,Miami Heat,96,CHI,Chicago Bulls,99,RG
+http://www.basketball-reference.com/boxscores/201101150DEN.html,201101150DEN,CLE,Cleveland Cavaliers,99,DEN,Denver Nuggets,127,RG
+http://www.basketball-reference.com/boxscores/201101150DET.html,201101150DET,SAC,Sacramento Kings,106,DET,Detroit Pistons,110,RG
+http://www.basketball-reference.com/boxscores/201101150MEM.html,201101150MEM,DAL,Dallas Mavericks,70,MEM,Memphis Grizzlies,89,RG
+http://www.basketball-reference.com/boxscores/201101150MIN.html,201101150MIN,ORL,Orlando Magic,108,MIN,Minnesota Timberwolves,99,RG
+http://www.basketball-reference.com/boxscores/201101150POR.html,201101150POR,NJN,New Jersey Nets,89,POR,Portland Trail Blazers,96,RG
+http://www.basketball-reference.com/boxscores/201101150WAS.html,201101150WAS,TOR,Toronto Raptors,95,WAS,Washington Wizards,98,RG
+http://www.basketball-reference.com/boxscores/201101160LAC.html,201101160LAC,LAL,Los Angeles Lakers,92,LAC,Los Angeles Clippers,99,RG
+http://www.basketball-reference.com/boxscores/201101160SAS.html,201101160SAS,DEN,Denver Nuggets,97,SAS,San Antonio Spurs,110,RG
+http://www.basketball-reference.com/boxscores/201101170ATL.html,201101170ATL,SAC,Sacramento Kings,98,ATL,Atlanta Hawks,100,RG
+http://www.basketball-reference.com/boxscores/201101170BOS.html,201101170BOS,ORL,Orlando Magic,106,BOS,Boston Celtics,109,RG
+http://www.basketball-reference.com/boxscores/201101170DET.html,201101170DET,DAL,Dallas Mavericks,89,DET,Detroit Pistons,103,RG
+http://www.basketball-reference.com/boxscores/201101170GSW.html,201101170GSW,NJN,New Jersey Nets,100,GSW,Golden State Warriors,109,RG
+http://www.basketball-reference.com/boxscores/201101170HOU.html,201101170HOU,MIL,Milwaukee Bucks,84,HOU,Houston Rockets,93,RG
+http://www.basketball-reference.com/boxscores/201101170LAC.html,201101170LAC,IND,Indiana Pacers,107,LAC,Los Angeles Clippers,114,RG
+http://www.basketball-reference.com/boxscores/201101170LAL.html,201101170LAL,OKC,Oklahoma City Thunder,94,LAL,Los Angeles Lakers,101,RG
+http://www.basketball-reference.com/boxscores/201101170MEM.html,201101170MEM,CHI,Chicago Bulls,96,MEM,Memphis Grizzlies,84,RG
+http://www.basketball-reference.com/boxscores/201101170NOH.html,201101170NOH,TOR,Toronto Raptors,81,NOH,New Orleans Hornets,85,RG
+http://www.basketball-reference.com/boxscores/201101170NYK.html,201101170NYK,PHO,Phoenix Suns,129,NYK,New York Knicks,121,RG
+http://www.basketball-reference.com/boxscores/201101170PHI.html,201101170PHI,CHA,Charlotte Bobcats,92,PHI,Philadelphia 76ers,96,OT
+http://www.basketball-reference.com/boxscores/201101170POR.html,201101170POR,MIN,Minnesota Timberwolves,102,POR,Portland Trail Blazers,113,RG
+http://www.basketball-reference.com/boxscores/201101170WAS.html,201101170WAS,UTA,Utah Jazz,101,WAS,Washington Wizards,108,RG
+http://www.basketball-reference.com/boxscores/201101180CHI.html,201101180CHI,CHA,Charlotte Bobcats,83,CHI,Chicago Bulls,82,RG
+http://www.basketball-reference.com/boxscores/201101180MIA.html,201101180MIA,ATL,Atlanta Hawks,93,MIA,Miami Heat,89,OT
+http://www.basketball-reference.com/boxscores/201101190BOS.html,201101190BOS,DET,Detroit Pistons,82,BOS,Boston Celtics,86,RG
+http://www.basketball-reference.com/boxscores/201101190CLE.html,201101190CLE,PHO,Phoenix Suns,106,CLE,Cleveland Cavaliers,98,RG
+http://www.basketball-reference.com/boxscores/201101190DAL.html,201101190DAL,LAL,Los Angeles Lakers,100,DAL,Dallas Mavericks,109,RG
+http://www.basketball-reference.com/boxscores/201101190DEN.html,201101190DEN,OKC,Oklahoma City Thunder,107,DEN,Denver Nuggets,112,RG
+http://www.basketball-reference.com/boxscores/201101190GSW.html,201101190GSW,IND,Indiana Pacers,108,GSW,Golden State Warriors,110,RG
+http://www.basketball-reference.com/boxscores/201101190HOU.html,201101190HOU,NYK,New York Knicks,89,HOU,Houston Rockets,104,RG
+http://www.basketball-reference.com/boxscores/201101190LAC.html,201101190LAC,MIN,Minnesota Timberwolves,111,LAC,Los Angeles Clippers,126,RG
+http://www.basketball-reference.com/boxscores/201101190MIL.html,201101190MIL,WAS,Washington Wizards,87,MIL,Milwaukee Bucks,100,RG
+http://www.basketball-reference.com/boxscores/201101190NJN.html,201101190NJN,UTA,Utah Jazz,95,NJN,New Jersey Nets,103,RG
+http://www.basketball-reference.com/boxscores/201101190NOH.html,201101190NOH,MEM,Memphis Grizzlies,102,NOH,New Orleans Hornets,103,OT
+http://www.basketball-reference.com/boxscores/201101190ORL.html,201101190ORL,PHI,Philadelphia 76ers,98,ORL,Orlando Magic,99,OT
+http://www.basketball-reference.com/boxscores/201101190SAC.html,201101190SAC,POR,Portland Trail Blazers,94,SAC,Sacramento Kings,90,OT
+http://www.basketball-reference.com/boxscores/201101190SAS.html,201101190SAS,TOR,Toronto Raptors,95,SAS,San Antonio Spurs,104,RG
+http://www.basketball-reference.com/boxscores/201101200CHA.html,201101200CHA,PHI,Philadelphia 76ers,97,CHA,Charlotte Bobcats,100,RG
+http://www.basketball-reference.com/boxscores/201101200CHI.html,201101200CHI,DAL,Dallas Mavericks,77,CHI,Chicago Bulls,82,RG
+http://www.basketball-reference.com/boxscores/201101200POR.html,201101200POR,LAC,Los Angeles Clippers,93,POR,Portland Trail Blazers,108,RG
+http://www.basketball-reference.com/boxscores/201101210ATL.html,201101210ATL,NOH,New Orleans Hornets,100,ATL,Atlanta Hawks,59,RG
+http://www.basketball-reference.com/boxscores/201101210BOS.html,201101210BOS,UTA,Utah Jazz,86,BOS,Boston Celtics,110,RG
+http://www.basketball-reference.com/boxscores/201101210CLE.html,201101210CLE,MIL,Milwaukee Bucks,102,CLE,Cleveland Cavaliers,88,RG
+http://www.basketball-reference.com/boxscores/201101210DEN.html,201101210DEN,LAL,Los Angeles Lakers,107,DEN,Denver Nuggets,97,RG
+http://www.basketball-reference.com/boxscores/201101210GSW.html,201101210GSW,SAC,Sacramento Kings,112,GSW,Golden State Warriors,119,OT
+http://www.basketball-reference.com/boxscores/201101210MEM.html,201101210MEM,HOU,Houston Rockets,110,MEM,Memphis Grizzlies,115,RG
+http://www.basketball-reference.com/boxscores/201101210NJN.html,201101210NJN,DET,Detroit Pistons,74,NJN,New Jersey Nets,89,RG
+http://www.basketball-reference.com/boxscores/201101210ORL.html,201101210ORL,TOR,Toronto Raptors,72,ORL,Orlando Magic,112,RG
+http://www.basketball-reference.com/boxscores/201101210SAS.html,201101210SAS,NYK,New York Knicks,92,SAS,San Antonio Spurs,101,RG
+http://www.basketball-reference.com/boxscores/201101210WAS.html,201101210WAS,PHO,Phoenix Suns,109,WAS,Washington Wizards,91,RG
+http://www.basketball-reference.com/boxscores/201101220CHA.html,201101220CHA,ATL,Atlanta Hawks,103,CHA,Charlotte Bobcats,87,RG
+http://www.basketball-reference.com/boxscores/201101220CHI.html,201101220CHI,CLE,Cleveland Cavaliers,79,CHI,Chicago Bulls,92,RG
+http://www.basketball-reference.com/boxscores/201101220DET.html,201101220DET,PHO,Phoenix Suns,74,DET,Detroit Pistons,75,RG
+http://www.basketball-reference.com/boxscores/201101220HOU.html,201101220HOU,ORL,Orlando Magic,118,HOU,Houston Rockets,104,RG
+http://www.basketball-reference.com/boxscores/201101220LAC.html,201101220LAC,GSW,Golden State Warriors,109,LAC,Los Angeles Clippers,113,RG
+http://www.basketball-reference.com/boxscores/201101220MIA.html,201101220MIA,TOR,Toronto Raptors,103,MIA,Miami Heat,120,RG
+http://www.basketball-reference.com/boxscores/201101220MIL.html,201101220MIL,MEM,Memphis Grizzlies,94,MIL,Milwaukee Bucks,81,RG
+http://www.basketball-reference.com/boxscores/201101220NJN.html,201101220NJN,DAL,Dallas Mavericks,87,NJN,New Jersey Nets,86,RG
+http://www.basketball-reference.com/boxscores/201101220NOH.html,201101220NOH,SAS,San Antonio Spurs,72,NOH,New Orleans Hornets,96,RG
+http://www.basketball-reference.com/boxscores/201101220OKC.html,201101220OKC,NYK,New York Knicks,98,OKC,Oklahoma City Thunder,101,RG
+http://www.basketball-reference.com/boxscores/201101220PHI.html,201101220PHI,UTA,Utah Jazz,85,PHI,Philadelphia 76ers,96,RG
+http://www.basketball-reference.com/boxscores/201101220POR.html,201101220POR,IND,Indiana Pacers,92,POR,Portland Trail Blazers,97,RG
+http://www.basketball-reference.com/boxscores/201101220WAS.html,201101220WAS,BOS,Boston Celtics,83,WAS,Washington Wizards,85,RG
+http://www.basketball-reference.com/boxscores/201101230DEN.html,201101230DEN,IND,Indiana Pacers,107,DEN,Denver Nuggets,121,RG
+http://www.basketball-reference.com/boxscores/201101240CHI.html,201101240CHI,MIL,Milwaukee Bucks,83,CHI,Chicago Bulls,92,RG
+http://www.basketball-reference.com/boxscores/201101240GSW.html,201101240GSW,SAS,San Antonio Spurs,113,GSW,Golden State Warriors,102,RG
+http://www.basketball-reference.com/boxscores/201101240MIN.html,201101240MIN,HOU,Houston Rockets,129,MIN,Minnesota Timberwolves,125,RG
+http://www.basketball-reference.com/boxscores/201101240NJN.html,201101240NJN,CLE,Cleveland Cavaliers,101,NJN,New Jersey Nets,103,RG
+http://www.basketball-reference.com/boxscores/201101240NOH.html,201101240NOH,OKC,Oklahoma City Thunder,89,NOH,New Orleans Hornets,91,RG
+http://www.basketball-reference.com/boxscores/201101240NYK.html,201101240NYK,WAS,Washington Wizards,106,NYK,New York Knicks,115,RG
+http://www.basketball-reference.com/boxscores/201101240ORL.html,201101240ORL,DET,Detroit Pistons,103,ORL,Orlando Magic,96,RG
+http://www.basketball-reference.com/boxscores/201101240PHI.html,201101240PHI,PHO,Phoenix Suns,95,PHI,Philadelphia 76ers,105,RG
+http://www.basketball-reference.com/boxscores/201101240POR.html,201101240POR,SAC,Sacramento Kings,96,POR,Portland Trail Blazers,81,RG
+http://www.basketball-reference.com/boxscores/201101240TOR.html,201101240TOR,MEM,Memphis Grizzlies,100,TOR,Toronto Raptors,98,RG
+http://www.basketball-reference.com/boxscores/201101250BOS.html,201101250BOS,CLE,Cleveland Cavaliers,95,BOS,Boston Celtics,112,RG
+http://www.basketball-reference.com/boxscores/201101250DAL.html,201101250DAL,LAC,Los Angeles Clippers,105,DAL,Dallas Mavericks,112,RG
+http://www.basketball-reference.com/boxscores/201101250LAL.html,201101250LAL,UTA,Utah Jazz,91,LAL,Los Angeles Lakers,120,RG
+http://www.basketball-reference.com/boxscores/201101250SAC.html,201101250SAC,CHA,Charlotte Bobcats,94,SAC,Sacramento Kings,89,RG
+http://www.basketball-reference.com/boxscores/201101250WAS.html,201101250WAS,DEN,Denver Nuggets,120,WAS,Washington Wizards,109,RG
+http://www.basketball-reference.com/boxscores/201101260DET.html,201101260DET,DEN,Denver Nuggets,109,DET,Detroit Pistons,100,RG
+http://www.basketball-reference.com/boxscores/201101260GSW.html,201101260GSW,NOH,New Orleans Hornets,112,GSW,Golden State Warriors,103,RG
+http://www.basketball-reference.com/boxscores/201101260HOU.html,201101260HOU,LAC,Los Angeles Clippers,83,HOU,Houston Rockets,96,RG
+http://www.basketball-reference.com/boxscores/201101260IND.html,201101260IND,ORL,Orlando Magic,111,IND,Indiana Pacers,96,RG
+http://www.basketball-reference.com/boxscores/201101260MIL.html,201101260MIL,ATL,Atlanta Hawks,90,MIL,Milwaukee Bucks,98,RG
+http://www.basketball-reference.com/boxscores/201101260MIN.html,201101260MIN,OKC,Oklahoma City Thunder,118,MIN,Minnesota Timberwolves,117,OT
+http://www.basketball-reference.com/boxscores/201101260NJN.html,201101260NJN,MEM,Memphis Grizzlies,88,NJN,New Jersey Nets,93,RG
+http://www.basketball-reference.com/boxscores/201101260PHO.html,201101260PHO,CHA,Charlotte Bobcats,114,PHO,Phoenix Suns,107,RG
+http://www.basketball-reference.com/boxscores/201101260TOR.html,201101260TOR,PHI,Philadelphia 76ers,107,TOR,Toronto Raptors,94,RG
+http://www.basketball-reference.com/boxscores/201101260UTA.html,201101260UTA,SAS,San Antonio Spurs,112,UTA,Utah Jazz,105,RG
+http://www.basketball-reference.com/boxscores/201101270DAL.html,201101270DAL,HOU,Houston Rockets,106,DAL,Dallas Mavericks,111,RG
+http://www.basketball-reference.com/boxscores/201101270NYK.html,201101270NYK,MIA,Miami Heat,88,NYK,New York Knicks,93,RG
+http://www.basketball-reference.com/boxscores/201101270POR.html,201101270POR,BOS,Boston Celtics,88,POR,Portland Trail Blazers,78,RG
+http://www.basketball-reference.com/boxscores/201101280ATL.html,201101280ATL,NYK,New York Knicks,102,ATL,Atlanta Hawks,111,RG
+http://www.basketball-reference.com/boxscores/201101280CHI.html,201101280CHI,ORL,Orlando Magic,90,CHI,Chicago Bulls,99,RG
+http://www.basketball-reference.com/boxscores/201101280CLE.html,201101280CLE,DEN,Denver Nuggets,117,CLE,Cleveland Cavaliers,103,RG
+http://www.basketball-reference.com/boxscores/201101280GSW.html,201101280GSW,CHA,Charlotte Bobcats,121,GSW,Golden State Warriors,113,OT
+http://www.basketball-reference.com/boxscores/201101280IND.html,201101280IND,NJN,New Jersey Nets,92,IND,Indiana Pacers,124,RG
+http://www.basketball-reference.com/boxscores/201101280LAL.html,201101280LAL,SAC,Sacramento Kings,100,LAL,Los Angeles Lakers,95,RG
+http://www.basketball-reference.com/boxscores/201101280MIA.html,201101280MIA,DET,Detroit Pistons,87,MIA,Miami Heat,88,RG
+http://www.basketball-reference.com/boxscores/201101280OKC.html,201101280OKC,WAS,Washington Wizards,117,OKC,Oklahoma City Thunder,124,2OT
+http://www.basketball-reference.com/boxscores/201101280PHI.html,201101280PHI,MEM,Memphis Grizzlies,99,PHI,Philadelphia 76ers,94,RG
+http://www.basketball-reference.com/boxscores/201101280PHO.html,201101280PHO,BOS,Boston Celtics,71,PHO,Phoenix Suns,88,RG
+http://www.basketball-reference.com/boxscores/201101280TOR.html,201101280TOR,MIL,Milwaukee Bucks,116,TOR,Toronto Raptors,110,OT
+http://www.basketball-reference.com/boxscores/201101280UTA.html,201101280UTA,MIN,Minnesota Timberwolves,100,UTA,Utah Jazz,108,RG
+http://www.basketball-reference.com/boxscores/201101290CHI.html,201101290CHI,IND,Indiana Pacers,89,CHI,Chicago Bulls,110,RG
+http://www.basketball-reference.com/boxscores/201101290DAL.html,201101290DAL,ATL,Atlanta Hawks,91,DAL,Dallas Mavericks,102,RG
+http://www.basketball-reference.com/boxscores/201101290LAC.html,201101290LAC,CHA,Charlotte Bobcats,88,LAC,Los Angeles Clippers,103,RG
+http://www.basketball-reference.com/boxscores/201101290MEM.html,201101290MEM,WAS,Washington Wizards,93,MEM,Memphis Grizzlies,107,RG
+http://www.basketball-reference.com/boxscores/201101290MIL.html,201101290MIL,NJN,New Jersey Nets,81,MIL,Milwaukee Bucks,91,RG
+http://www.basketball-reference.com/boxscores/201101290MIN.html,201101290MIN,TOR,Toronto Raptors,87,MIN,Minnesota Timberwolves,103,RG
+http://www.basketball-reference.com/boxscores/201101290SAC.html,201101290SAC,NOH,New Orleans Hornets,96,SAC,Sacramento Kings,102,RG
+http://www.basketball-reference.com/boxscores/201101290SAS.html,201101290SAS,HOU,Houston Rockets,95,SAS,San Antonio Spurs,108,RG
+http://www.basketball-reference.com/boxscores/201101300GSW.html,201101300GSW,UTA,Utah Jazz,81,GSW,Golden State Warriors,96,RG
+http://www.basketball-reference.com/boxscores/201101300LAL.html,201101300LAL,BOS,Boston Celtics,109,LAL,Los Angeles Lakers,96,RG
+http://www.basketball-reference.com/boxscores/201101300NYK.html,201101300NYK,DET,Detroit Pistons,106,NYK,New York Knicks,124,RG
+http://www.basketball-reference.com/boxscores/201101300OKC.html,201101300OKC,MIA,Miami Heat,108,OKC,Oklahoma City Thunder,103,RG
+http://www.basketball-reference.com/boxscores/201101300ORL.html,201101300ORL,CLE,Cleveland Cavaliers,87,ORL,Orlando Magic,103,RG
+http://www.basketball-reference.com/boxscores/201101300PHI.html,201101300PHI,DEN,Denver Nuggets,99,PHI,Philadelphia 76ers,110,RG
+http://www.basketball-reference.com/boxscores/201101300PHO.html,201101300PHO,NOH,New Orleans Hornets,102,PHO,Phoenix Suns,104,RG
+http://www.basketball-reference.com/boxscores/201101310DAL.html,201101310DAL,WAS,Washington Wizards,92,DAL,Dallas Mavericks,102,RG
+http://www.basketball-reference.com/boxscores/201101310IND.html,201101310IND,TOR,Toronto Raptors,93,IND,Indiana Pacers,104,RG
+http://www.basketball-reference.com/boxscores/201101310LAC.html,201101310LAC,MIL,Milwaukee Bucks,98,LAC,Los Angeles Clippers,105,RG
+http://www.basketball-reference.com/boxscores/201101310MEM.html,201101310MEM,ORL,Orlando Magic,97,MEM,Memphis Grizzlies,100,RG
+http://www.basketball-reference.com/boxscores/201101310MIA.html,201101310MIA,CLE,Cleveland Cavaliers,90,MIA,Miami Heat,117,RG
+http://www.basketball-reference.com/boxscores/201101310NJN.html,201101310NJN,DEN,Denver Nuggets,99,NJN,New Jersey Nets,115,RG
+http://www.basketball-reference.com/boxscores/201101310UTA.html,201101310UTA,CHA,Charlotte Bobcats,78,UTA,Utah Jazz,83,RG
+http://www.basketball-reference.com/boxscores/201102010LAL.html,201102010LAL,HOU,Houston Rockets,106,LAL,Los Angeles Lakers,114,OT
+http://www.basketball-reference.com/boxscores/201102010NOH.html,201102010NOH,WAS,Washington Wizards,89,NOH,New Orleans Hornets,97,RG
+http://www.basketball-reference.com/boxscores/201102010POR.html,201102010POR,SAS,San Antonio Spurs,86,POR,Portland Trail Blazers,99,RG
+http://www.basketball-reference.com/boxscores/201102010SAC.html,201102010SAC,BOS,Boston Celtics,95,SAC,Sacramento Kings,90,RG
+http://www.basketball-reference.com/boxscores/201102020ATL.html,201102020ATL,TOR,Toronto Raptors,87,ATL,Atlanta Hawks,100,RG
+http://www.basketball-reference.com/boxscores/201102020CLE.html,201102020CLE,IND,Indiana Pacers,117,CLE,Cleveland Cavaliers,112,RG
+http://www.basketball-reference.com/boxscores/201102020DEN.html,201102020DEN,POR,Portland Trail Blazers,90,DEN,Denver Nuggets,109,RG
+http://www.basketball-reference.com/boxscores/201102020DET.html,201102020DET,CHA,Charlotte Bobcats,97,DET,Detroit Pistons,87,RG
+http://www.basketball-reference.com/boxscores/201102020LAC.html,201102020LAC,CHI,Chicago Bulls,106,LAC,Los Angeles Clippers,88,RG
+http://www.basketball-reference.com/boxscores/201102020MIN.html,201102020MIN,MEM,Memphis Grizzlies,102,MIN,Minnesota Timberwolves,84,RG
+http://www.basketball-reference.com/boxscores/201102020NJN.html,201102020NJN,PHI,Philadelphia 76ers,106,NJN,New Jersey Nets,92,RG
+http://www.basketball-reference.com/boxscores/201102020NYK.html,201102020NYK,DAL,Dallas Mavericks,113,NYK,New York Knicks,97,RG
+http://www.basketball-reference.com/boxscores/201102020OKC.html,201102020OKC,NOH,New Orleans Hornets,93,OKC,Oklahoma City Thunder,104,RG
+http://www.basketball-reference.com/boxscores/201102020PHO.html,201102020PHO,MIL,Milwaukee Bucks,77,PHO,Phoenix Suns,92,RG
+http://www.basketball-reference.com/boxscores/201102020UTA.html,201102020UTA,HOU,Houston Rockets,97,UTA,Utah Jazz,96,RG
+http://www.basketball-reference.com/boxscores/201102030GSW.html,201102030GSW,MIL,Milwaukee Bucks,94,GSW,Golden State Warriors,100,RG
+http://www.basketball-reference.com/boxscores/201102030LAL.html,201102030LAL,SAS,San Antonio Spurs,89,LAL,Los Angeles Lakers,88,RG
+http://www.basketball-reference.com/boxscores/201102030ORL.html,201102030ORL,MIA,Miami Heat,104,ORL,Orlando Magic,100,RG
+http://www.basketball-reference.com/boxscores/201102040ATL.html,201102040ATL,LAC,Los Angeles Clippers,100,ATL,Atlanta Hawks,101,RG
+http://www.basketball-reference.com/boxscores/201102040BOS.html,201102040BOS,DAL,Dallas Mavericks,101,BOS,Boston Celtics,97,RG
+http://www.basketball-reference.com/boxscores/201102040CHA.html,201102040CHA,MIA,Miami Heat,109,CHA,Charlotte Bobcats,97,RG
+http://www.basketball-reference.com/boxscores/201102040DEN.html,201102040DEN,UTA,Utah Jazz,113,DEN,Denver Nuggets,106,RG
+http://www.basketball-reference.com/boxscores/201102040DET.html,201102040DET,NJN,New Jersey Nets,82,DET,Detroit Pistons,92,RG
+http://www.basketball-reference.com/boxscores/201102040IND.html,201102040IND,POR,Portland Trail Blazers,87,IND,Indiana Pacers,100,RG
+http://www.basketball-reference.com/boxscores/201102040MEM.html,201102040MEM,CLE,Cleveland Cavaliers,105,MEM,Memphis Grizzlies,112,RG
+http://www.basketball-reference.com/boxscores/201102040PHI.html,201102040PHI,NYK,New York Knicks,98,PHI,Philadelphia 76ers,100,RG
+http://www.basketball-reference.com/boxscores/201102040PHO.html,201102040PHO,OKC,Oklahoma City Thunder,111,PHO,Phoenix Suns,107,RG
+http://www.basketball-reference.com/boxscores/201102040SAC.html,201102040SAC,SAS,San Antonio Spurs,113,SAC,Sacramento Kings,100,RG
+http://www.basketball-reference.com/boxscores/201102040TOR.html,201102040TOR,MIN,Minnesota Timberwolves,100,TOR,Toronto Raptors,111,RG
+http://www.basketball-reference.com/boxscores/201102040WAS.html,201102040WAS,ORL,Orlando Magic,110,WAS,Washington Wizards,92,RG
+http://www.basketball-reference.com/boxscores/201102050CHA.html,201102050CHA,DAL,Dallas Mavericks,101,CHA,Charlotte Bobcats,92,RG
+http://www.basketball-reference.com/boxscores/201102050CLE.html,201102050CLE,POR,Portland Trail Blazers,111,CLE,Cleveland Cavaliers,105,RG
+http://www.basketball-reference.com/boxscores/201102050GSW.html,201102050GSW,CHI,Chicago Bulls,90,GSW,Golden State Warriors,101,RG
+http://www.basketball-reference.com/boxscores/201102050HOU.html,201102050HOU,MEM,Memphis Grizzlies,93,HOU,Houston Rockets,95,OT
+http://www.basketball-reference.com/boxscores/201102050MIL.html,201102050MIL,DET,Detroit Pistons,89,MIL,Milwaukee Bucks,78,RG
+http://www.basketball-reference.com/boxscores/201102050MIN.html,201102050MIN,DEN,Denver Nuggets,113,MIN,Minnesota Timberwolves,100,RG
+http://www.basketball-reference.com/boxscores/201102050NOH.html,201102050NOH,LAL,Los Angeles Lakers,101,NOH,New Orleans Hornets,95,RG
+http://www.basketball-reference.com/boxscores/201102050UTA.html,201102050UTA,OKC,Oklahoma City Thunder,121,UTA,Utah Jazz,105,RG
+http://www.basketball-reference.com/boxscores/201102050WAS.html,201102050WAS,ATL,Atlanta Hawks,99,WAS,Washington Wizards,92,RG
+http://www.basketball-reference.com/boxscores/201102060BOS.html,201102060BOS,ORL,Orlando Magic,80,BOS,Boston Celtics,91,RG
+http://www.basketball-reference.com/boxscores/201102060MIA.html,201102060MIA,LAC,Los Angeles Clippers,79,MIA,Miami Heat,97,RG
+http://www.basketball-reference.com/boxscores/201102060NJN.html,201102060NJN,IND,Indiana Pacers,105,NJN,New Jersey Nets,86,RG
+http://www.basketball-reference.com/boxscores/201102060NYK.html,201102060NYK,PHI,Philadelphia 76ers,103,NYK,New York Knicks,117,RG
+http://www.basketball-reference.com/boxscores/201102070CHA.html,201102070CHA,BOS,Boston Celtics,89,CHA,Charlotte Bobcats,94,RG
+http://www.basketball-reference.com/boxscores/201102070DAL.html,201102070DAL,CLE,Cleveland Cavaliers,96,DAL,Dallas Mavericks,99,RG
+http://www.basketball-reference.com/boxscores/201102070DEN.html,201102070DEN,HOU,Houston Rockets,108,DEN,Denver Nuggets,103,RG
+http://www.basketball-reference.com/boxscores/201102070GSW.html,201102070GSW,PHO,Phoenix Suns,104,GSW,Golden State Warriors,92,RG
+http://www.basketball-reference.com/boxscores/201102070MEM.html,201102070MEM,LAL,Los Angeles Lakers,93,MEM,Memphis Grizzlies,84,RG
+http://www.basketball-reference.com/boxscores/201102070NOH.html,201102070NOH,MIN,Minnesota Timberwolves,104,NOH,New Orleans Hornets,92,RG
+http://www.basketball-reference.com/boxscores/201102070POR.html,201102070POR,CHI,Chicago Bulls,103,POR,Portland Trail Blazers,109,RG
+http://www.basketball-reference.com/boxscores/201102070SAC.html,201102070SAC,UTA,Utah Jazz,107,SAC,Sacramento Kings,104,RG
+http://www.basketball-reference.com/boxscores/201102080ATL.html,201102080ATL,PHI,Philadelphia 76ers,117,ATL,Atlanta Hawks,83,RG
+http://www.basketball-reference.com/boxscores/201102080DET.html,201102080DET,SAS,San Antonio Spurs,100,DET,Detroit Pistons,89,RG
+http://www.basketball-reference.com/boxscores/201102080HOU.html,201102080HOU,MIN,Minnesota Timberwolves,112,HOU,Houston Rockets,108,RG
+http://www.basketball-reference.com/boxscores/201102080MIA.html,201102080MIA,IND,Indiana Pacers,112,MIA,Miami Heat,117,RG
+http://www.basketball-reference.com/boxscores/201102080MIL.html,201102080MIL,TOR,Toronto Raptors,74,MIL,Milwaukee Bucks,92,RG
+http://www.basketball-reference.com/boxscores/201102080OKC.html,201102080OKC,MEM,Memphis Grizzlies,105,OKC,Oklahoma City Thunder,101,OT
+http://www.basketball-reference.com/boxscores/201102080ORL.html,201102080ORL,LAC,Los Angeles Clippers,85,ORL,Orlando Magic,101,RG
+http://www.basketball-reference.com/boxscores/201102090CLE.html,201102090CLE,DET,Detroit Pistons,103,CLE,Cleveland Cavaliers,94,RG
+http://www.basketball-reference.com/boxscores/201102090GSW.html,201102090GSW,DEN,Denver Nuggets,114,GSW,Golden State Warriors,116,RG
+http://www.basketball-reference.com/boxscores/201102090IND.html,201102090IND,CHA,Charlotte Bobcats,103,IND,Indiana Pacers,104,RG
+http://www.basketball-reference.com/boxscores/201102090NJN.html,201102090NJN,NOH,New Orleans Hornets,101,NJN,New Jersey Nets,103,OT
+http://www.basketball-reference.com/boxscores/201102090NYK.html,201102090NYK,LAC,Los Angeles Clippers,116,NYK,New York Knicks,108,RG
+http://www.basketball-reference.com/boxscores/201102090PHI.html,201102090PHI,ORL,Orlando Magic,99,PHI,Philadelphia 76ers,95,RG
+http://www.basketball-reference.com/boxscores/201102090SAC.html,201102090SAC,DAL,Dallas Mavericks,102,SAC,Sacramento Kings,100,RG
+http://www.basketball-reference.com/boxscores/201102090TOR.html,201102090TOR,SAS,San Antonio Spurs,111,TOR,Toronto Raptors,100,RG
+http://www.basketball-reference.com/boxscores/201102090UTA.html,201102090UTA,CHI,Chicago Bulls,91,UTA,Utah Jazz,86,RG
+http://www.basketball-reference.com/boxscores/201102090WAS.html,201102090WAS,MIL,Milwaukee Bucks,85,WAS,Washington Wizards,100,RG
+http://www.basketball-reference.com/boxscores/201102100BOS.html,201102100BOS,LAL,Los Angeles Lakers,92,BOS,Boston Celtics,86,RG
+http://www.basketball-reference.com/boxscores/201102100DEN.html,201102100DEN,DAL,Dallas Mavericks,120,DEN,Denver Nuggets,121,RG
+http://www.basketball-reference.com/boxscores/201102100PHO.html,201102100PHO,GSW,Golden State Warriors,88,PHO,Phoenix Suns,112,RG
+http://www.basketball-reference.com/boxscores/201102110CHA.html,201102110CHA,NJN,New Jersey Nets,94,CHA,Charlotte Bobcats,89,RG
+http://www.basketball-reference.com/boxscores/201102110CLE.html,201102110CLE,LAC,Los Angeles Clippers,119,CLE,Cleveland Cavaliers,126,OT
+http://www.basketball-reference.com/boxscores/201102110DET.html,201102110DET,MIA,Miami Heat,106,DET,Detroit Pistons,92,RG
+http://www.basketball-reference.com/boxscores/201102110IND.html,201102110IND,MIN,Minnesota Timberwolves,105,IND,Indiana Pacers,116,RG
+http://www.basketball-reference.com/boxscores/201102110MEM.html,201102110MEM,MIL,Milwaukee Bucks,86,MEM,Memphis Grizzlies,89,RG
+http://www.basketball-reference.com/boxscores/201102110NYK.html,201102110NYK,LAL,Los Angeles Lakers,113,NYK,New York Knicks,96,RG
+http://www.basketball-reference.com/boxscores/201102110ORL.html,201102110ORL,NOH,New Orleans Hornets,99,ORL,Orlando Magic,93,RG
+http://www.basketball-reference.com/boxscores/201102110PHI.html,201102110PHI,SAS,San Antonio Spurs,71,PHI,Philadelphia 76ers,77,RG
+http://www.basketball-reference.com/boxscores/201102110TOR.html,201102110TOR,POR,Portland Trail Blazers,102,TOR,Toronto Raptors,96,RG
+http://www.basketball-reference.com/boxscores/201102110UTA.html,201102110UTA,PHO,Phoenix Suns,95,UTA,Utah Jazz,83,RG
+http://www.basketball-reference.com/boxscores/201102120ATL.html,201102120ATL,CHA,Charlotte Bobcats,88,ATL,Atlanta Hawks,86,RG
+http://www.basketball-reference.com/boxscores/201102120HOU.html,201102120HOU,DAL,Dallas Mavericks,106,HOU,Houston Rockets,102,RG
+http://www.basketball-reference.com/boxscores/201102120MIL.html,201102120MIL,IND,Indiana Pacers,103,MIL,Milwaukee Bucks,97,RG
+http://www.basketball-reference.com/boxscores/201102120MIN.html,201102120MIN,PHI,Philadelphia 76ers,107,MIN,Minnesota Timberwolves,87,RG
+http://www.basketball-reference.com/boxscores/201102120NJN.html,201102120NJN,NYK,New York Knicks,105,NJN,New Jersey Nets,95,RG
+http://www.basketball-reference.com/boxscores/201102120NOH.html,201102120NOH,CHI,Chicago Bulls,97,NOH,New Orleans Hornets,88,RG
+http://www.basketball-reference.com/boxscores/201102120SAC.html,201102120SAC,OKC,Oklahoma City Thunder,99,SAC,Sacramento Kings,97,RG
+http://www.basketball-reference.com/boxscores/201102120WAS.html,201102120WAS,SAS,San Antonio Spurs,118,WAS,Washington Wizards,94,RG
+http://www.basketball-reference.com/boxscores/201102130BOS.html,201102130BOS,MIA,Miami Heat,82,BOS,Boston Celtics,85,RG
+http://www.basketball-reference.com/boxscores/201102130CLE.html,201102130CLE,WAS,Washington Wizards,115,CLE,Cleveland Cavaliers,100,RG
+http://www.basketball-reference.com/boxscores/201102130DET.html,201102130DET,POR,Portland Trail Blazers,105,DET,Detroit Pistons,100,RG
+http://www.basketball-reference.com/boxscores/201102130GSW.html,201102130GSW,OKC,Oklahoma City Thunder,94,GSW,Golden State Warriors,100,RG
+http://www.basketball-reference.com/boxscores/201102130MEM.html,201102130MEM,DEN,Denver Nuggets,108,MEM,Memphis Grizzlies,116,RG
+http://www.basketball-reference.com/boxscores/201102130ORL.html,201102130ORL,LAL,Los Angeles Lakers,75,ORL,Orlando Magic,89,RG
+http://www.basketball-reference.com/boxscores/201102130PHO.html,201102130PHO,SAC,Sacramento Kings,113,PHO,Phoenix Suns,108,RG
+http://www.basketball-reference.com/boxscores/201102130TOR.html,201102130TOR,LAC,Los Angeles Clippers,93,TOR,Toronto Raptors,98,RG
+http://www.basketball-reference.com/boxscores/201102140CHA.html,201102140CHA,LAL,Los Angeles Lakers,89,CHA,Charlotte Bobcats,109,RG
+http://www.basketball-reference.com/boxscores/201102140DET.html,201102140DET,ATL,Atlanta Hawks,94,DET,Detroit Pistons,79,RG
+http://www.basketball-reference.com/boxscores/201102140HOU.html,201102140HOU,DEN,Denver Nuggets,102,HOU,Houston Rockets,121,RG
+http://www.basketball-reference.com/boxscores/201102140MIL.html,201102140MIL,LAC,Los Angeles Clippers,78,MIL,Milwaukee Bucks,102,RG
+http://www.basketball-reference.com/boxscores/201102140MIN.html,201102140MIN,POR,Portland Trail Blazers,95,MIN,Minnesota Timberwolves,81,RG
+http://www.basketball-reference.com/boxscores/201102140NJN.html,201102140NJN,SAS,San Antonio Spurs,102,NJN,New Jersey Nets,85,RG
+http://www.basketball-reference.com/boxscores/201102150CHI.html,201102150CHI,CHA,Charlotte Bobcats,94,CHI,Chicago Bulls,106,RG
+http://www.basketball-reference.com/boxscores/201102150GSW.html,201102150GSW,NOH,New Orleans Hornets,89,GSW,Golden State Warriors,102,RG
+http://www.basketball-reference.com/boxscores/201102150IND.html,201102150IND,MIA,Miami Heat,110,IND,Indiana Pacers,103,RG
+http://www.basketball-reference.com/boxscores/201102150MEM.html,201102150MEM,PHI,Philadelphia 76ers,91,MEM,Memphis Grizzlies,102,RG
+http://www.basketball-reference.com/boxscores/201102150OKC.html,201102150OKC,SAC,Sacramento Kings,96,OKC,Oklahoma City Thunder,126,RG
+http://www.basketball-reference.com/boxscores/201102150PHO.html,201102150PHO,UTA,Utah Jazz,101,PHO,Phoenix Suns,102,RG
+http://www.basketball-reference.com/boxscores/201102160BOS.html,201102160BOS,NJN,New Jersey Nets,80,BOS,Boston Celtics,94,RG
+http://www.basketball-reference.com/boxscores/201102160CLE.html,201102160CLE,LAL,Los Angeles Lakers,99,CLE,Cleveland Cavaliers,104,RG
+http://www.basketball-reference.com/boxscores/201102160DAL.html,201102160DAL,SAC,Sacramento Kings,100,DAL,Dallas Mavericks,116,RG
+http://www.basketball-reference.com/boxscores/201102160DET.html,201102160DET,IND,Indiana Pacers,109,DET,Detroit Pistons,115,OT
+http://www.basketball-reference.com/boxscores/201102160HOU.html,201102160HOU,PHI,Philadelphia 76ers,114,HOU,Houston Rockets,105,RG
+http://www.basketball-reference.com/boxscores/201102160MIL.html,201102160MIL,DEN,Denver Nuggets,94,MIL,Milwaukee Bucks,87,RG
+http://www.basketball-reference.com/boxscores/201102160MIN.html,201102160MIN,LAC,Los Angeles Clippers,98,MIN,Minnesota Timberwolves,90,RG
+http://www.basketball-reference.com/boxscores/201102160NYK.html,201102160NYK,ATL,Atlanta Hawks,90,NYK,New York Knicks,102,RG
+http://www.basketball-reference.com/boxscores/201102160ORL.html,201102160ORL,WAS,Washington Wizards,76,ORL,Orlando Magic,101,RG
+http://www.basketball-reference.com/boxscores/201102160POR.html,201102160POR,NOH,New Orleans Hornets,96,POR,Portland Trail Blazers,103,RG
+http://www.basketball-reference.com/boxscores/201102160TOR.html,201102160TOR,MIA,Miami Heat,103,TOR,Toronto Raptors,95,RG
+http://www.basketball-reference.com/boxscores/201102160UTA.html,201102160UTA,GSW,Golden State Warriors,107,UTA,Utah Jazz,100,RG
+http://www.basketball-reference.com/boxscores/201102170CHI.html,201102170CHI,SAS,San Antonio Spurs,99,CHI,Chicago Bulls,109,RG
+http://www.basketball-reference.com/boxscores/201102170PHO.html,201102170PHO,DAL,Dallas Mavericks,112,PHO,Phoenix Suns,106,RG
+http://www.basketball-reference.com/boxscores/201102220CHA.html,201102220CHA,TOR,Toronto Raptors,101,CHA,Charlotte Bobcats,114,RG
+http://www.basketball-reference.com/boxscores/201102220DEN.html,201102220DEN,MEM,Memphis Grizzlies,107,DEN,Denver Nuggets,120,RG
+http://www.basketball-reference.com/boxscores/201102220DET.html,201102220DET,HOU,Houston Rockets,108,DET,Detroit Pistons,100,RG
+http://www.basketball-reference.com/boxscores/201102220GSW.html,201102220GSW,BOS,Boston Celtics,115,GSW,Golden State Warriors,93,RG
+http://www.basketball-reference.com/boxscores/201102220LAL.html,201102220LAL,ATL,Atlanta Hawks,80,LAL,Los Angeles Lakers,104,RG
+http://www.basketball-reference.com/boxscores/201102220MIA.html,201102220MIA,SAC,Sacramento Kings,97,MIA,Miami Heat,117,RG
+http://www.basketball-reference.com/boxscores/201102220MIL.html,201102220MIL,MIN,Minnesota Timberwolves,88,MIL,Milwaukee Bucks,94,RG
+http://www.basketball-reference.com/boxscores/201102220OKC.html,201102220OKC,LAC,Los Angeles Clippers,88,OKC,Oklahoma City Thunder,111,RG
+http://www.basketball-reference.com/boxscores/201102220WAS.html,201102220WAS,IND,Indiana Pacers,113,WAS,Washington Wizards,96,RG
+http://www.basketball-reference.com/boxscores/201102230CLE.html,201102230CLE,HOU,Houston Rockets,124,CLE,Cleveland Cavaliers,119,RG
+http://www.basketball-reference.com/boxscores/201102230DAL.html,201102230DAL,UTA,Utah Jazz,99,DAL,Dallas Mavericks,118,RG
+http://www.basketball-reference.com/boxscores/201102230IND.html,201102230IND,DET,Detroit Pistons,101,IND,Indiana Pacers,102,RG
+http://www.basketball-reference.com/boxscores/201102230MIN.html,201102230MIN,MEM,Memphis Grizzlies,104,MIN,Minnesota Timberwolves,95,RG
+http://www.basketball-reference.com/boxscores/201102230NOH.html,201102230NOH,LAC,Los Angeles Clippers,87,NOH,New Orleans Hornets,98,RG
+http://www.basketball-reference.com/boxscores/201102230NYK.html,201102230NYK,MIL,Milwaukee Bucks,108,NYK,New York Knicks,114,RG
+http://www.basketball-reference.com/boxscores/201102230ORL.html,201102230ORL,SAC,Sacramento Kings,111,ORL,Orlando Magic,105,RG
+http://www.basketball-reference.com/boxscores/201102230PHI.html,201102230PHI,WAS,Washington Wizards,94,PHI,Philadelphia 76ers,117,RG
+http://www.basketball-reference.com/boxscores/201102230PHO.html,201102230PHO,ATL,Atlanta Hawks,97,PHO,Phoenix Suns,105,RG
+http://www.basketball-reference.com/boxscores/201102230POR.html,201102230POR,LAL,Los Angeles Lakers,106,POR,Portland Trail Blazers,101,OT
+http://www.basketball-reference.com/boxscores/201102230SAS.html,201102230SAS,OKC,Oklahoma City Thunder,105,SAS,San Antonio Spurs,109,RG
+http://www.basketball-reference.com/boxscores/201102230TOR.html,201102230TOR,CHI,Chicago Bulls,113,TOR,Toronto Raptors,118,RG
+http://www.basketball-reference.com/boxscores/201102240CHI.html,201102240CHI,MIA,Miami Heat,89,CHI,Chicago Bulls,93,RG
+http://www.basketball-reference.com/boxscores/201102240DEN.html,201102240DEN,BOS,Boston Celtics,75,DEN,Denver Nuggets,89,RG
+http://www.basketball-reference.com/boxscores/201102250CHA.html,201102250CHA,SAC,Sacramento Kings,98,CHA,Charlotte Bobcats,110,RG
+http://www.basketball-reference.com/boxscores/201102250CLE.html,201102250CLE,NYK,New York Knicks,109,CLE,Cleveland Cavaliers,115,RG
+http://www.basketball-reference.com/boxscores/201102250GSW.html,201102250GSW,ATL,Atlanta Hawks,95,GSW,Golden State Warriors,79,RG
+http://www.basketball-reference.com/boxscores/201102250IND.html,201102250IND,UTA,Utah Jazz,95,IND,Indiana Pacers,84,RG
+http://www.basketball-reference.com/boxscores/201102250LAL.html,201102250LAL,LAC,Los Angeles Clippers,95,LAL,Los Angeles Lakers,108,RG
+http://www.basketball-reference.com/boxscores/201102250MIA.html,201102250MIA,WAS,Washington Wizards,113,MIA,Miami Heat,121,RG
+http://www.basketball-reference.com/boxscores/201102250MIN.html,201102250MIN,NOH,New Orleans Hornets,95,MIN,Minnesota Timberwolves,81,RG
+http://www.basketball-reference.com/boxscores/201102250ORL.html,201102250ORL,OKC,Oklahoma City Thunder,88,ORL,Orlando Magic,111,RG
+http://www.basketball-reference.com/boxscores/201102250PHI.html,201102250PHI,DET,Detroit Pistons,94,PHI,Philadelphia 76ers,110,RG
+http://www.basketball-reference.com/boxscores/201102250POR.html,201102250POR,DEN,Denver Nuggets,106,POR,Portland Trail Blazers,107,OT
+http://www.basketball-reference.com/boxscores/201102250SAS.html,201102250SAS,NJN,New Jersey Nets,96,SAS,San Antonio Spurs,106,RG
+http://www.basketball-reference.com/boxscores/201102250TOR.html,201102250TOR,PHO,Phoenix Suns,110,TOR,Toronto Raptors,92,RG
+http://www.basketball-reference.com/boxscores/201102260DET.html,201102260DET,UTA,Utah Jazz,116,DET,Detroit Pistons,120,RG
+http://www.basketball-reference.com/boxscores/201102260HOU.html,201102260HOU,NJN,New Jersey Nets,108,HOU,Houston Rockets,123,RG
+http://www.basketball-reference.com/boxscores/201102260LAC.html,201102260LAC,BOS,Boston Celtics,99,LAC,Los Angeles Clippers,92,RG
+http://www.basketball-reference.com/boxscores/201102260MEM.html,201102260MEM,SAC,Sacramento Kings,92,MEM,Memphis Grizzlies,120,RG
+http://www.basketball-reference.com/boxscores/201102260MIL.html,201102260MIL,CHI,Chicago Bulls,83,MIL,Milwaukee Bucks,75,RG
+http://www.basketball-reference.com/boxscores/201102260WAS.html,201102260WAS,DAL,Dallas Mavericks,105,WAS,Washington Wizards,99,RG
+http://www.basketball-reference.com/boxscores/201102270CLE.html,201102270CLE,PHI,Philadelphia 76ers,95,CLE,Cleveland Cavaliers,91,RG
+http://www.basketball-reference.com/boxscores/201102270IND.html,201102270IND,PHO,Phoenix Suns,110,IND,Indiana Pacers,108,OT
+http://www.basketball-reference.com/boxscores/201102270MIA.html,201102270MIA,NYK,New York Knicks,91,MIA,Miami Heat,86,RG
+http://www.basketball-reference.com/boxscores/201102270MIN.html,201102270MIN,GSW,Golden State Warriors,123,MIN,Minnesota Timberwolves,126,RG
+http://www.basketball-reference.com/boxscores/201102270NOH.html,201102270NOH,HOU,Houston Rockets,91,NOH,New Orleans Hornets,89,RG
+http://www.basketball-reference.com/boxscores/201102270OKC.html,201102270OKC,LAL,Los Angeles Lakers,90,OKC,Oklahoma City Thunder,87,RG
+http://www.basketball-reference.com/boxscores/201102270ORL.html,201102270ORL,CHA,Charlotte Bobcats,86,ORL,Orlando Magic,100,RG
+http://www.basketball-reference.com/boxscores/201102270POR.html,201102270POR,ATL,Atlanta Hawks,90,POR,Portland Trail Blazers,83,RG
+http://www.basketball-reference.com/boxscores/201102270SAS.html,201102270SAS,MEM,Memphis Grizzlies,88,SAS,San Antonio Spurs,95,RG
+http://www.basketball-reference.com/boxscores/201102270TOR.html,201102270TOR,DAL,Dallas Mavericks,114,TOR,Toronto Raptors,96,RG
+http://www.basketball-reference.com/boxscores/201102280DEN.html,201102280DEN,ATL,Atlanta Hawks,90,DEN,Denver Nuggets,100,RG
+http://www.basketball-reference.com/boxscores/201102280NJN.html,201102280NJN,PHO,Phoenix Suns,104,NJN,New Jersey Nets,103,OT
+http://www.basketball-reference.com/boxscores/201102280SAC.html,201102280SAC,LAC,Los Angeles Clippers,99,SAC,Sacramento Kings,105,RG
+http://www.basketball-reference.com/boxscores/201102280UTA.html,201102280UTA,BOS,Boston Celtics,107,UTA,Utah Jazz,102,RG
+http://www.basketball-reference.com/boxscores/201102280WAS.html,201102280WAS,CHI,Chicago Bulls,105,WAS,Washington Wizards,77,RG
+http://www.basketball-reference.com/boxscores/201103010IND.html,201103010IND,GSW,Golden State Warriors,100,IND,Indiana Pacers,109,RG
+http://www.basketball-reference.com/boxscores/201103010MEM.html,201103010MEM,SAS,San Antonio Spurs,93,MEM,Memphis Grizzlies,109,RG
+http://www.basketball-reference.com/boxscores/201103010MIL.html,201103010MIL,DET,Detroit Pistons,90,MIL,Milwaukee Bucks,92,RG
+http://www.basketball-reference.com/boxscores/201103010MIN.html,201103010MIN,LAL,Los Angeles Lakers,90,MIN,Minnesota Timberwolves,79,RG
+http://www.basketball-reference.com/boxscores/201103010ORL.html,201103010ORL,NYK,New York Knicks,110,ORL,Orlando Magic,116,RG
+http://www.basketball-reference.com/boxscores/201103010PHI.html,201103010PHI,DAL,Dallas Mavericks,101,PHI,Philadelphia 76ers,93,RG
+http://www.basketball-reference.com/boxscores/201103010POR.html,201103010POR,HOU,Houston Rockets,103,POR,Portland Trail Blazers,87,RG
+http://www.basketball-reference.com/boxscores/201103010TOR.html,201103010TOR,NOH,New Orleans Hornets,90,TOR,Toronto Raptors,96,RG
+http://www.basketball-reference.com/boxscores/201103020ATL.html,201103020ATL,CHI,Chicago Bulls,80,ATL,Atlanta Hawks,83,RG
+http://www.basketball-reference.com/boxscores/201103020BOS.html,201103020BOS,PHO,Phoenix Suns,103,BOS,Boston Celtics,115,RG
+http://www.basketball-reference.com/boxscores/201103020CLE.html,201103020CLE,SAS,San Antonio Spurs,109,CLE,Cleveland Cavaliers,99,RG
+http://www.basketball-reference.com/boxscores/201103020DEN.html,201103020DEN,CHA,Charlotte Bobcats,80,DEN,Denver Nuggets,120,RG
+http://www.basketball-reference.com/boxscores/201103020DET.html,201103020DET,MIN,Minnesota Timberwolves,116,DET,Detroit Pistons,105,RG
+http://www.basketball-reference.com/boxscores/201103020LAC.html,201103020LAC,HOU,Houston Rockets,103,LAC,Los Angeles Clippers,106,RG
+http://www.basketball-reference.com/boxscores/201103020NYK.html,201103020NYK,NOH,New Orleans Hornets,88,NYK,New York Knicks,107,RG
+http://www.basketball-reference.com/boxscores/201103020OKC.html,201103020OKC,IND,Indiana Pacers,89,OKC,Oklahoma City Thunder,113,RG
+http://www.basketball-reference.com/boxscores/201103020SAC.html,201103020SAC,POR,Portland Trail Blazers,107,SAC,Sacramento Kings,102,RG
+http://www.basketball-reference.com/boxscores/201103020WAS.html,201103020WAS,GSW,Golden State Warriors,106,WAS,Washington Wizards,102,RG
+http://www.basketball-reference.com/boxscores/201103030MIA.html,201103030MIA,ORL,Orlando Magic,99,MIA,Miami Heat,96,RG
+http://www.basketball-reference.com/boxscores/201103030UTA.html,201103030UTA,DEN,Denver Nuggets,103,UTA,Utah Jazz,101,RG
+http://www.basketball-reference.com/boxscores/201103040ATL.html,201103040ATL,OKC,Oklahoma City Thunder,111,ATL,Atlanta Hawks,104,RG
+http://www.basketball-reference.com/boxscores/201103040BOS.html,201103040BOS,GSW,Golden State Warriors,103,BOS,Boston Celtics,107,RG
+http://www.basketball-reference.com/boxscores/201103040DAL.html,201103040DAL,IND,Indiana Pacers,108,DAL,Dallas Mavericks,116,RG
+http://www.basketball-reference.com/boxscores/201103040LAL.html,201103040LAL,CHA,Charlotte Bobcats,84,LAL,Los Angeles Lakers,92,RG
+http://www.basketball-reference.com/boxscores/201103040MEM.html,201103040MEM,NOH,New Orleans Hornets,98,MEM,Memphis Grizzlies,91,RG
+http://www.basketball-reference.com/boxscores/201103040MIL.html,201103040MIL,PHO,Phoenix Suns,102,MIL,Milwaukee Bucks,88,RG
+http://www.basketball-reference.com/boxscores/201103040NJN.html,201103040NJN,TOR,Toronto Raptors,103,NJN,New Jersey Nets,116,RG
+http://www.basketball-reference.com/boxscores/201103040NYK.html,201103040NYK,CLE,Cleveland Cavaliers,119,NYK,New York Knicks,115,RG
+http://www.basketball-reference.com/boxscores/201103040ORL.html,201103040ORL,CHI,Chicago Bulls,89,ORL,Orlando Magic,81,RG
+http://www.basketball-reference.com/boxscores/201103040PHI.html,201103040PHI,MIN,Minnesota Timberwolves,100,PHI,Philadelphia 76ers,111,RG
+http://www.basketball-reference.com/boxscores/201103040SAS.html,201103040SAS,MIA,Miami Heat,95,SAS,San Antonio Spurs,125,RG
+http://www.basketball-reference.com/boxscores/201103050HOU.html,201103050HOU,IND,Indiana Pacers,95,HOU,Houston Rockets,112,RG
+http://www.basketball-reference.com/boxscores/201103050LAC.html,201103050LAC,DEN,Denver Nuggets,94,LAC,Los Angeles Clippers,100,RG
+http://www.basketball-reference.com/boxscores/201103050NJN.html,201103050NJN,TOR,Toronto Raptors,136,NJN,New Jersey Nets,137,3OT
+http://www.basketball-reference.com/boxscores/201103050POR.html,201103050POR,CHA,Charlotte Bobcats,69,POR,Portland Trail Blazers,93,RG
+http://www.basketball-reference.com/boxscores/201103050UTA.html,201103050UTA,SAC,Sacramento Kings,102,UTA,Utah Jazz,109,OT
+http://www.basketball-reference.com/boxscores/201103050WAS.html,201103050WAS,MIN,Minnesota Timberwolves,96,WAS,Washington Wizards,103,RG
+http://www.basketball-reference.com/boxscores/201103060ATL.html,201103060ATL,NYK,New York Knicks,92,ATL,Atlanta Hawks,79,RG
+http://www.basketball-reference.com/boxscores/201103060CLE.html,201103060CLE,NOH,New Orleans Hornets,96,CLE,Cleveland Cavaliers,81,RG
+http://www.basketball-reference.com/boxscores/201103060DAL.html,201103060DAL,MEM,Memphis Grizzlies,104,DAL,Dallas Mavericks,103,RG
+http://www.basketball-reference.com/boxscores/201103060DET.html,201103060DET,WAS,Washington Wizards,102,DET,Detroit Pistons,113,RG
+http://www.basketball-reference.com/boxscores/201103060MIA.html,201103060MIA,CHI,Chicago Bulls,87,MIA,Miami Heat,86,RG
+http://www.basketball-reference.com/boxscores/201103060MIL.html,201103060MIL,BOS,Boston Celtics,89,MIL,Milwaukee Bucks,83,RG
+http://www.basketball-reference.com/boxscores/201103060OKC.html,201103060OKC,PHO,Phoenix Suns,118,OKC,Oklahoma City Thunder,122,OT
+http://www.basketball-reference.com/boxscores/201103060PHI.html,201103060PHI,GSW,Golden State Warriors,117,PHI,Philadelphia 76ers,125,OT
+http://www.basketball-reference.com/boxscores/201103060SAS.html,201103060SAS,LAL,Los Angeles Lakers,99,SAS,San Antonio Spurs,83,RG
+http://www.basketball-reference.com/boxscores/201103070CHA.html,201103070CHA,LAC,Los Angeles Clippers,92,CHA,Charlotte Bobcats,87,RG
+http://www.basketball-reference.com/boxscores/201103070CHI.html,201103070CHI,NOH,New Orleans Hornets,77,CHI,Chicago Bulls,85,RG
+http://www.basketball-reference.com/boxscores/201103070MEM.html,201103070MEM,OKC,Oklahoma City Thunder,101,MEM,Memphis Grizzlies,107,RG
+http://www.basketball-reference.com/boxscores/201103070MIN.html,201103070MIN,DAL,Dallas Mavericks,108,MIN,Minnesota Timberwolves,105,RG
+http://www.basketball-reference.com/boxscores/201103070NYK.html,201103070NYK,UTA,Utah Jazz,109,NYK,New York Knicks,131,RG
+http://www.basketball-reference.com/boxscores/201103070ORL.html,201103070ORL,POR,Portland Trail Blazers,89,ORL,Orlando Magic,85,RG
+http://www.basketball-reference.com/boxscores/201103070SAC.html,201103070SAC,HOU,Houston Rockets,123,SAC,Sacramento Kings,101,RG
+http://www.basketball-reference.com/boxscores/201103080ATL.html,201103080ATL,LAL,Los Angeles Lakers,101,ATL,Atlanta Hawks,87,RG
+http://www.basketball-reference.com/boxscores/201103080CLE.html,201103080CLE,GSW,Golden State Warriors,95,CLE,Cleveland Cavaliers,85,RG
+http://www.basketball-reference.com/boxscores/201103080IND.html,201103080IND,PHI,Philadelphia 76ers,110,IND,Indiana Pacers,100,RG
+http://www.basketball-reference.com/boxscores/201103080MIA.html,201103080MIA,POR,Portland Trail Blazers,105,MIA,Miami Heat,96,RG
+http://www.basketball-reference.com/boxscores/201103080PHO.html,201103080PHO,HOU,Houston Rockets,110,PHO,Phoenix Suns,113,RG
+http://www.basketball-reference.com/boxscores/201103080WAS.html,201103080WAS,MIL,Milwaukee Bucks,95,WAS,Washington Wizards,76,RG
+http://www.basketball-reference.com/boxscores/201103090BOS.html,201103090BOS,LAC,Los Angeles Clippers,108,BOS,Boston Celtics,103,RG
+http://www.basketball-reference.com/boxscores/201103090CHA.html,201103090CHA,CHI,Chicago Bulls,101,CHA,Charlotte Bobcats,84,RG
+http://www.basketball-reference.com/boxscores/201103090MEM.html,201103090MEM,NYK,New York Knicks,110,MEM,Memphis Grizzlies,108,RG
+http://www.basketball-reference.com/boxscores/201103090MIL.html,201103090MIL,CLE,Cleveland Cavaliers,90,MIL,Milwaukee Bucks,110,RG
+http://www.basketball-reference.com/boxscores/201103090MIN.html,201103090MIN,IND,Indiana Pacers,75,MIN,Minnesota Timberwolves,101,RG
+http://www.basketball-reference.com/boxscores/201103090NJN.html,201103090NJN,GSW,Golden State Warriors,90,NJN,New Jersey Nets,94,RG
+http://www.basketball-reference.com/boxscores/201103090NOH.html,201103090NOH,DAL,Dallas Mavericks,92,NOH,New Orleans Hornets,93,RG
+http://www.basketball-reference.com/boxscores/201103090PHI.html,201103090PHI,OKC,Oklahoma City Thunder,110,PHI,Philadelphia 76ers,105,OT
+http://www.basketball-reference.com/boxscores/201103090SAC.html,201103090SAC,ORL,Orlando Magic,106,SAC,Sacramento Kings,102,RG
+http://www.basketball-reference.com/boxscores/201103090SAS.html,201103090SAS,DET,Detroit Pistons,104,SAS,San Antonio Spurs,111,RG
+http://www.basketball-reference.com/boxscores/201103090TOR.html,201103090TOR,UTA,Utah Jazz,96,TOR,Toronto Raptors,94,RG
+http://www.basketball-reference.com/boxscores/201103100DAL.html,201103100DAL,NYK,New York Knicks,109,DAL,Dallas Mavericks,127,RG
+http://www.basketball-reference.com/boxscores/201103100MIA.html,201103100MIA,LAL,Los Angeles Lakers,88,MIA,Miami Heat,94,RG
+http://www.basketball-reference.com/boxscores/201103100PHO.html,201103100PHO,DEN,Denver Nuggets,116,PHO,Phoenix Suns,97,RG
+http://www.basketball-reference.com/boxscores/201103110CHA.html,201103110CHA,POR,Portland Trail Blazers,92,CHA,Charlotte Bobcats,97,RG
+http://www.basketball-reference.com/boxscores/201103110CHI.html,201103110CHI,ATL,Atlanta Hawks,76,CHI,Chicago Bulls,94,RG
+http://www.basketball-reference.com/boxscores/201103110GSW.html,201103110GSW,ORL,Orlando Magic,120,GSW,Golden State Warriors,123,OT
+http://www.basketball-reference.com/boxscores/201103110MIN.html,201103110MIN,UTA,Utah Jazz,101,MIN,Minnesota Timberwolves,122,RG
+http://www.basketball-reference.com/boxscores/201103110NJN.html,201103110NJN,LAC,Los Angeles Clippers,98,NJN,New Jersey Nets,102,OT
+http://www.basketball-reference.com/boxscores/201103110OKC.html,201103110OKC,DET,Detroit Pistons,94,OKC,Oklahoma City Thunder,104,RG
+http://www.basketball-reference.com/boxscores/201103110PHI.html,201103110PHI,BOS,Boston Celtics,86,PHI,Philadelphia 76ers,89,RG
+http://www.basketball-reference.com/boxscores/201103110SAS.html,201103110SAS,SAC,Sacramento Kings,103,SAS,San Antonio Spurs,108,RG
+http://www.basketball-reference.com/boxscores/201103110TOR.html,201103110TOR,IND,Indiana Pacers,98,TOR,Toronto Raptors,108,RG
+http://www.basketball-reference.com/boxscores/201103120ATL.html,201103120ATL,POR,Portland Trail Blazers,82,ATL,Atlanta Hawks,91,RG
+http://www.basketball-reference.com/boxscores/201103120CHI.html,201103120CHI,UTA,Utah Jazz,100,CHI,Chicago Bulls,118,RG
+http://www.basketball-reference.com/boxscores/201103120DAL.html,201103120DAL,LAL,Los Angeles Lakers,96,DAL,Dallas Mavericks,91,RG
+http://www.basketball-reference.com/boxscores/201103120DEN.html,201103120DEN,DET,Detroit Pistons,101,DEN,Denver Nuggets,131,RG
+http://www.basketball-reference.com/boxscores/201103120HOU.html,201103120HOU,SAS,San Antonio Spurs,115,HOU,Houston Rockets,107,RG
+http://www.basketball-reference.com/boxscores/201103120MIA.html,201103120MIA,MEM,Memphis Grizzlies,85,MIA,Miami Heat,118,RG
+http://www.basketball-reference.com/boxscores/201103120MIL.html,201103120MIL,PHI,Philadelphia 76ers,74,MIL,Milwaukee Bucks,102,RG
+http://www.basketball-reference.com/boxscores/201103120NOH.html,201103120NOH,SAC,Sacramento Kings,103,NOH,New Orleans Hornets,115,RG
+http://www.basketball-reference.com/boxscores/201103120WAS.html,201103120WAS,LAC,Los Angeles Clippers,122,WAS,Washington Wizards,101,RG
+http://www.basketball-reference.com/boxscores/201103130BOS.html,201103130BOS,MIL,Milwaukee Bucks,56,BOS,Boston Celtics,87,RG
+http://www.basketball-reference.com/boxscores/201103130CLE.html,201103130CLE,OKC,Oklahoma City Thunder,95,CLE,Cleveland Cavaliers,75,RG
+http://www.basketball-reference.com/boxscores/201103130GSW.html,201103130GSW,MIN,Minnesota Timberwolves,77,GSW,Golden State Warriors,100,RG
+http://www.basketball-reference.com/boxscores/201103130NYK.html,201103130NYK,IND,Indiana Pacers,106,NYK,New York Knicks,93,RG
+http://www.basketball-reference.com/boxscores/201103130PHO.html,201103130PHO,ORL,Orlando Magic,111,PHO,Phoenix Suns,88,RG
+http://www.basketball-reference.com/boxscores/201103130TOR.html,201103130TOR,CHA,Charlotte Bobcats,95,TOR,Toronto Raptors,90,RG
+http://www.basketball-reference.com/boxscores/201103140HOU.html,201103140HOU,PHO,Phoenix Suns,93,HOU,Houston Rockets,95,RG
+http://www.basketball-reference.com/boxscores/201103140LAL.html,201103140LAL,ORL,Orlando Magic,84,LAL,Los Angeles Lakers,97,RG
+http://www.basketball-reference.com/boxscores/201103140MEM.html,201103140MEM,LAC,Los Angeles Clippers,82,MEM,Memphis Grizzlies,105,RG
+http://www.basketball-reference.com/boxscores/201103140MIA.html,201103140MIA,SAS,San Antonio Spurs,80,MIA,Miami Heat,110,RG
+http://www.basketball-reference.com/boxscores/201103140NJN.html,201103140NJN,BOS,Boston Celtics,79,NJN,New Jersey Nets,88,RG
+http://www.basketball-reference.com/boxscores/201103140NOH.html,201103140NOH,DEN,Denver Nuggets,114,NOH,New Orleans Hornets,103,RG
+http://www.basketball-reference.com/boxscores/201103140SAC.html,201103140SAC,GSW,Golden State Warriors,119,SAC,Sacramento Kings,129,RG
+http://www.basketball-reference.com/boxscores/201103140UTA.html,201103140UTA,PHI,Philadelphia 76ers,107,UTA,Utah Jazz,112,OT
+http://www.basketball-reference.com/boxscores/201103140WAS.html,201103140WAS,OKC,Oklahoma City Thunder,116,WAS,Washington Wizards,89,RG
+http://www.basketball-reference.com/boxscores/201103150ATL.html,201103150ATL,MIL,Milwaukee Bucks,85,ATL,Atlanta Hawks,110,RG
+http://www.basketball-reference.com/boxscores/201103150CHI.html,201103150CHI,WAS,Washington Wizards,79,CHI,Chicago Bulls,98,RG
+http://www.basketball-reference.com/boxscores/201103150IND.html,201103150IND,NYK,New York Knicks,117,IND,Indiana Pacers,119,RG
+http://www.basketball-reference.com/boxscores/201103150POR.html,201103150POR,DAL,Dallas Mavericks,101,POR,Portland Trail Blazers,104,RG
+http://www.basketball-reference.com/boxscores/201103160ATL.html,201103160ATL,DEN,Denver Nuggets,102,ATL,Atlanta Hawks,87,RG
+http://www.basketball-reference.com/boxscores/201103160BOS.html,201103160BOS,IND,Indiana Pacers,80,BOS,Boston Celtics,92,RG
+http://www.basketball-reference.com/boxscores/201103160DET.html,201103160DET,TOR,Toronto Raptors,93,DET,Detroit Pistons,107,RG
+http://www.basketball-reference.com/boxscores/201103160GSW.html,201103160GSW,DAL,Dallas Mavericks,112,GSW,Golden State Warriors,106,RG
+http://www.basketball-reference.com/boxscores/201103160HOU.html,201103160HOU,CHA,Charlotte Bobcats,78,HOU,Houston Rockets,94,RG
+http://www.basketball-reference.com/boxscores/201103160LAC.html,201103160LAC,PHI,Philadelphia 76ers,104,LAC,Los Angeles Clippers,94,RG
+http://www.basketball-reference.com/boxscores/201103160MIA.html,201103160MIA,OKC,Oklahoma City Thunder,96,MIA,Miami Heat,85,RG
+http://www.basketball-reference.com/boxscores/201103160MIL.html,201103160MIL,ORL,Orlando Magic,93,MIL,Milwaukee Bucks,89,OT
+http://www.basketball-reference.com/boxscores/201103160NOH.html,201103160NOH,PHO,Phoenix Suns,95,NOH,New Orleans Hornets,100,RG
+http://www.basketball-reference.com/boxscores/201103160SAC.html,201103160SAC,CLE,Cleveland Cavaliers,97,SAC,Sacramento Kings,93,RG
+http://www.basketball-reference.com/boxscores/201103160UTA.html,201103160UTA,MIN,Minnesota Timberwolves,104,UTA,Utah Jazz,119,RG
+http://www.basketball-reference.com/boxscores/201103170NJN.html,201103170NJN,CHI,Chicago Bulls,84,NJN,New Jersey Nets,73,RG
+http://www.basketball-reference.com/boxscores/201103170NYK.html,201103170NYK,MEM,Memphis Grizzlies,99,NYK,New York Knicks,120,RG
+http://www.basketball-reference.com/boxscores/201103170POR.html,201103170POR,CLE,Cleveland Cavaliers,70,POR,Portland Trail Blazers,111,RG
+http://www.basketball-reference.com/boxscores/201103180ATL.html,201103180ATL,MIA,Miami Heat,106,ATL,Atlanta Hawks,85,RG
+http://www.basketball-reference.com/boxscores/201103180DAL.html,201103180DAL,SAS,San Antonio Spurs,97,DAL,Dallas Mavericks,91,RG
+http://www.basketball-reference.com/boxscores/201103180DET.html,201103180DET,NYK,New York Knicks,95,DET,Detroit Pistons,99,RG
+http://www.basketball-reference.com/boxscores/201103180HOU.html,201103180HOU,BOS,Boston Celtics,77,HOU,Houston Rockets,93,RG
+http://www.basketball-reference.com/boxscores/201103180IND.html,201103180IND,CHI,Chicago Bulls,108,IND,Indiana Pacers,115,OT
+http://www.basketball-reference.com/boxscores/201103180LAL.html,201103180LAL,MIN,Minnesota Timberwolves,98,LAL,Los Angeles Lakers,106,RG
+http://www.basketball-reference.com/boxscores/201103180MIL.html,201103180MIL,NJN,New Jersey Nets,95,MIL,Milwaukee Bucks,110,RG
+http://www.basketball-reference.com/boxscores/201103180OKC.html,201103180OKC,CHA,Charlotte Bobcats,82,OKC,Oklahoma City Thunder,99,RG
+http://www.basketball-reference.com/boxscores/201103180ORL.html,201103180ORL,DEN,Denver Nuggets,82,ORL,Orlando Magic,85,RG
+http://www.basketball-reference.com/boxscores/201103180PHO.html,201103180PHO,GSW,Golden State Warriors,97,PHO,Phoenix Suns,108,RG
+http://www.basketball-reference.com/boxscores/201103180SAC.html,201103180SAC,PHI,Philadelphia 76ers,102,SAC,Sacramento Kings,80,RG
+http://www.basketball-reference.com/boxscores/201103180TOR.html,201103180TOR,WAS,Washington Wizards,107,TOR,Toronto Raptors,116,RG
+http://www.basketball-reference.com/boxscores/201103190LAC.html,201103190LAC,CLE,Cleveland Cavaliers,92,LAC,Los Angeles Clippers,100,RG
+http://www.basketball-reference.com/boxscores/201103190MEM.html,201103190MEM,IND,Indiana Pacers,78,MEM,Memphis Grizzlies,99,RG
+http://www.basketball-reference.com/boxscores/201103190MIA.html,201103190MIA,DEN,Denver Nuggets,98,MIA,Miami Heat,103,RG
+http://www.basketball-reference.com/boxscores/201103190NOH.html,201103190NOH,BOS,Boston Celtics,89,NOH,New Orleans Hornets,85,RG
+http://www.basketball-reference.com/boxscores/201103190POR.html,201103190POR,PHI,Philadelphia 76ers,101,POR,Portland Trail Blazers,110,RG
+http://www.basketball-reference.com/boxscores/201103190SAS.html,201103190SAS,CHA,Charlotte Bobcats,98,SAS,San Antonio Spurs,109,RG
+http://www.basketball-reference.com/boxscores/201103200ATL.html,201103200ATL,DET,Detroit Pistons,96,ATL,Atlanta Hawks,104,RG
+http://www.basketball-reference.com/boxscores/201103200DAL.html,201103200DAL,GSW,Golden State Warriors,73,DAL,Dallas Mavericks,101,RG
+http://www.basketball-reference.com/boxscores/201103200HOU.html,201103200HOU,UTA,Utah Jazz,108,HOU,Houston Rockets,110,RG
+http://www.basketball-reference.com/boxscores/201103200LAC.html,201103200LAC,PHO,Phoenix Suns,108,LAC,Los Angeles Clippers,99,RG
+http://www.basketball-reference.com/boxscores/201103200LAL.html,201103200LAL,POR,Portland Trail Blazers,80,LAL,Los Angeles Lakers,84,RG
+http://www.basketball-reference.com/boxscores/201103200MIL.html,201103200MIL,NYK,New York Knicks,95,MIL,Milwaukee Bucks,100,RG
+http://www.basketball-reference.com/boxscores/201103200MIN.html,201103200MIN,SAC,Sacramento Kings,127,MIN,Minnesota Timberwolves,95,RG
+http://www.basketball-reference.com/boxscores/201103200OKC.html,201103200OKC,TOR,Toronto Raptors,95,OKC,Oklahoma City Thunder,93,RG
+http://www.basketball-reference.com/boxscores/201103200WAS.html,201103200WAS,NJN,New Jersey Nets,92,WAS,Washington Wizards,98,RG
+http://www.basketball-reference.com/boxscores/201103210CHI.html,201103210CHI,SAC,Sacramento Kings,92,CHI,Chicago Bulls,132,RG
+http://www.basketball-reference.com/boxscores/201103210CLE.html,201103210CLE,ORL,Orlando Magic,97,CLE,Cleveland Cavaliers,86,RG
+http://www.basketball-reference.com/boxscores/201103210DEN.html,201103210DEN,TOR,Toronto Raptors,90,DEN,Denver Nuggets,123,RG
+http://www.basketball-reference.com/boxscores/201103210MEM.html,201103210MEM,UTA,Utah Jazz,85,MEM,Memphis Grizzlies,103,RG
+http://www.basketball-reference.com/boxscores/201103210NJN.html,201103210NJN,IND,Indiana Pacers,102,NJN,New Jersey Nets,98,RG
+http://www.basketball-reference.com/boxscores/201103210NYK.html,201103210NYK,BOS,Boston Celtics,96,NYK,New York Knicks,86,RG
+http://www.basketball-reference.com/boxscores/201103210SAS.html,201103210SAS,GSW,Golden State Warriors,96,SAS,San Antonio Spurs,111,RG
+http://www.basketball-reference.com/boxscores/201103220ATL.html,201103220ATL,CHI,Chicago Bulls,114,ATL,Atlanta Hawks,81,RG
+http://www.basketball-reference.com/boxscores/201103220LAL.html,201103220LAL,PHO,Phoenix Suns,137,LAL,Los Angeles Lakers,139,3OT
+http://www.basketball-reference.com/boxscores/201103220POR.html,201103220POR,WAS,Washington Wizards,76,POR,Portland Trail Blazers,111,RG
+http://www.basketball-reference.com/boxscores/201103230BOS.html,201103230BOS,MEM,Memphis Grizzlies,90,BOS,Boston Celtics,87,RG
+http://www.basketball-reference.com/boxscores/201103230CHA.html,201103230CHA,IND,Indiana Pacers,111,CHA,Charlotte Bobcats,88,RG
+http://www.basketball-reference.com/boxscores/201103230CLE.html,201103230CLE,NJN,New Jersey Nets,98,CLE,Cleveland Cavaliers,94,OT
+http://www.basketball-reference.com/boxscores/201103230DEN.html,201103230DEN,SAS,San Antonio Spurs,112,DEN,Denver Nuggets,115,RG
+http://www.basketball-reference.com/boxscores/201103230DET.html,201103230DET,MIA,Miami Heat,100,DET,Detroit Pistons,94,RG
+http://www.basketball-reference.com/boxscores/201103230HOU.html,201103230HOU,GSW,Golden State Warriors,112,HOU,Houston Rockets,131,RG
+http://www.basketball-reference.com/boxscores/201103230LAC.html,201103230LAC,WAS,Washington Wizards,119,LAC,Los Angeles Clippers,127,2OT
+http://www.basketball-reference.com/boxscores/201103230MIL.html,201103230MIL,SAC,Sacramento Kings,97,MIL,Milwaukee Bucks,90,RG
+http://www.basketball-reference.com/boxscores/201103230NYK.html,201103230NYK,ORL,Orlando Magic,111,NYK,New York Knicks,99,RG
+http://www.basketball-reference.com/boxscores/201103230OKC.html,201103230OKC,UTA,Utah Jazz,94,OKC,Oklahoma City Thunder,106,RG
+http://www.basketball-reference.com/boxscores/201103230PHI.html,201103230PHI,ATL,Atlanta Hawks,100,PHI,Philadelphia 76ers,105,RG
+http://www.basketball-reference.com/boxscores/201103230PHO.html,201103230PHO,TOR,Toronto Raptors,106,PHO,Phoenix Suns,114,RG
+http://www.basketball-reference.com/boxscores/201103240DAL.html,201103240DAL,MIN,Minnesota Timberwolves,96,DAL,Dallas Mavericks,104,RG
+http://www.basketball-reference.com/boxscores/201103240UTA.html,201103240UTA,NOH,New Orleans Hornets,121,UTA,Utah Jazz,117,OT
+http://www.basketball-reference.com/boxscores/201103250BOS.html,201103250BOS,CHA,Charlotte Bobcats,83,BOS,Boston Celtics,81,RG
+http://www.basketball-reference.com/boxscores/201103250CHI.html,201103250CHI,MEM,Memphis Grizzlies,96,CHI,Chicago Bulls,99,RG
+http://www.basketball-reference.com/boxscores/201103250CLE.html,201103250CLE,DET,Detroit Pistons,91,CLE,Cleveland Cavaliers,97,RG
+http://www.basketball-reference.com/boxscores/201103250DEN.html,201103250DEN,WAS,Washington Wizards,94,DEN,Denver Nuggets,114,RG
+http://www.basketball-reference.com/boxscores/201103250GSW.html,201103250GSW,TOR,Toronto Raptors,100,GSW,Golden State Warriors,138,RG
+http://www.basketball-reference.com/boxscores/201103250IND.html,201103250IND,SAC,Sacramento Kings,110,IND,Indiana Pacers,93,RG
+http://www.basketball-reference.com/boxscores/201103250LAL.html,201103250LAL,LAC,Los Angeles Clippers,104,LAL,Los Angeles Lakers,112,RG
+http://www.basketball-reference.com/boxscores/201103250MIA.html,201103250MIA,PHI,Philadelphia 76ers,99,MIA,Miami Heat,111,RG
+http://www.basketball-reference.com/boxscores/201103250NYK.html,201103250NYK,MIL,Milwaukee Bucks,102,NYK,New York Knicks,96,RG
+http://www.basketball-reference.com/boxscores/201103250OKC.html,201103250OKC,MIN,Minnesota Timberwolves,103,OKC,Oklahoma City Thunder,111,RG
+http://www.basketball-reference.com/boxscores/201103250ORL.html,201103250ORL,NJN,New Jersey Nets,85,ORL,Orlando Magic,95,RG
+http://www.basketball-reference.com/boxscores/201103250PHO.html,201103250PHO,NOH,New Orleans Hornets,106,PHO,Phoenix Suns,100,RG
+http://www.basketball-reference.com/boxscores/201103250POR.html,201103250POR,SAS,San Antonio Spurs,96,POR,Portland Trail Blazers,98,RG
+http://www.basketball-reference.com/boxscores/201103260ATL.html,201103260ATL,NJN,New Jersey Nets,87,ATL,Atlanta Hawks,98,RG
+http://www.basketball-reference.com/boxscores/201103260CHA.html,201103260CHA,NYK,New York Knicks,106,CHA,Charlotte Bobcats,114,RG
+http://www.basketball-reference.com/boxscores/201103260DET.html,201103260DET,IND,Indiana Pacers,88,DET,Detroit Pistons,100,RG
+http://www.basketball-reference.com/boxscores/201103260LAC.html,201103260LAC,TOR,Toronto Raptors,90,LAC,Los Angeles Clippers,94,RG
+http://www.basketball-reference.com/boxscores/201103260MIL.html,201103260MIL,CHI,Chicago Bulls,95,MIL,Milwaukee Bucks,87,RG
+http://www.basketball-reference.com/boxscores/201103260UTA.html,201103260UTA,DAL,Dallas Mavericks,94,UTA,Utah Jazz,77,RG
+http://www.basketball-reference.com/boxscores/201103270CLE.html,201103270CLE,ATL,Atlanta Hawks,99,CLE,Cleveland Cavaliers,83,RG
+http://www.basketball-reference.com/boxscores/201103270GSW.html,201103270GSW,WAS,Washington Wizards,104,GSW,Golden State Warriors,114,RG
+http://www.basketball-reference.com/boxscores/201103270LAL.html,201103270LAL,NOH,New Orleans Hornets,84,LAL,Los Angeles Lakers,102,RG
+http://www.basketball-reference.com/boxscores/201103270MEM.html,201103270MEM,SAS,San Antonio Spurs,104,MEM,Memphis Grizzlies,111,RG
+http://www.basketball-reference.com/boxscores/201103270MIA.html,201103270MIA,HOU,Houston Rockets,119,MIA,Miami Heat,125,RG
+http://www.basketball-reference.com/boxscores/201103270MIN.html,201103270MIN,BOS,Boston Celtics,85,MIN,Minnesota Timberwolves,82,RG
+http://www.basketball-reference.com/boxscores/201103270OKC.html,201103270OKC,POR,Portland Trail Blazers,90,OKC,Oklahoma City Thunder,99,RG
+http://www.basketball-reference.com/boxscores/201103270PHI.html,201103270PHI,SAC,Sacramento Kings,114,PHI,Philadelphia 76ers,111,OT
+http://www.basketball-reference.com/boxscores/201103270PHO.html,201103270PHO,DAL,Dallas Mavericks,91,PHO,Phoenix Suns,83,RG
+http://www.basketball-reference.com/boxscores/201103280CHA.html,201103280CHA,MIL,Milwaukee Bucks,86,CHA,Charlotte Bobcats,87,RG
+http://www.basketball-reference.com/boxscores/201103280CHI.html,201103280CHI,PHI,Philadelphia 76ers,97,CHI,Chicago Bulls,85,RG
+http://www.basketball-reference.com/boxscores/201103280IND.html,201103280IND,BOS,Boston Celtics,100,IND,Indiana Pacers,107,RG
+http://www.basketball-reference.com/boxscores/201103280NYK.html,201103280NYK,ORL,Orlando Magic,106,NYK,New York Knicks,113,OT
+http://www.basketball-reference.com/boxscores/201103280SAS.html,201103280SAS,POR,Portland Trail Blazers,100,SAS,San Antonio Spurs,92,RG
+http://www.basketball-reference.com/boxscores/201103280UTA.html,201103280UTA,WAS,Washington Wizards,100,UTA,Utah Jazz,95,OT
+http://www.basketball-reference.com/boxscores/201103290CLE.html,201103290CLE,MIA,Miami Heat,90,CLE,Cleveland Cavaliers,102,RG
+http://www.basketball-reference.com/boxscores/201103290NJN.html,201103290NJN,HOU,Houston Rockets,112,NJN,New Jersey Nets,87,RG
+http://www.basketball-reference.com/boxscores/201103290OKC.html,201103290OKC,GSW,Golden State Warriors,114,OKC,Oklahoma City Thunder,115,OT
+http://www.basketball-reference.com/boxscores/201103290SAC.html,201103290SAC,PHO,Phoenix Suns,113,SAC,Sacramento Kings,116,RG
+http://www.basketball-reference.com/boxscores/201103300ATL.html,201103300ATL,ORL,Orlando Magic,82,ATL,Atlanta Hawks,85,RG
+http://www.basketball-reference.com/boxscores/201103300CHA.html,201103300CHA,CLE,Cleveland Cavaliers,97,CHA,Charlotte Bobcats,98,RG
+http://www.basketball-reference.com/boxscores/201103300DEN.html,201103300DEN,SAC,Sacramento Kings,90,DEN,Denver Nuggets,104,RG
+http://www.basketball-reference.com/boxscores/201103300IND.html,201103300IND,DET,Detroit Pistons,101,IND,Indiana Pacers,111,RG
+http://www.basketball-reference.com/boxscores/201103300LAC.html,201103300LAC,DAL,Dallas Mavericks,106,LAC,Los Angeles Clippers,100,RG
+http://www.basketball-reference.com/boxscores/201103300MEM.html,201103300MEM,GSW,Golden State Warriors,91,MEM,Memphis Grizzlies,110,RG
+http://www.basketball-reference.com/boxscores/201103300MIN.html,201103300MIN,CHI,Chicago Bulls,108,MIN,Minnesota Timberwolves,91,RG
+http://www.basketball-reference.com/boxscores/201103300NOH.html,201103300NOH,POR,Portland Trail Blazers,91,NOH,New Orleans Hornets,95,RG
+http://www.basketball-reference.com/boxscores/201103300NYK.html,201103300NYK,NJN,New Jersey Nets,116,NYK,New York Knicks,120,RG
+http://www.basketball-reference.com/boxscores/201103300PHI.html,201103300PHI,HOU,Houston Rockets,97,PHI,Philadelphia 76ers,108,RG
+http://www.basketball-reference.com/boxscores/201103300PHO.html,201103300PHO,OKC,Oklahoma City Thunder,116,PHO,Phoenix Suns,98,RG
+http://www.basketball-reference.com/boxscores/201103300TOR.html,201103300TOR,MIL,Milwaukee Bucks,104,TOR,Toronto Raptors,98,RG
+http://www.basketball-reference.com/boxscores/201103300WAS.html,201103300WAS,MIA,Miami Heat,123,WAS,Washington Wizards,107,RG
+http://www.basketball-reference.com/boxscores/201103310LAL.html,201103310LAL,DAL,Dallas Mavericks,82,LAL,Los Angeles Lakers,110,RG
+http://www.basketball-reference.com/boxscores/201103310SAS.html,201103310SAS,BOS,Boston Celtics,107,SAS,San Antonio Spurs,97,RG
+http://www.basketball-reference.com/boxscores/201104010ATL.html,201104010ATL,BOS,Boston Celtics,83,ATL,Atlanta Hawks,88,RG
+http://www.basketball-reference.com/boxscores/201104010DET.html,201104010DET,CHI,Chicago Bulls,101,DET,Detroit Pistons,96,RG
+http://www.basketball-reference.com/boxscores/201104010HOU.html,201104010HOU,SAS,San Antonio Spurs,114,HOU,Houston Rockets,119,OT
+http://www.basketball-reference.com/boxscores/201104010IND.html,201104010IND,MIL,Milwaukee Bucks,88,IND,Indiana Pacers,89,RG
+http://www.basketball-reference.com/boxscores/201104010MIN.html,201104010MIN,MIA,Miami Heat,111,MIN,Minnesota Timberwolves,92,RG
+http://www.basketball-reference.com/boxscores/201104010NOH.html,201104010NOH,MEM,Memphis Grizzlies,93,NOH,New Orleans Hornets,81,RG
+http://www.basketball-reference.com/boxscores/201104010ORL.html,201104010ORL,CHA,Charlotte Bobcats,77,ORL,Orlando Magic,89,RG
+http://www.basketball-reference.com/boxscores/201104010PHI.html,201104010PHI,NJN,New Jersey Nets,90,PHI,Philadelphia 76ers,115,RG
+http://www.basketball-reference.com/boxscores/201104010PHO.html,201104010PHO,LAC,Los Angeles Clippers,98,PHO,Phoenix Suns,111,RG
+http://www.basketball-reference.com/boxscores/201104010POR.html,201104010POR,OKC,Oklahoma City Thunder,91,POR,Portland Trail Blazers,98,RG
+http://www.basketball-reference.com/boxscores/201104010SAC.html,201104010SAC,DEN,Denver Nuggets,99,SAC,Sacramento Kings,90,RG
+http://www.basketball-reference.com/boxscores/201104010UTA.html,201104010UTA,LAL,Los Angeles Lakers,96,UTA,Utah Jazz,85,RG
+http://www.basketball-reference.com/boxscores/201104010WAS.html,201104010WAS,CLE,Cleveland Cavaliers,107,WAS,Washington Wizards,115,RG
+http://www.basketball-reference.com/boxscores/201104020CHI.html,201104020CHI,TOR,Toronto Raptors,106,CHI,Chicago Bulls,113,RG
+http://www.basketball-reference.com/boxscores/201104020GSW.html,201104020GSW,DAL,Dallas Mavericks,92,GSW,Golden State Warriors,99,RG
+http://www.basketball-reference.com/boxscores/201104020LAC.html,201104020LAC,OKC,Oklahoma City Thunder,92,LAC,Los Angeles Clippers,98,RG
+http://www.basketball-reference.com/boxscores/201104020MEM.html,201104020MEM,MIN,Minnesota Timberwolves,89,MEM,Memphis Grizzlies,106,RG
+http://www.basketball-reference.com/boxscores/201104020MIL.html,201104020MIL,PHI,Philadelphia 76ers,87,MIL,Milwaukee Bucks,93,OT
+http://www.basketball-reference.com/boxscores/201104030BOS.html,201104030BOS,DET,Detroit Pistons,90,BOS,Boston Celtics,101,RG
+http://www.basketball-reference.com/boxscores/201104030CHA.html,201104030CHA,WAS,Washington Wizards,97,CHA,Charlotte Bobcats,91,RG
+http://www.basketball-reference.com/boxscores/201104030HOU.html,201104030HOU,ATL,Atlanta Hawks,109,HOU,Houston Rockets,114,RG
+http://www.basketball-reference.com/boxscores/201104030LAL.html,201104030LAL,DEN,Denver Nuggets,95,LAL,Los Angeles Lakers,90,RG
+http://www.basketball-reference.com/boxscores/201104030NJN.html,201104030NJN,MIA,Miami Heat,108,NJN,New Jersey Nets,94,RG
+http://www.basketball-reference.com/boxscores/201104030NOH.html,201104030NOH,IND,Indiana Pacers,96,NOH,New Orleans Hornets,108,RG
+http://www.basketball-reference.com/boxscores/201104030NYK.html,201104030NYK,CLE,Cleveland Cavaliers,107,NYK,New York Knicks,123,RG
+http://www.basketball-reference.com/boxscores/201104030POR.html,201104030POR,DAL,Dallas Mavericks,96,POR,Portland Trail Blazers,104,RG
+http://www.basketball-reference.com/boxscores/201104030SAC.html,201104030SAC,UTA,Utah Jazz,97,SAC,Sacramento Kings,106,RG
+http://www.basketball-reference.com/boxscores/201104030SAS.html,201104030SAS,PHO,Phoenix Suns,97,SAS,San Antonio Spurs,114,RG
+http://www.basketball-reference.com/boxscores/201104030TOR.html,201104030TOR,ORL,Orlando Magic,98,TOR,Toronto Raptors,102,RG
+http://www.basketball-reference.com/boxscores/201104050ATL.html,201104050ATL,SAS,San Antonio Spurs,97,ATL,Atlanta Hawks,90,RG
+http://www.basketball-reference.com/boxscores/201104050BOS.html,201104050BOS,PHI,Philadelphia 76ers,82,BOS,Boston Celtics,99,RG
+http://www.basketball-reference.com/boxscores/201104050CHI.html,201104050CHI,PHO,Phoenix Suns,94,CHI,Chicago Bulls,97,RG
+http://www.basketball-reference.com/boxscores/201104050CLE.html,201104050CLE,CHA,Charlotte Bobcats,89,CLE,Cleveland Cavaliers,99,RG
+http://www.basketball-reference.com/boxscores/201104050DEN.html,201104050DEN,OKC,Oklahoma City Thunder,101,DEN,Denver Nuggets,94,RG
+http://www.basketball-reference.com/boxscores/201104050HOU.html,201104050HOU,SAC,Sacramento Kings,104,HOU,Houston Rockets,101,RG
+http://www.basketball-reference.com/boxscores/201104050LAL.html,201104050LAL,UTA,Utah Jazz,86,LAL,Los Angeles Lakers,85,RG
+http://www.basketball-reference.com/boxscores/201104050MEM.html,201104050MEM,LAC,Los Angeles Clippers,82,MEM,Memphis Grizzlies,81,RG
+http://www.basketball-reference.com/boxscores/201104050NJN.html,201104050NJN,MIN,Minnesota Timberwolves,105,NJN,New Jersey Nets,107,RG
+http://www.basketball-reference.com/boxscores/201104050NYK.html,201104050NYK,TOR,Toronto Raptors,118,NYK,New York Knicks,131,RG
+http://www.basketball-reference.com/boxscores/201104050ORL.html,201104050ORL,MIL,Milwaukee Bucks,72,ORL,Orlando Magic,78,RG
+http://www.basketball-reference.com/boxscores/201104050POR.html,201104050POR,GSW,Golden State Warriors,108,POR,Portland Trail Blazers,87,RG
+http://www.basketball-reference.com/boxscores/201104050WAS.html,201104050WAS,DET,Detroit Pistons,105,WAS,Washington Wizards,107,RG
+http://www.basketball-reference.com/boxscores/201104060CHA.html,201104060CHA,ORL,Orlando Magic,111,CHA,Charlotte Bobcats,102,OT
+http://www.basketball-reference.com/boxscores/201104060DAL.html,201104060DAL,DEN,Denver Nuggets,104,DAL,Dallas Mavericks,96,RG
+http://www.basketball-reference.com/boxscores/201104060DET.html,201104060DET,NJN,New Jersey Nets,109,DET,Detroit Pistons,116,RG
+http://www.basketball-reference.com/boxscores/201104060GSW.html,201104060GSW,LAL,Los Angeles Lakers,87,GSW,Golden State Warriors,95,RG
+http://www.basketball-reference.com/boxscores/201104060IND.html,201104060IND,WAS,Washington Wizards,112,IND,Indiana Pacers,136,RG
+http://www.basketball-reference.com/boxscores/201104060MIA.html,201104060MIA,MIL,Milwaukee Bucks,90,MIA,Miami Heat,85,RG
+http://www.basketball-reference.com/boxscores/201104060MIN.html,201104060MIN,PHO,Phoenix Suns,108,MIN,Minnesota Timberwolves,98,RG
+http://www.basketball-reference.com/boxscores/201104060NOH.html,201104060NOH,HOU,Houston Rockets,93,NOH,New Orleans Hornets,101,RG
+http://www.basketball-reference.com/boxscores/201104060OKC.html,201104060OKC,LAC,Los Angeles Clippers,108,OKC,Oklahoma City Thunder,112,RG
+http://www.basketball-reference.com/boxscores/201104060PHI.html,201104060PHI,NYK,New York Knicks,97,PHI,Philadelphia 76ers,92,RG
+http://www.basketball-reference.com/boxscores/201104060SAS.html,201104060SAS,SAC,Sacramento Kings,92,SAS,San Antonio Spurs,124,RG
+http://www.basketball-reference.com/boxscores/201104060TOR.html,201104060TOR,CLE,Cleveland Cavaliers,104,TOR,Toronto Raptors,96,RG
+http://www.basketball-reference.com/boxscores/201104070CHI.html,201104070CHI,BOS,Boston Celtics,81,CHI,Chicago Bulls,97,RG
+http://www.basketball-reference.com/boxscores/201104070UTA.html,201104070UTA,POR,Portland Trail Blazers,98,UTA,Utah Jazz,87,RG
+http://www.basketball-reference.com/boxscores/201104080BOS.html,201104080BOS,WAS,Washington Wizards,88,BOS,Boston Celtics,104,RG
+http://www.basketball-reference.com/boxscores/201104080CLE.html,201104080CLE,CHI,Chicago Bulls,93,CLE,Cleveland Cavaliers,82,RG
+http://www.basketball-reference.com/boxscores/201104080DAL.html,201104080DAL,LAC,Los Angeles Clippers,96,DAL,Dallas Mavericks,107,RG
+http://www.basketball-reference.com/boxscores/201104080DET.html,201104080DET,MIL,Milwaukee Bucks,100,DET,Detroit Pistons,110,RG
+http://www.basketball-reference.com/boxscores/201104080IND.html,201104080IND,ATL,Atlanta Hawks,102,IND,Indiana Pacers,114,RG
+http://www.basketball-reference.com/boxscores/201104080MEM.html,201104080MEM,SAC,Sacramento Kings,96,MEM,Memphis Grizzlies,101,RG
+http://www.basketball-reference.com/boxscores/201104080MIA.html,201104080MIA,CHA,Charlotte Bobcats,103,MIA,Miami Heat,112,RG
+http://www.basketball-reference.com/boxscores/201104080NJN.html,201104080NJN,NYK,New York Knicks,116,NJN,New Jersey Nets,93,RG
+http://www.basketball-reference.com/boxscores/201104080NOH.html,201104080NOH,PHO,Phoenix Suns,97,NOH,New Orleans Hornets,109,RG
+http://www.basketball-reference.com/boxscores/201104080OKC.html,201104080OKC,DEN,Denver Nuggets,89,OKC,Oklahoma City Thunder,104,RG
+http://www.basketball-reference.com/boxscores/201104080PHI.html,201104080PHI,TOR,Toronto Raptors,93,PHI,Philadelphia 76ers,98,RG
+http://www.basketball-reference.com/boxscores/201104080POR.html,201104080POR,LAL,Los Angeles Lakers,86,POR,Portland Trail Blazers,93,RG
+http://www.basketball-reference.com/boxscores/201104090DEN.html,201104090DEN,MIN,Minnesota Timberwolves,106,DEN,Denver Nuggets,130,RG
+http://www.basketball-reference.com/boxscores/201104090HOU.html,201104090HOU,LAC,Los Angeles Clippers,78,HOU,Houston Rockets,99,RG
+http://www.basketball-reference.com/boxscores/201104090MIL.html,201104090MIL,CLE,Cleveland Cavaliers,101,MIL,Milwaukee Bucks,108,RG
+http://www.basketball-reference.com/boxscores/201104090SAS.html,201104090SAS,UTA,Utah Jazz,102,SAS,San Antonio Spurs,111,RG
+http://www.basketball-reference.com/boxscores/201104090WAS.html,201104090WAS,ATL,Atlanta Hawks,83,WAS,Washington Wizards,115,RG
+http://www.basketball-reference.com/boxscores/201104100CHA.html,201104100CHA,DET,Detroit Pistons,112,CHA,Charlotte Bobcats,101,RG
+http://www.basketball-reference.com/boxscores/201104100DAL.html,201104100DAL,PHO,Phoenix Suns,90,DAL,Dallas Mavericks,115,RG
+http://www.basketball-reference.com/boxscores/201104100GSW.html,201104100GSW,SAC,Sacramento Kings,104,GSW,Golden State Warriors,103,RG
+http://www.basketball-reference.com/boxscores/201104100IND.html,201104100IND,NYK,New York Knicks,110,IND,Indiana Pacers,109,RG
+http://www.basketball-reference.com/boxscores/201104100LAL.html,201104100LAL,OKC,Oklahoma City Thunder,120,LAL,Los Angeles Lakers,106,RG
+http://www.basketball-reference.com/boxscores/201104100MEM.html,201104100MEM,NOH,New Orleans Hornets,89,MEM,Memphis Grizzlies,111,RG
+http://www.basketball-reference.com/boxscores/201104100MIA.html,201104100MIA,BOS,Boston Celtics,77,MIA,Miami Heat,100,RG
+http://www.basketball-reference.com/boxscores/201104100ORL.html,201104100ORL,CHI,Chicago Bulls,102,ORL,Orlando Magic,99,RG
+http://www.basketball-reference.com/boxscores/201104100TOR.html,201104100TOR,NJN,New Jersey Nets,92,TOR,Toronto Raptors,99,RG
+http://www.basketball-reference.com/boxscores/201104110ATL.html,201104110ATL,MIA,Miami Heat,98,ATL,Atlanta Hawks,90,RG
+http://www.basketball-reference.com/boxscores/201104110DEN.html,201104110DEN,GSW,Golden State Warriors,111,DEN,Denver Nuggets,134,RG
+http://www.basketball-reference.com/boxscores/201104110DET.html,201104110DET,CLE,Cleveland Cavaliers,110,DET,Detroit Pistons,101,RG
+http://www.basketball-reference.com/boxscores/201104110HOU.html,201104110HOU,DAL,Dallas Mavericks,98,HOU,Houston Rockets,91,OT
+http://www.basketball-reference.com/boxscores/201104110MIL.html,201104110MIL,TOR,Toronto Raptors,86,MIL,Milwaukee Bucks,93,RG
+http://www.basketball-reference.com/boxscores/201104110NJN.html,201104110NJN,CHA,Charlotte Bobcats,105,NJN,New Jersey Nets,103,RG
+http://www.basketball-reference.com/boxscores/201104110NOH.html,201104110NOH,UTA,Utah Jazz,90,NOH,New Orleans Hornets,78,RG
+http://www.basketball-reference.com/boxscores/201104110PHI.html,201104110PHI,ORL,Orlando Magic,95,PHI,Philadelphia 76ers,85,RG
+http://www.basketball-reference.com/boxscores/201104110PHO.html,201104110PHO,MIN,Minnesota Timberwolves,127,PHO,Phoenix Suns,135,OT
+http://www.basketball-reference.com/boxscores/201104110SAC.html,201104110SAC,OKC,Oklahoma City Thunder,120,SAC,Sacramento Kings,112,RG
+http://www.basketball-reference.com/boxscores/201104110WAS.html,201104110WAS,BOS,Boston Celtics,94,WAS,Washington Wizards,95,OT
+http://www.basketball-reference.com/boxscores/201104120LAL.html,201104120LAL,SAS,San Antonio Spurs,93,LAL,Los Angeles Lakers,102,RG
+http://www.basketball-reference.com/boxscores/201104120NYK.html,201104120NYK,CHI,Chicago Bulls,103,NYK,New York Knicks,90,RG
+http://www.basketball-reference.com/boxscores/201104120POR.html,201104120POR,MEM,Memphis Grizzlies,89,POR,Portland Trail Blazers,102,RG
+http://www.basketball-reference.com/boxscores/201104130BOS.html,201104130BOS,NYK,New York Knicks,102,BOS,Boston Celtics,112,RG
+http://www.basketball-reference.com/boxscores/201104130CHA.html,201104130CHA,ATL,Atlanta Hawks,85,CHA,Charlotte Bobcats,96,RG
+http://www.basketball-reference.com/boxscores/201104130CHI.html,201104130CHI,NJN,New Jersey Nets,92,CHI,Chicago Bulls,97,RG
+http://www.basketball-reference.com/boxscores/201104130CLE.html,201104130CLE,WAS,Washington Wizards,93,CLE,Cleveland Cavaliers,100,RG
+http://www.basketball-reference.com/boxscores/201104130DAL.html,201104130DAL,NOH,New Orleans Hornets,89,DAL,Dallas Mavericks,121,RG
+http://www.basketball-reference.com/boxscores/201104130GSW.html,201104130GSW,POR,Portland Trail Blazers,86,GSW,Golden State Warriors,110,RG
+http://www.basketball-reference.com/boxscores/201104130LAC.html,201104130LAC,MEM,Memphis Grizzlies,103,LAC,Los Angeles Clippers,110,RG
+http://www.basketball-reference.com/boxscores/201104130MIN.html,201104130MIN,HOU,Houston Rockets,121,MIN,Minnesota Timberwolves,102,RG
+http://www.basketball-reference.com/boxscores/201104130OKC.html,201104130OKC,MIL,Milwaukee Bucks,110,OKC,Oklahoma City Thunder,106,OT
+http://www.basketball-reference.com/boxscores/201104130ORL.html,201104130ORL,IND,Indiana Pacers,74,ORL,Orlando Magic,92,RG
+http://www.basketball-reference.com/boxscores/201104130PHI.html,201104130PHI,DET,Detroit Pistons,104,PHI,Philadelphia 76ers,100,RG
+http://www.basketball-reference.com/boxscores/201104130PHO.html,201104130PHO,SAS,San Antonio Spurs,103,PHO,Phoenix Suns,106,RG
+http://www.basketball-reference.com/boxscores/201104130SAC.html,201104130SAC,LAL,Los Angeles Lakers,116,SAC,Sacramento Kings,108,OT
+http://www.basketball-reference.com/boxscores/201104130TOR.html,201104130TOR,MIA,Miami Heat,97,TOR,Toronto Raptors,79,RG
+http://www.basketball-reference.com/boxscores/201104130UTA.html,201104130UTA,DEN,Denver Nuggets,103,UTA,Utah Jazz,107,RG
+http://www.basketball-reference.com/boxscores/201104160CHI.html,201104160CHI,IND,Indiana Pacers,99,CHI,Chicago Bulls,104,RG
+http://www.basketball-reference.com/boxscores/201104160DAL.html,201104160DAL,POR,Portland Trail Blazers,81,DAL,Dallas Mavericks,89,RG
+http://www.basketball-reference.com/boxscores/201104160MIA.html,201104160MIA,PHI,Philadelphia 76ers,89,MIA,Miami Heat,97,RG
+http://www.basketball-reference.com/boxscores/201104160ORL.html,201104160ORL,ATL,Atlanta Hawks,103,ORL,Orlando Magic,93,RG
+http://www.basketball-reference.com/boxscores/201104170BOS.html,201104170BOS,NYK,New York Knicks,85,BOS,Boston Celtics,87,RG
+http://www.basketball-reference.com/boxscores/201104170LAL.html,201104170LAL,NOH,New Orleans Hornets,109,LAL,Los Angeles Lakers,100,RG
+http://www.basketball-reference.com/boxscores/201104170OKC.html,201104170OKC,DEN,Denver Nuggets,103,OKC,Oklahoma City Thunder,107,RG
+http://www.basketball-reference.com/boxscores/201104170SAS.html,201104170SAS,MEM,Memphis Grizzlies,101,SAS,San Antonio Spurs,98,RG
+http://www.basketball-reference.com/boxscores/201104180CHI.html,201104180CHI,IND,Indiana Pacers,90,CHI,Chicago Bulls,96,RG
+http://www.basketball-reference.com/boxscores/201104180MIA.html,201104180MIA,PHI,Philadelphia 76ers,73,MIA,Miami Heat,94,RG
+http://www.basketball-reference.com/boxscores/201104190BOS.html,201104190BOS,NYK,New York Knicks,93,BOS,Boston Celtics,96,RG
+http://www.basketball-reference.com/boxscores/201104190DAL.html,201104190DAL,POR,Portland Trail Blazers,89,DAL,Dallas Mavericks,101,RG
+http://www.basketball-reference.com/boxscores/201104190ORL.html,201104190ORL,ATL,Atlanta Hawks,82,ORL,Orlando Magic,88,RG
+http://www.basketball-reference.com/boxscores/201104200LAL.html,201104200LAL,NOH,New Orleans Hornets,78,LAL,Los Angeles Lakers,87,RG
+http://www.basketball-reference.com/boxscores/201104200OKC.html,201104200OKC,DEN,Denver Nuggets,89,OKC,Oklahoma City Thunder,106,RG
+http://www.basketball-reference.com/boxscores/201104200SAS.html,201104200SAS,MEM,Memphis Grizzlies,87,SAS,San Antonio Spurs,93,RG
+http://www.basketball-reference.com/boxscores/201104210IND.html,201104210IND,CHI,Chicago Bulls,88,IND,Indiana Pacers,84,RG
+http://www.basketball-reference.com/boxscores/201104210PHI.html,201104210PHI,MIA,Miami Heat,100,PHI,Philadelphia 76ers,94,RG
+http://www.basketball-reference.com/boxscores/201104210POR.html,201104210POR,DAL,Dallas Mavericks,92,POR,Portland Trail Blazers,97,RG
+http://www.basketball-reference.com/boxscores/201104220ATL.html,201104220ATL,ORL,Orlando Magic,84,ATL,Atlanta Hawks,88,RG
+http://www.basketball-reference.com/boxscores/201104220NOH.html,201104220NOH,LAL,Los Angeles Lakers,100,NOH,New Orleans Hornets,86,RG
+http://www.basketball-reference.com/boxscores/201104220NYK.html,201104220NYK,BOS,Boston Celtics,113,NYK,New York Knicks,96,RG
+http://www.basketball-reference.com/boxscores/201104230DEN.html,201104230DEN,OKC,Oklahoma City Thunder,97,DEN,Denver Nuggets,94,RG
+http://www.basketball-reference.com/boxscores/201104230IND.html,201104230IND,CHI,Chicago Bulls,84,IND,Indiana Pacers,89,RG
+http://www.basketball-reference.com/boxscores/201104230MEM.html,201104230MEM,SAS,San Antonio Spurs,88,MEM,Memphis Grizzlies,91,RG
+http://www.basketball-reference.com/boxscores/201104230POR.html,201104230POR,DAL,Dallas Mavericks,82,POR,Portland Trail Blazers,84,RG
+http://www.basketball-reference.com/boxscores/201104240ATL.html,201104240ATL,ORL,Orlando Magic,85,ATL,Atlanta Hawks,88,RG
+http://www.basketball-reference.com/boxscores/201104240NOH.html,201104240NOH,LAL,Los Angeles Lakers,88,NOH,New Orleans Hornets,93,RG
+http://www.basketball-reference.com/boxscores/201104240NYK.html,201104240NYK,BOS,Boston Celtics,101,NYK,New York Knicks,89,RG
+http://www.basketball-reference.com/boxscores/201104240PHI.html,201104240PHI,MIA,Miami Heat,82,PHI,Philadelphia 76ers,86,RG
+http://www.basketball-reference.com/boxscores/201104250DAL.html,201104250DAL,POR,Portland Trail Blazers,82,DAL,Dallas Mavericks,93,RG
+http://www.basketball-reference.com/boxscores/201104250DEN.html,201104250DEN,OKC,Oklahoma City Thunder,101,DEN,Denver Nuggets,104,RG
+http://www.basketball-reference.com/boxscores/201104250MEM.html,201104250MEM,SAS,San Antonio Spurs,86,MEM,Memphis Grizzlies,104,RG
+http://www.basketball-reference.com/boxscores/201104260CHI.html,201104260CHI,IND,Indiana Pacers,89,CHI,Chicago Bulls,116,RG
+http://www.basketball-reference.com/boxscores/201104260LAL.html,201104260LAL,NOH,New Orleans Hornets,90,LAL,Los Angeles Lakers,106,RG
+http://www.basketball-reference.com/boxscores/201104260ORL.html,201104260ORL,ATL,Atlanta Hawks,76,ORL,Orlando Magic,101,RG
+http://www.basketball-reference.com/boxscores/201104270MIA.html,201104270MIA,PHI,Philadelphia 76ers,91,MIA,Miami Heat,97,RG
+http://www.basketball-reference.com/boxscores/201104270OKC.html,201104270OKC,DEN,Denver Nuggets,97,OKC,Oklahoma City Thunder,100,RG
+http://www.basketball-reference.com/boxscores/201104270SAS.html,201104270SAS,MEM,Memphis Grizzlies,103,SAS,San Antonio Spurs,110,OT
+http://www.basketball-reference.com/boxscores/201104280ATL.html,201104280ATL,ORL,Orlando Magic,81,ATL,Atlanta Hawks,84,RG
+http://www.basketball-reference.com/boxscores/201104280NOH.html,201104280NOH,LAL,Los Angeles Lakers,98,NOH,New Orleans Hornets,80,RG
+http://www.basketball-reference.com/boxscores/201104280POR.html,201104280POR,DAL,Dallas Mavericks,103,POR,Portland Trail Blazers,96,RG
+http://www.basketball-reference.com/boxscores/201104290MEM.html,201104290MEM,SAS,San Antonio Spurs,91,MEM,Memphis Grizzlies,99,RG
+http://www.basketball-reference.com/boxscores/201105010MIA.html,201105010MIA,BOS,Boston Celtics,90,MIA,Miami Heat,99,RG
+http://www.basketball-reference.com/boxscores/201105010OKC.html,201105010OKC,MEM,Memphis Grizzlies,114,OKC,Oklahoma City Thunder,101,RG
+http://www.basketball-reference.com/boxscores/201105020CHI.html,201105020CHI,ATL,Atlanta Hawks,103,CHI,Chicago Bulls,95,RG
+http://www.basketball-reference.com/boxscores/201105020LAL.html,201105020LAL,DAL,Dallas Mavericks,96,LAL,Los Angeles Lakers,94,RG
+http://www.basketball-reference.com/boxscores/201105030MIA.html,201105030MIA,BOS,Boston Celtics,91,MIA,Miami Heat,102,RG
+http://www.basketball-reference.com/boxscores/201105030OKC.html,201105030OKC,MEM,Memphis Grizzlies,102,OKC,Oklahoma City Thunder,111,RG
+http://www.basketball-reference.com/boxscores/201105040CHI.html,201105040CHI,ATL,Atlanta Hawks,73,CHI,Chicago Bulls,86,RG
+http://www.basketball-reference.com/boxscores/201105040LAL.html,201105040LAL,DAL,Dallas Mavericks,93,LAL,Los Angeles Lakers,81,RG
+http://www.basketball-reference.com/boxscores/201105060ATL.html,201105060ATL,CHI,Chicago Bulls,99,ATL,Atlanta Hawks,82,RG
+http://www.basketball-reference.com/boxscores/201105060DAL.html,201105060DAL,LAL,Los Angeles Lakers,92,DAL,Dallas Mavericks,98,RG
+http://www.basketball-reference.com/boxscores/201105070BOS.html,201105070BOS,MIA,Miami Heat,81,BOS,Boston Celtics,97,RG
+http://www.basketball-reference.com/boxscores/201105070MEM.html,201105070MEM,OKC,Oklahoma City Thunder,93,MEM,Memphis Grizzlies,101,OT
+http://www.basketball-reference.com/boxscores/201105080ATL.html,201105080ATL,CHI,Chicago Bulls,88,ATL,Atlanta Hawks,100,RG
+http://www.basketball-reference.com/boxscores/201105080DAL.html,201105080DAL,LAL,Los Angeles Lakers,86,DAL,Dallas Mavericks,122,RG
+http://www.basketball-reference.com/boxscores/201105090BOS.html,201105090BOS,MIA,Miami Heat,98,BOS,Boston Celtics,90,OT
+http://www.basketball-reference.com/boxscores/201105090MEM.html,201105090MEM,OKC,Oklahoma City Thunder,133,MEM,Memphis Grizzlies,123,3OT
+http://www.basketball-reference.com/boxscores/201105100CHI.html,201105100CHI,ATL,Atlanta Hawks,83,CHI,Chicago Bulls,95,RG
+http://www.basketball-reference.com/boxscores/201105110MIA.html,201105110MIA,BOS,Boston Celtics,87,MIA,Miami Heat,97,RG
+http://www.basketball-reference.com/boxscores/201105110OKC.html,201105110OKC,MEM,Memphis Grizzlies,72,OKC,Oklahoma City Thunder,99,RG
+http://www.basketball-reference.com/boxscores/201105120ATL.html,201105120ATL,CHI,Chicago Bulls,93,ATL,Atlanta Hawks,73,RG
+http://www.basketball-reference.com/boxscores/201105130MEM.html,201105130MEM,OKC,Oklahoma City Thunder,83,MEM,Memphis Grizzlies,95,RG
+http://www.basketball-reference.com/boxscores/201105150CHI.html,201105150CHI,MIA,Miami Heat,82,CHI,Chicago Bulls,103,RG
+http://www.basketball-reference.com/boxscores/201105150OKC.html,201105150OKC,MEM,Memphis Grizzlies,90,OKC,Oklahoma City Thunder,105,RG
+http://www.basketball-reference.com/boxscores/201105170DAL.html,201105170DAL,OKC,Oklahoma City Thunder,112,DAL,Dallas Mavericks,121,RG
+http://www.basketball-reference.com/boxscores/201105180CHI.html,201105180CHI,MIA,Miami Heat,85,CHI,Chicago Bulls,75,RG
+http://www.basketball-reference.com/boxscores/201105190DAL.html,201105190DAL,OKC,Oklahoma City Thunder,106,DAL,Dallas Mavericks,100,RG
+http://www.basketball-reference.com/boxscores/201105210OKC.html,201105210OKC,DAL,Dallas Mavericks,93,OKC,Oklahoma City Thunder,87,RG
+http://www.basketball-reference.com/boxscores/201105220MIA.html,201105220MIA,CHI,Chicago Bulls,85,MIA,Miami Heat,96,RG
+http://www.basketball-reference.com/boxscores/201105230OKC.html,201105230OKC,DAL,Dallas Mavericks,112,OKC,Oklahoma City Thunder,105,OT
+http://www.basketball-reference.com/boxscores/201105240MIA.html,201105240MIA,CHI,Chicago Bulls,93,MIA,Miami Heat,101,OT
+http://www.basketball-reference.com/boxscores/201105250DAL.html,201105250DAL,OKC,Oklahoma City Thunder,96,DAL,Dallas Mavericks,100,RG
+http://www.basketball-reference.com/boxscores/201105260CHI.html,201105260CHI,MIA,Miami Heat,83,CHI,Chicago Bulls,80,RG
+http://www.basketball-reference.com/boxscores/201105310MIA.html,201105310MIA,DAL,Dallas Mavericks,84,MIA,Miami Heat,92,RG
+http://www.basketball-reference.com/boxscores/201106020MIA.html,201106020MIA,DAL,Dallas Mavericks,95,MIA,Miami Heat,93,RG
+http://www.basketball-reference.com/boxscores/201106050DAL.html,201106050DAL,MIA,Miami Heat,88,DAL,Dallas Mavericks,86,RG
+http://www.basketball-reference.com/boxscores/201106070DAL.html,201106070DAL,MIA,Miami Heat,83,DAL,Dallas Mavericks,86,RG
+http://www.basketball-reference.com/boxscores/201106090DAL.html,201106090DAL,MIA,Miami Heat,103,DAL,Dallas Mavericks,112,RG
+http://www.basketball-reference.com/boxscores/201106120MIA.html,201106120MIA,DAL,Dallas Mavericks,105,MIA,Miami Heat,95,RG
