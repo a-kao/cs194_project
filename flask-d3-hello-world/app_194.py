@@ -21,6 +21,7 @@ CATEGORY_PLAYERCAREER = "PlayerCareerPerGame/"
 CATEGORY_GAMES = "Games/"
 CATEGORY_GAMEDETAILS = "GameDetails/"
 
+#Modify the two app routes below to return the correct page
 @app.route("/hello")
 def index():
     """
@@ -28,6 +29,18 @@ def index():
 
     """
     return flask.render_template("index.html")
+
+@app.route("/")
+def gindex():
+    """
+    When you request the gaus path, you'll get the gaus.html template.
+
+    """
+    mux = request.args.get('mux', '')
+    muy = request.args.get('muy', '')
+    if len(mux)==0: mux="3."
+    if len(muy)==0: muy="3."
+    return flask.render_template("gaus.html",mux=mux,muy=muy)
 
 @app.route("/cluster/<int:season>/<pos>/<expVar1>/<expVar2>")
 @app.route("/cluster/<int:season>/<pos>/<expVar1>/<expVar2>/<int:regular>")
@@ -121,9 +134,12 @@ def getPlayerAge(season):
     return json.dumps(ageObj)
 
 def loadData():
-    global seasonDataRegular = dict()
-    global seasonDataAdvanced = dict()
-    global seasonSalaries = dict()
+    global seasonDataRegular
+    seasonDataRegular = dict()
+    global seasonDataAdvanced
+    seasonDataAdvanced = dict()
+    global seasonSalaries
+    seasonSalaries = dict()
 
     pathToSeason = DATA_PATH + CATEGORY_SEASONPLAYER
     for i in range(9, 14):
