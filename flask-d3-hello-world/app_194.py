@@ -113,7 +113,7 @@ def getPlayerAge(season):
         A JSON string of players and their ages.
     """
     rawAges = seasonDataRegular[season]
-    ages = rawAges[["Player", "Age"]
+    ages = rawAges[["Player", "Age"]]
 
     ageObj = [{"_name": ages.ix[i, 0], "age": ages.ix[i, 1]}
         for i in range(len(ages))]
