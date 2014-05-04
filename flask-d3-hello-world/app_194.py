@@ -68,15 +68,15 @@ def getClusterResults(season, pos, expVar1, expVar2, regular = True):
     kmeans_5.fit(clusterMatrix)
 
     #Do some cleaning
-    playerDF["Cluster"] = kmeans_5.labels_
+    playerDF["Cluster"] = kmeans_5.labels_.tolist()
     playerDF.reset_index(inplace = True, drop=True)
 
     #Create the result json object
     playerObj = [{"_name": playerDF.ix[i, "Player"], "_tm": playerDF.ix[i, "Tm"], "var1": playerDF.ix[i, 2], 
-        "var2": playerDF.ix[i, 3], "cluster": playerDF.ix[i, "Cluster"]}
+        "var2": playerDF.ix[i, 3], "cluster": np.asscalar(playerDF.ix[i, "Cluster"])}
         for i in range(len(playerDF))]
 
-    clusterObj = obj2 = [{"_cluster": i, "var1": centroids[i, 0], "var2": centroids[i, 1]}
+    clusterObj = obj2 = [{"_cluster": i, "var1": np.asscalar(centroids[i, 0]), "var2": np.asscalar(centroids[i, 1])}
         for i in range(len(centroids))]
 
     return json.dumps({"_playerObj": playerObj, "_clusterObj": clusterObj})
