@@ -83,6 +83,7 @@ def getClusterResults(season, pos, expVar1, expVar2, regular = True):
     #Do some cleaning
     playerDF["Cluster"] = kmeans_5.labels_.tolist()
     playerDF.reset_index(inplace = True, drop=True)
+    centroids = kmeans_5.cluster_centers_
 
     #Create the result json object
     playerObj = [{"_name": playerDF.ix[i, "Player"], "_tm": playerDF.ix[i, "Tm"], "var1": playerDF.ix[i, 2], 
