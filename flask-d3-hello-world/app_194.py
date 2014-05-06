@@ -2,6 +2,7 @@
 CS194 Final Project
 """
 import json
+import math
 import flask
 from flask import request
 import numpy as np
@@ -14,7 +15,7 @@ app = flask.Flask(__name__)
 """
 Data Paths
 """
-DATA_PATH = "/Users/Alan_Work/Desktop/CS194/cs194_project/data/"
+DATA_PATH = "/Users/tbrown126/Documents/cs194/project/cs194_project/data/"
 CATEGORY_SEASONPLAYER = "SeasonPlayer/"
 CATEGORY_SALARIES= "Salaries/"
 CATEGORY_PLAYERCAREER = "PlayerCareerPerGame/"
@@ -41,6 +42,10 @@ def gindex():
     if len(mux)==0: mux="3."
     if len(muy)==0: muy="3."
     return flask.render_template("gaus.html",mux=mux,muy=muy)
+
+@app.route("/plot")
+def getPlot():
+    return flask.render_template("plot.html")
 
 @app.route("/cluster/<int:season>/<pos>/<expVar1>/<expVar2>")
 @app.route("/cluster/<int:season>/<pos>/<expVar1>/<expVar2>/<int:regular>")
@@ -84,13 +89,22 @@ def getClusterResults(season, pos, expVar1, expVar2, regular = True):
     playerDF["Cluster"] = kmeans_5.labels_.tolist()
     playerDF.reset_index(inplace = True, drop=True)
     centroids = kmeans_5.cluster_centers_
-
+    clusterRadius = {}
+    for name, group in playerDF.groupby(['Cluster']):
+        radius = 0
+        coordinate = (0,0)
+        for index, row in group.iterrows():
+            dist = math.sqrt((float(row[expVar1])-float(centroids[name, 0]))**2 + (float(row[expVar2])-float(centroids[name, 1]))**2)
+            if (dist > radius):
+                radius = dist
+                coordinate = (row[expVar1], row[expVar2])
+        clusterRadius[name] = coordinate  
     #Create the result json object
     playerObj = [{"_name": playerDF.ix[i, "Player"], "_tm": playerDF.ix[i, "Tm"], "var1": playerDF.ix[i, 2], 
         "var2": playerDF.ix[i, 3], "cluster": np.asscalar(playerDF.ix[i, "Cluster"])}
         for i in range(len(playerDF))]
 
-    clusterObj = obj2 = [{"_cluster": i, "var1": np.asscalar(centroids[i, 0]), "var2": np.asscalar(centroids[i, 1])}
+    clusterObj = [{"_cluster": i, "farX": clusterRadius[i][0], "farY": clusterRadius[i][1], "var1": np.asscalar(centroids[i, 0]), "var2": np.asscalar(centroids[i, 1])}
         for i in range(len(centroids))]
 
     return json.dumps({"_playerObj": playerObj, "_clusterObj": clusterObj})
