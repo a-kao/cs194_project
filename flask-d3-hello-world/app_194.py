@@ -15,7 +15,7 @@ app = flask.Flask(__name__)
 """
 Data Paths
 """
-DATA_PATH = "/Users/tbrown126/Documents/cs194/project/cs194_project/data/"
+DATA_PATH = "C:/Users/Boris/Documents/School/CS194/cs194_project/data/"
 CATEGORY_SEASONPLAYER = "SeasonPlayer/"
 CATEGORY_SALARIES= "Salaries/"
 CATEGORY_PLAYERCAREER = "PlayerCareerPerGame/"
@@ -134,9 +134,12 @@ def getClusterResults(season, pos, expVar1, expVar2):
     	"salary": playerDF.ix[i,"Salary"], "var1": playerDF.ix[i, 4], "var2": playerDF.ix[i, 5], 
     	"cluster": np.asscalar(playerDF.ix[i, "Cluster"])}
         for i in range(len(playerDF))]
-
+    
+    def toDecimal(num):
+        return math.floor(num * 100) / 100
+        
     clusterObj = [{"_cluster": i, "farX": clusterRadius[i][0], "farY": clusterRadius[i][1], 
-    	"var1": np.asscalar(centroids[i, 0]), "var2": np.asscalar(centroids[i, 1]), "age": clusterAgeAverage[i],
+    	"var1": toDecimal(np.asscalar(centroids[i, 0])), "var2": toDecimal(np.asscalar(centroids[i, 1])), "age": clusterAgeAverage[i],
     	"salary": clusterSalaryAverage[i]}
         for i in range(len(centroids))]
 
