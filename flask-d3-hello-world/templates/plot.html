@@ -154,10 +154,15 @@
 
 
     <script>
+      var lastPicked;
+      var originalFill;
       $("#players").change(function() {
+        console.log(lastPicked);
+        $(lastPicked).attr("fill", originalFill);
         var playerId = "#"+$("#players :selected").text().replace(/ /g,"_").replace(/\(/g,"").replace(/\)/g,"");
-        console.log(playerId);
         var p = $(playerId)[0];
+        lastPicked = p;
+        originalFill = $(p).attr("fill");
         $(p).attr("fill", d3.rgb($(p).attr("fill")).brighter(3));
       });
 
@@ -176,12 +181,13 @@
           var expVar2 = $("#expVar2 :selected").text();
           var season = $("#season :selected").attr("year");
           var position = $("#position :selected").text();
-          var response = $("#response :selected").text();
+          
           var url = "/cluster/" + season + "/" + position + "/" + expVar1 + "/" + expVar2
 
           var colors = ["#801637", "#047878", "#FFB733", "#F57336", "#C22121"];
 
           $.getJSON(url, function(data) {
+            var response = $("#response :selected").text();
             var clusterInfo = data._clusterObj;
             $("#average1").text("Average " + $("#expVar1 :selected").text());
             $("#average2").text("Average " + $("#expVar2 :selected").text());
@@ -189,7 +195,6 @@
             for (var i=0; i<clusterInfo.length; i++) {
               $("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].salary+"</div></div></div>");
             }
-
 
             jsonCircles = data._playerObj;
 
@@ -261,7 +266,7 @@
                             .attr("cx", function (d) { return xScale(d.var1); })
                             .attr("cy", function (d) { return yScale(d.var2); })
                             .attr("r", function (d) { return rScale(d.salary); })
-                            .attr("fill", function (d) {return colors[d.cluster]});
+                            .attr("fill", function (d) { return colors[d.cluster]; });
 
             circles.on("mouseover", function(d,i) {
               var response = $("#response :selected").text()
