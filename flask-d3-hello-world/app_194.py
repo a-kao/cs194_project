@@ -72,7 +72,7 @@ def getClusterResults(season, pos, expVar1, expVar2):
     """
     regularHeaders = seasonDataRegular[season].columns.values.tolist()
     rawDF = rawDF = pd.DataFrame({"Player": seasonDataRegular[season]["Player"], "Tm": seasonDataRegular[season]["Tm"], 
-    	"Pos": seasonDataRegular[season]["Pos"], "Age": seasonDataRegular[season]["Age"]})
+    	"Pos": seasonDataRegular[season]["Pos"], "Age": seasonDataRegular[season]["Age"], "Salary": seasonDataRegular[season]["Salary"]})
 
     #Get expVar1
     if(expVar1 in regularHeaders):
@@ -86,7 +86,7 @@ def getClusterResults(season, pos, expVar1, expVar2):
     else:
         rawDF[expVar2] = seasonDataAdvanced[season][expVar2]
 
-    #Subset dataframe to get just the columns we want
+    #Subset dataframe to get just the columns and rows we want
     playerDF = rawDF[rawDF["Pos"] == pos].drop("Pos", 1)
     playerDF = playerDF[pd.notnull(playerDF[expVar1])]
     playerDF = playerDF[pd.notnull(playerDF[expVar2])]
@@ -102,15 +102,21 @@ def getClusterResults(season, pos, expVar1, expVar2):
     centroids = kmeans_5.cluster_centers_
 
     clusterRadius = {}
+    clusterSalaryAverage = {}
+    clusterAgeAverage = {}
     for i in range(5):
-    	numPlayers = len(playerDF[playerDF["Cluster"] == i])
+    	playerCluster = playerDF[playerDF["Cluster"] == i]
+    	numPlayers = len(playerCluster)
     	'''
     	majorLength = playerDF[playerDF["Cluster"] == i][expVar1].std() * float(max(numPlayers, 8)/8)
     	minorLength = playerDF[playerDF["Cluster"] == i][expVar2].std() * float(max(numPlayers, 8)/8)
     	'''
-    	majorLength = playerDF[playerDF["Cluster"] == i][expVar1].std() * .9**(-1 * math.log(numPlayers, 2))
-    	minorLength = playerDF[playerDF["Cluster"] == i][expVar2].std() * .9**(-1 * math.log(numPlayers, 2))
+    	majorLength = playerCluster[expVar1].std() * .9**(-1 * math.log(numPlayers, 2))
+    	minorLength = playerCluster[expVar2].std() * .9**(-1 * math.log(numPlayers, 2))
     	clusterRadius[i] = (majorLength + np.asscalar(centroids[i, 0]), minorLength + np.asscalar(centroids[i, 1]))
+
+    	clusterSalaryAverage[i] = playerCluster["Salary"].mean()
+    	clusterAgeAverage[i] = playerCluster["Age"].mean()
     '''
     for name, group in playerDF.groupby(['Cluster']):
         radius = 0
@@ -122,12 +128,16 @@ def getClusterResults(season, pos, expVar1, expVar2):
                 coordinate = (row[expVar1], row[expVar2])
         clusterRadius[name] = coordinate
      '''
+
     #Create the result json object
-    playerObj = [{"_name": playerDF.ix[i, "Player"], "_tm": playerDF.ix[i, "Tm"], "var1": playerDF.ix[i, 3], 
-        "var2": playerDF.ix[i, 4], "cluster": np.asscalar(playerDF.ix[i, "Cluster"])}
+    playerObj = [{"_name": playerDF.ix[i, "Player"], "_tm": playerDF.ix[i, "Tm"], "age": playerDF.ix[i, "Age"],
+    	"salary": playerDF.ix[i,"Salary"], "var1": playerDF.ix[i, 4], "var2": playerDF.ix[i, 5], 
+    	"cluster": np.asscalar(playerDF.ix[i, "Cluster"])}
         for i in range(len(playerDF))]
 
-    clusterObj = [{"_cluster": i, "farX": clusterRadius[i][0], "farY": clusterRadius[i][1], "var1": np.asscalar(centroids[i, 0]), "var2": np.asscalar(centroids[i, 1])}
+    clusterObj = [{"_cluster": i, "farX": clusterRadius[i][0], "farY": clusterRadius[i][1], 
+    	"var1": np.asscalar(centroids[i, 0]), "var2": np.asscalar(centroids[i, 1]), "age": clusterAgeAverage[i],
+    	"salary": clusterSalaryAverage[i]}
         for i in range(len(centroids))]
 
     return json.dumps({"_playerObj": playerObj, "_clusterObj": clusterObj})
@@ -182,7 +192,7 @@ def loadData():
     pathToSeason = DATA_PATH + CATEGORY_SEASONPLAYER
     for i in range(9, 14):
         season = i + 2000
-        seasonDataRegular[season] = pd.read_csv(pathToSeason + "SeasonPlayer" + str(season) + "Regular.csv")
+        seasonDataRegular[season] = pd.read_csv(pathToSeason + "Regular" + str(season) + "PlusSalary.csv")
         seasonDataAdvanced[season] = pd.read_csv(pathToSeason + "SeasonPlayer" + str(season) + "Advanced.csv")
         seasonSalaries[season] = pd.read_csv(DATA_PATH + CATEGORY_SALARIES + "salaryData" + str(season) + ".csv", header = None)
 
