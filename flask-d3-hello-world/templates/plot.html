@@ -177,7 +177,7 @@
           var expVar2 = $("#expVar2 :selected").text();
           var season = $("#season :selected").attr("year");
           var position = $("#position :selected").text();
-          var url = "/cluster/" + season + "/" + position + "/" + expVar1 + "/" + expVar2 + "/0"
+          var url = "/cluster/" + season + "/" + position + "/" + expVar1 + "/" + expVar2
           $.getJSON(url, function(data) {
             var clusterInfo = data._clusterObj;
             $("#average1").text("Average " + $("#expVar1 :selected").text());
