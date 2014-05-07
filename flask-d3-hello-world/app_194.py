@@ -71,7 +71,8 @@ def getClusterResults(season, pos, expVar1, expVar2):
 
     """
     regularHeaders = seasonDataRegular[season].columns.values.tolist()
-    rawDF = rawDF = pd.DataFrame({"Player": seasonDataRegular[season]["Player"], "Tm": seasonDataRegular[season]["Tm"], "Pos": seasonDataRegular[season]["Pos"]})
+    rawDF = rawDF = pd.DataFrame({"Player": seasonDataRegular[season]["Player"], "Tm": seasonDataRegular[season]["Tm"], 
+    	"Pos": seasonDataRegular[season]["Pos"], "Age": seasonDataRegular[season]["Age"]})
 
     #Get expVar1
     if(expVar1 in regularHeaders):
@@ -87,6 +88,8 @@ def getClusterResults(season, pos, expVar1, expVar2):
 
     #Subset dataframe to get just the columns we want
     playerDF = rawDF[rawDF["Pos"] == pos].drop("Pos", 1)
+    playerDF = playerDF[pd.notnull(playerDF[expVar1])]
+    playerDF = playerDF[pd.notnull(playerDF[expVar2])]
     clusterMatrix = playerDF[[expVar1, expVar2]].as_matrix()
 
     #Cluster on the two explanatory variables
@@ -97,7 +100,18 @@ def getClusterResults(season, pos, expVar1, expVar2):
     playerDF["Cluster"] = kmeans_5.labels_.tolist()
     playerDF.reset_index(inplace = True, drop=True)
     centroids = kmeans_5.cluster_centers_
+
     clusterRadius = {}
+    for i in range(5):
+    	numPlayers = len(playerDF[playerDF["Cluster"] == i])
+    	'''
+    	majorLength = playerDF[playerDF["Cluster"] == i][expVar1].std() * float(max(numPlayers, 8)/8)
+    	minorLength = playerDF[playerDF["Cluster"] == i][expVar2].std() * float(max(numPlayers, 8)/8)
+    	'''
+    	majorLength = playerDF[playerDF["Cluster"] == i][expVar1].std() * .9**(-1 * math.log(numPlayers, 2))
+    	minorLength = playerDF[playerDF["Cluster"] == i][expVar2].std() * .9**(-1 * math.log(numPlayers, 2))
+    	clusterRadius[i] = (majorLength + np.asscalar(centroids[i, 0]), minorLength + np.asscalar(centroids[i, 1]))
+    '''
     for name, group in playerDF.groupby(['Cluster']):
         radius = 0
         coordinate = (0,0)
@@ -107,10 +121,10 @@ def getClusterResults(season, pos, expVar1, expVar2):
                 radius = dist
                 coordinate = (row[expVar1], row[expVar2])
         clusterRadius[name] = coordinate
-
+     '''
     #Create the result json object
-    playerObj = [{"_name": playerDF.ix[i, "Player"], "_tm": playerDF.ix[i, "Tm"], "var1": playerDF.ix[i, 2], 
-        "var2": playerDF.ix[i, 3], "cluster": np.asscalar(playerDF.ix[i, "Cluster"])}
+    playerObj = [{"_name": playerDF.ix[i, "Player"], "_tm": playerDF.ix[i, "Tm"], "var1": playerDF.ix[i, 3], 
+        "var2": playerDF.ix[i, 4], "cluster": np.asscalar(playerDF.ix[i, "Cluster"])}
         for i in range(len(playerDF))]
 
     clusterObj = [{"_cluster": i, "farX": clusterRadius[i][0], "farY": clusterRadius[i][1], "var1": np.asscalar(centroids[i, 0]), "var2": np.asscalar(centroids[i, 1])}
