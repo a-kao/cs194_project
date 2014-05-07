@@ -133,8 +133,8 @@
     </div>
     <div class="row-fluid" style="margin-bottom:30px;">
       <div class="span4 offset4"> 
-        <div style="display:inline-block; padding-right=50px;">Select Player:</div>
-        <div style="display:inline-block;">
+        <div style="display:inline-block;">Select Player:</div>
+        <div style="display:inline-block; margin-left=20px;">
           <select id="players" style="width: 200px;">
           </select>
         </div>
@@ -179,13 +179,15 @@
           var response = $("#response :selected").text();
           var url = "/cluster/" + season + "/" + position + "/" + expVar1 + "/" + expVar2
 
+          var colors = ["#801637", "#047878", "#FFB733", "#F57336", "#C22121"];
+
           $.getJSON(url, function(data) {
             var clusterInfo = data._clusterObj;
             $("#average1").text("Average " + $("#expVar1 :selected").text());
             $("#average2").text("Average " + $("#expVar2 :selected").text());
             $("#average3").text("Average " + $("#response :selected").text());
             for (var i=0; i<clusterInfo.length; i++) {
-              $("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span3>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>Response</div></div></div>");
+              $("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].salary+"</div></div></div>");
             }
 
 
@@ -205,7 +207,7 @@
               var temp_x, temp_y, temp_r;
               var temp_x = parseFloat(jsonCircles[i].var1);
               var temp_y = parseFloat(jsonCircles[i].var2);
-              var temp_r = parseFloat(jsonCircles[i].response);
+              var temp_r = parseFloat(jsonCircles[i].salary);
               if ( temp_x >= max_x ) { max_x = temp_x; }
               if ( temp_x < min_x ) { min_x = temp_x; }
 
@@ -231,14 +233,12 @@
                                     .attr("width", w)
                                     .attr("height", h);
 
-            var xaxis = d3.svg.axis().scale(xScale).ticks(8);
-            var yaxis = d3.svg.axis().scale(yScale).ticks(8).orient("left");
-            svgContainer.append("svg:g").attr("class", "x axis")
-                           .attr("transform", "translate(0, " + h + ")");
-            svgContainer.append("svg:g").attr("class", "y axis");
-            
-            var colors = ["#156b87", "#876315", "#543510", "#872815", "#872815"];
+            var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+            var xAxisGroup = svgContainer.append("g").attr("class", "x axis").attr("transform", "translate(0,"+h+")").call(xAxis);
 
+            var yAxis = d3.svg.axis().scale(yScale).orient("left");
+            var yAxisGroup = svgContainer.append("g").attr("class", "y axis").call(yAxis);
+            
             var clusterCircles = svgContainer.selectAll("clusterCircle")
                             .data(clusterInfo)
                             .enter()
@@ -260,11 +260,8 @@
                             .attr("id", function (d) { var pid = d._name + " " + d._tm; return pid.replace(/ /g,"_"); ;})
                             .attr("cx", function (d) { return xScale(d.var1); })
                             .attr("cy", function (d) { return yScale(d.var2); })
-                            .attr("r", function (d) { return rScale(20); })
+                            .attr("r", function (d) { return rScale(d.salary); })
                             .attr("fill", function (d) {return colors[d.cluster]});
-
-
-
 
             circles.on("mouseover", function(d,i) {
               var response = $("#response :selected").text()
@@ -273,7 +270,7 @@
                 .style("top", 300+yScale(d.var2)+"px")
                 .style("display", null)
                 .select("#value")
-                .html("<p>"+d._name+"</p><p>Team: "+d._tm+"</p><p>"+response+": "+d.response+"</p>");
+                .html("<p>"+d._name+"</p><p>Team: "+d._tm+"</p><p>"+response+": "+d.salary+"</p>");
 
                 d3.select(this).attr("fill", d3.rgb(d3.select(this).style("fill")).brighter());
             });
