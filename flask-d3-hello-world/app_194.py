@@ -48,8 +48,7 @@ def getPlot():
     return flask.render_template("plot.html")
 
 @app.route("/cluster/<int:season>/<pos>/<expVar1>/<expVar2>")
-@app.route("/cluster/<int:season>/<pos>/<expVar1>/<expVar2>/<int:regular>")
-def getClusterResults(season, pos, expVar1, expVar2, regular = True):
+def getClusterResults(season, pos, expVar1, expVar2):
     """
     On request, this returns a list of players for the given season
     with the relevant x, y, and cluster, as well as cluster points.
@@ -71,14 +70,23 @@ def getClusterResults(season, pos, expVar1, expVar2, regular = True):
         attributes.
 
     """
-    rawDF = None
-    if(regular):
-        rawDF = seasonDataRegular[season]
-    else:
-        rawDF = seasonDataAdvanced[season]
+    regularHeaders = seasonDataRegular[season].columns.values.tolist()
+    rawDF = rawDF = pd.DataFrame({"Player": seasonDataRegular[season]["Player"], "Tm": seasonDataRegular[season]["Tm"], "Pos": seasonDataRegular[season]["Pos"]})
 
-    #Subset dataframe to get just the columsn we want
-    playerDF = rawDF[rawDF["Pos"] == pos][["Player", "Tm", expVar1, expVar2]]
+    #Get expVar1
+    if(expVar1 in regularHeaders):
+        rawDF[expVar1] = seasonDataRegular[season][expVar1]
+    else:
+        rawDF[expVar1] = seasonDataAdvanced[season][expVar1]
+
+    #Get expVar2
+    if(expVar2 in regularHeaders):
+        rawDF[expVar2] = seasonDataRegular[season][expVar2]
+    else:
+        rawDF[expVar2] = seasonDataAdvanced[season][expVar2]
+
+    #Subset dataframe to get just the columns we want
+    playerDF = rawDF[rawDF["Pos"] == pos].drop("Pos", 1)
     clusterMatrix = playerDF[[expVar1, expVar2]].as_matrix()
 
     #Cluster on the two explanatory variables
@@ -98,7 +106,8 @@ def getClusterResults(season, pos, expVar1, expVar2, regular = True):
             if (dist > radius):
                 radius = dist
                 coordinate = (row[expVar1], row[expVar2])
-        clusterRadius[name] = coordinate  
+        clusterRadius[name] = coordinate
+
     #Create the result json object
     playerObj = [{"_name": playerDF.ix[i, "Player"], "_tm": playerDF.ix[i, "Tm"], "var1": playerDF.ix[i, 2], 
         "var2": playerDF.ix[i, 3], "cluster": np.asscalar(playerDF.ix[i, "Cluster"])}
