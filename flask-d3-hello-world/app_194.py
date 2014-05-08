@@ -15,7 +15,7 @@ app = flask.Flask(__name__)
 """
 Data Paths
 """
-DATA_PATH = "C:/Users/Boris/Documents/School/CS194/cs194_project/data/"
+DATA_PATH = "/Users/tbrown126/Documents/cs194/project/cs194_project/data/"
 CATEGORY_SEASONPLAYER = "SeasonPlayer/"
 CATEGORY_SALARIES= "Salaries/"
 CATEGORY_PLAYERCAREER = "PlayerCareerPerGame/"
@@ -47,8 +47,8 @@ def gindex():
 def getPlot():
     return flask.render_template("plot.html")
 
-@app.route("/cluster/<int:season>/<pos>/<expVar1>/<expVar2>")
-def getClusterResults(season, pos, expVar1, expVar2):
+@app.route("/cluster/<int:season>/<pos>/<expVar1>/<expVar2>/<int:clusterNum>")
+def getClusterResults(season, pos, expVar1, expVar2, clusterNum):
     """
     On request, this returns a list of players for the given season
     with the relevant x, y, and cluster, as well as cluster points.
@@ -93,7 +93,7 @@ def getClusterResults(season, pos, expVar1, expVar2):
     clusterMatrix = playerDF[[expVar1, expVar2]].as_matrix()
 
     #Cluster on the two explanatory variables
-    kmeans_5 = KMeans(n_clusters=5, n_init=1)
+    kmeans_5 = KMeans(n_clusters=clusterNum, n_init=1)
     kmeans_5.fit(clusterMatrix)
 
     #Do some cleaning
@@ -104,7 +104,7 @@ def getClusterResults(season, pos, expVar1, expVar2):
     clusterRadius = {}
     clusterSalaryAverage = {}
     clusterAgeAverage = {}
-    for i in range(5):
+    for i in range(clusterNum):
     	playerCluster = playerDF[playerDF["Cluster"] == i]
     	numPlayers = len(playerCluster)
     	'''

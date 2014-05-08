@@ -222,10 +222,11 @@
           var expVar2 = $("#expVar2 :selected").text();
           var season = $("#season :selected").attr("year");
           var position = $("#position :selected").text();
+          var clusterNum = $("#clusters :selected").text();
           
-          var url = "/cluster/" + season + "/" + position + "/" + expVar1 + "/" + expVar2
+          var url = "/cluster/" + season + "/" + position + "/" + expVar1 + "/" + expVar2 + "/" + clusterNum;
 
-          var colors = ["#801637", "#047878", "#FFB733", "#F57336", "#C22121"];
+          var colors = ["#801637", "#047878", "#FFB733", "#F57336", "#C22121", "#42282F", "#74A588", "#D6CCAD", "#DC9C76", "#D6655A"];
 
           $.getJSON(url, function(data) {
             var response = $("#response :selected").text();
