@@ -116,7 +116,7 @@ def getClusterResults(season, pos, expVar1, expVar2):
     	clusterRadius[i] = (majorLength + np.asscalar(centroids[i, 0]), minorLength + np.asscalar(centroids[i, 1]))
 
     	clusterSalaryAverage[i] = playerCluster["Salary"].mean()
-    	clusterAgeAverage[i] = playerCluster["Age"].mean()
+    	clusterAgeAverage[i] = playerCluster["Age"].astype('float').mean()
     '''
     for name, group in playerDF.groupby(['Cluster']):
         radius = 0
@@ -138,9 +138,13 @@ def getClusterResults(season, pos, expVar1, expVar2):
     def toDecimal(num):
         return math.floor(num * 100) / 100
         
+    def toSalary(num):
+        temp = toDecimal(num)
+        return '${:,.2f}'.format(temp)
+        
     clusterObj = [{"_cluster": i, "farX": clusterRadius[i][0], "farY": clusterRadius[i][1], 
-    	"var1": toDecimal(np.asscalar(centroids[i, 0])), "var2": toDecimal(np.asscalar(centroids[i, 1])), "age": clusterAgeAverage[i],
-    	"salary": clusterSalaryAverage[i]}
+    	"var1": toDecimal(np.asscalar(centroids[i, 0])), "var2": toDecimal(np.asscalar(centroids[i, 1])), "age": toDecimal(clusterAgeAverage[i]),
+    	"salary": toSalary(clusterSalaryAverage[i])}
         for i in range(len(centroids))]
 
     return json.dumps({"_playerObj": playerObj, "_clusterObj": clusterObj})
