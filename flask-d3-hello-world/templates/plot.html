@@ -43,28 +43,28 @@
       <div class="span2">
         <select id = "expVar1" style="width: 100%;">
           <option>G</option>
-		  <option>GS</option>
-		  <option>MP</option>
-		  <option>FG</option>
-		  <option>FGA</option>
-		  <option>FG%</option>
-		  <option>3P</option>
-		  <option>3PA</option>
-		  <option>3P%</option>
-		  <option>2P</option>
-		  <option>2P%</option>
-		  <option>FT</option>
-		  <option>FTA</option>
-		  <option>FT%</option>
-		  <option>ORB</option>
-		  <option>DRB</option>
-		  <option>TRB</option>
-		  <option>AST</option>
-		  <option>STK</option>
-		  <option>BLK</option>
-		  <option>TOV</option>
-		  <option>PF</option>
-		  <option>PTS</option>
+          <option>GS</option>
+          <option>MP</option>
+          <option>FG</option>
+          <option>FGA</option>
+          <option>FG%</option>
+          <option>3P</option>
+          <option>3PA</option>
+          <option>3P%</option>
+          <option>2P</option>
+          <option>2P%</option>
+          <option>FT</option>
+          <option>FTA</option>
+          <option>FT%</option>
+          <option>ORB</option>
+          <option>DRB</option>
+          <option>TRB</option>
+          <option>AST</option>
+          <option>STK</option>
+          <option>BLK</option>
+          <option>TOV</option>
+          <option>PF</option>
+          <option>PTS</option>
           <option>PER</option>
           <option>TS%</option>
           <option>eFG%</option>
@@ -89,28 +89,28 @@
       <div class="span2">
         <select id="expVar2" style="width: 100%;">
           <option>G</option>
-		  <option>GS</option>
-		  <option>MP</option>
-		  <option>FG</option>
-		  <option>FGA</option>
-		  <option>FG%</option>
-		  <option>3P</option>
-		  <option>3PA</option>
-		  <option>3P%</option>
-		  <option>2P</option>
-		  <option>2P%</option>
-		  <option>FT</option>
-		  <option>FTA</option>
-		  <option>FT%</option>
-		  <option>ORB</option>
-		  <option>DRB</option>
-		  <option>TRB</option>
-		  <option>AST</option>
-		  <option>STK</option>
-		  <option>BLK</option>
-		  <option>TOV</option>
-		  <option>PF</option>
-		  <option>PTS</option>
+          <option>GS</option>
+          <option>MP</option>
+          <option>FG</option>
+          <option>FGA</option>
+          <option>FG%</option>
+          <option>3P</option>
+          <option>3PA</option>
+          <option>3P%</option>
+          <option>2P</option>
+          <option>2P%</option>
+          <option>FT</option>
+          <option>FTA</option>
+          <option>FT%</option>
+          <option>ORB</option>
+          <option>DRB</option>
+          <option>TRB</option>
+          <option>AST</option>
+          <option>STK</option>
+          <option>BLK</option>
+          <option>TOV</option>
+          <option>PF</option>
+          <option>PTS</option>
           <option>PER</option>
           <option>TS%</option>
           <option>eFG%</option>
@@ -145,9 +145,6 @@
           <option year="2011">2011-2012</option>
           <option year="2010">2010-2011</option>
           <option year="2009">2009-2010</option>
-          <option year="2008">2008-2009</option>
-          <option year="2007">2007-2008</option>
-          <option year="2006">2006-2007</option>
         </select>
       </div>
       <div class="span2">
@@ -202,7 +199,6 @@
       var originalFill;
 	    function numberWithCommas(x) { return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); }
       $("#players").change(function() {
-        console.log(lastPicked);
         $(lastPicked).attr("fill", originalFill);
         var playerId = "#"+$("#players :selected").text().replace(/ /g,"_").replace(/\(/g,"").replace(/\)/g,"");
         var p = $(playerId)[0];
@@ -239,37 +235,43 @@
             $("#average3").text("Average " + $("#response :selected").text());
             for (var i=0; i<clusterInfo.length; i++) {
               if (response == "Salary") {
-					$("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].salary+"</div></div></div>");
-				} else {
-					$("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].age+"</div></div></div>");
-				}
+               $("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].salary+"</div></div></div>");
+             } else {
+               $("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].age+"</div></div></div>");
+             }
             }
 
             jsonCircles = data._playerObj;
 
             var max_x = 0;
             var max_y = 0;
-            var max_r = 0;
-            var min_r = 999999999999;
+            var max_s = 0;
+            var max_a = 0;
+            var min_s = 999999999999;
             var min_x = 999999999999;
             var min_y = 999999999999;
-
+            var min_a = 999999999999;
 
             for (var i = 0; i < jsonCircles.length; i++) {
               $("#players").append("<option>"+jsonCircles[i]._name+" ("+jsonCircles[i]._tm+")"+"</option>");
 
-              var temp_x, temp_y, temp_r;
+              var temp_x, temp_y, temp_s, temp_a;
               var temp_x = parseFloat(jsonCircles[i].var1);
               var temp_y = parseFloat(jsonCircles[i].var2);
-              var temp_r = parseFloat(jsonCircles[i].salary);
+              var temp_s = parseFloat(jsonCircles[i].salary);
+              var temp_a = parseFloat(jsonCircles[i].age);
+
               if ( temp_x >= max_x ) { max_x = temp_x; }
               if ( temp_x < min_x ) { min_x = temp_x; }
 
               if ( temp_y >= max_y ) { max_y = temp_y; }
               if ( temp_y < min_y ) { min_y = temp_y; }
 
-              if ( temp_r >= max_r ) { max_r = temp_r; }
-              if ( temp_r < min_r ) { min_r = temp_r; }
+              if ( temp_a >= max_a ) { max_a = temp_a; }
+              if ( temp_a < min_a ) { min_a = temp_a; }
+
+              if ( temp_s >= max_s ) { max_s = temp_s; }
+              if ( temp_s < min_s ) { min_s = temp_s; }
             }
 
             var w = 1000;
@@ -280,7 +282,9 @@
 
             var yScale = d3.scale.linear().domain([min_y, max_y]).range([(h-padding),padding]);
 
-            var rScale = d3.scale.linear().domain([min_r, max_r]).range([5,20])
+            var sScale = d3.scale.linear().domain([min_s, max_s]).range([5,20]);
+
+            var aScale = d3.scale.linear().domain([min_a, max_a]).range([5,20]);
 
             var svgContainer = d3.select("#plot").append("svg")
                                     .attr("id", "svg_container")
@@ -288,11 +292,24 @@
                                     .attr("height", h);
 
             var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
-            var xAxisGroup = svgContainer.append("g").attr("class", "x axis").attr("transform", "translate(0,"+h+")").call(xAxis);
+            var xAxisGroup = svgContainer.append("g").attr("class", "x axis").attr("transform", "translate(0,"+(h-35)+")").call(xAxis);
 
             var yAxis = d3.svg.axis().scale(yScale).orient("left");
-            var yAxisGroup = svgContainer.append("g").attr("class", "y axis").call(yAxis);
+            var yAxisGroup = svgContainer.append("g").attr("class", "y axis").attr("transform", "translate(40,0)").call(yAxis);
+
+            svgContainer.append("text") 
+              .attr("transform", "translate(" + (w / 2) + " ," + (h - 5) +")")
+              .style("text-anchor", "middle")
+              .text(expVar1);
             
+            svgContainer.append("text")
+              .attr("transform", "rotate(-90)")
+              .attr("y", 0)
+              .attr("x",0 - (h / 2))
+              .attr("dy", "1em")
+              .style("text-anchor", "middle")
+              .text(expVar2);
+
             var clusterCircles = svgContainer.selectAll("clusterCircle")
                             .data(clusterInfo)
                             .enter()
@@ -311,37 +328,72 @@
                             .append("circle");
 
             var circleAttributes = circles
+                            .attr("class", "player")
                             .attr("id", function (d) { var pid = d._name + " " + d._tm; return pid.replace(/ /g,"_"); ;})
                             .attr("cx", function (d) { return xScale(d.var1); })
                             .attr("cy", function (d) { return yScale(d.var2); })
-                            .attr("r", function (d) { return rScale(d.salary); })
+                            .attr("r", function (d) { 
+                              if (response == 'Salary') {
+                                return sScale(d.salary); 
+                              } else {
+                                return aScale(d.age);
+                              }
+                            })
                             .attr("fill", function (d) { return colors[d.cluster]; });
 
             circles.on("mouseover", function(d,i) {
               var response = $("#response :selected").text();
-			  if (response == "Salary") {
+			        if (response == "Salary") {
                 tip
                   .style("left", xScale(d.var1)+50+"px")
                   .style("top", 300+yScale(d.var2)+"px")
                   .style("display", null)
                   .select("#value")
                   .html("<p>"+d._name+"</p><p>Team: "+d._tm+"</p><p>"+response+": "+numberWithCommas(d.salary)+"</p>");
-				} else {
-				tip
+				      } else {
+				        tip
                   .style("left", xScale(d.var1)+50+"px")
                   .style("top", 300+yScale(d.var2)+"px")
                   .style("display", null)
                   .select("#value")
                   .html("<p>"+d._name+"</p><p>Team: "+d._tm+"</p><p>"+response+": "+d.age+"</p>");
-				}
+				      }
 
-                d3.select(this).attr("fill", d3.rgb(d3.select(this).style("fill")).brighter());
+              d3.select(this).attr("fill", d3.rgb(d3.select(this).style("fill")).brighter());
             });
     
             circles.on("mouseout", function(d,i) {
               tip.style("display", "none")
 
               d3.select(this).attr("fill", colors[d.cluster]);
+            });
+
+            $("#response").change(function() {
+              var response = $("#response :selected").text();
+              var svg = $("#svg_container");
+              if (response == 'Salary') {
+                svgContainer.selectAll('.player')
+                  .transition()
+                  .duration(500)
+                  .ease("linear")
+                  .attr('r', function(d){ return sScale(d.salary); });
+              } else {
+                svgContainer.selectAll('.player')
+                  .transition()
+                  .duration(500)
+                  .ease("linear")
+                  .attr('r', function(d){ return aScale(d.age); });
+              }
+              $("#clusterInfo").empty();
+              var responseLabel = $("#average3")[0];
+              $(responseLabel).text("Average " + response);
+              for (var i=0; i<clusterInfo.length; i++) {
+                if (response == "Salary") {
+                  $("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].salary+"</div></div></div>");
+               } else {
+                  $("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].age+"</div></div></div>");
+               }
+             }
             });
           });
       });
