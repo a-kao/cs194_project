@@ -42,7 +42,29 @@
     <div class="row-fluid">
       <div class="span2">
         <select id = "expVar1" style="width: 100%;">
-          <option>GMP</option>
+          <option>G</option>
+		  <option>GS</option>
+		  <option>MP</option>
+		  <option>FG</option>
+		  <option>FGA</option>
+		  <option>FG%</option>
+		  <option>3P</option>
+		  <option>3PA</option>
+		  <option>3P%</option>
+		  <option>2P</option>
+		  <option>2P%</option>
+		  <option>FT</option>
+		  <option>FTA</option>
+		  <option>FT%</option>
+		  <option>ORB</option>
+		  <option>DRB</option>
+		  <option>TRB</option>
+		  <option>AST</option>
+		  <option>STK</option>
+		  <option>BLK</option>
+		  <option>TOV</option>
+		  <option>PF</option>
+		  <option>PTS</option>
           <option>PER</option>
           <option>TS%</option>
           <option>eFG%</option>
@@ -66,7 +88,29 @@
       </div>
       <div class="span2">
         <select id="expVar2" style="width: 100%;">
-          <option>GMP</option>
+          <option>G</option>
+		  <option>GS</option>
+		  <option>MP</option>
+		  <option>FG</option>
+		  <option>FGA</option>
+		  <option>FG%</option>
+		  <option>3P</option>
+		  <option>3PA</option>
+		  <option>3P%</option>
+		  <option>2P</option>
+		  <option>2P%</option>
+		  <option>FT</option>
+		  <option>FTA</option>
+		  <option>FT%</option>
+		  <option>ORB</option>
+		  <option>DRB</option>
+		  <option>TRB</option>
+		  <option>AST</option>
+		  <option>STK</option>
+		  <option>BLK</option>
+		  <option>TOV</option>
+		  <option>PF</option>
+		  <option>PTS</option>
           <option>PER</option>
           <option>TS%</option>
           <option>eFG%</option>
@@ -154,6 +198,7 @@
 
 
     <script>
+	  function numberWithCommas(x) { return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); }
       $("#players").change(function() {
         var playerId = "#"+$("#players :selected").text().replace(/ /g,"_").replace(/\(/g,"").replace(/\)/g,"");
         console.log(playerId);
@@ -187,7 +232,11 @@
             $("#average2").text("Average " + $("#expVar2 :selected").text());
             $("#average3").text("Average " + $("#response :selected").text());
             for (var i=0; i<clusterInfo.length; i++) {
-              $("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].salary+"</div></div></div>");
+              if (response == "Salary") {
+					$("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].salary+"</div></div></div>");
+				} else {
+					$("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[clusterInfo[i]._cluster]+";'></div><div class=span2>"+clusterInfo[i]._cluster+"</div><div class=span3>"+clusterInfo[i].var1+"</div><div class=span3>"+clusterInfo[i].var2+"</div><div class=span3>"+clusterInfo[i].age+"</div></div></div>");
+				}
             }
 
 
@@ -264,13 +313,22 @@
                             .attr("fill", function (d) {return colors[d.cluster]});
 
             circles.on("mouseover", function(d,i) {
-              var response = $("#response :selected").text()
-              tip
-                .style("left", xScale(d.var1)+50+"px")
-                .style("top", 300+yScale(d.var2)+"px")
-                .style("display", null)
-                .select("#value")
-                .html("<p>"+d._name+"</p><p>Team: "+d._tm+"</p><p>"+response+": "+d.salary+"</p>");
+              var response = $("#response :selected").text();
+			  if (response == "Salary") {
+                tip
+                  .style("left", xScale(d.var1)+50+"px")
+                  .style("top", 300+yScale(d.var2)+"px")
+                  .style("display", null)
+                  .select("#value")
+                  .html("<p>"+d._name+"</p><p>Team: "+d._tm+"</p><p>"+response+": "+numberWithCommas(d.salary)+"</p>");
+				} else {
+				tip
+                  .style("left", xScale(d.var1)+50+"px")
+                  .style("top", 300+yScale(d.var2)+"px")
+                  .style("display", null)
+                  .select("#value")
+                  .html("<p>"+d._name+"</p><p>Team: "+d._tm+"</p><p>"+response+": "+d.age+"</p>");
+				}
 
                 d3.select(this).attr("fill", d3.rgb(d3.select(this).style("fill")).brighter());
             });
