@@ -67,7 +67,10 @@
             <ul class="nav">
                 <li><a href="/plot">Clustering</a></li>
                 <li class="active"><a href="/predict">Regression</a></li>
-                <li><a href="#">Network</a></li>
+                <li><a href="/graph">Network</a></li>
+            </ul>
+            <ul class="nav pull-right">
+              <li><a href="#">Tim Brown, Alan Kao, Boris Lin</a></li>
             </ul>
           </div>
     	</div>
@@ -88,6 +91,13 @@
 	      	<select id = "playerName" style="width:100%">
 	      	  <option>Kobe Bryant</option>
 	      	  <option>LeBron James</option>
+	      	  <option>Kevin Durant</option>
+	      	  <option>Chris Paul</option>
+	      	  <option>Blake Griffin</option>
+	      	  <option>Dwight Howard</option>
+	      	  <option>Russell Westbrook</option>
+	      	  <option>Carmelo Anthony</option>
+	      	  <option>Dwight Howard</option>
 	      	</select>
 	      </div>
 	      <div class="span2">
@@ -166,19 +176,33 @@
 		</div>
 	</div>
 
+	<div id="clusterHeading" class="row-fluid">
+      <div class="span8 offset2">
+        <div class="span3">Model</div>
+        <div id="average1" class="span3">Mean Error</div>
+        <div id="average2" class="span3">RMSE</div>
+        <div id="average3" class="span3">Model Score</div>
+      </div>
+    </div>
+    <div id="clusterInfo"></div>
+
 
 	<script>
 		/* implementation heavily influenced by http://bl.ocks.org/1166403 */
 		/* some arguments AGAINST the use of dual-scaled axes line graphs can be found at http://www.perceptualedge.com/articles/visual_business_intelligence/dual-scaled_axes.pdf */
 		$("#go").click(function() {
-			$("#graph").empty();
 			var name = $("#playerName :selected").text()
 			var stat = $("#expVar1 :selected").text()
 
 		var url = "/predictStats/" + name + "/" + stat;
+		var data4;
 		$.getJSON(url, function(data) {
+			$("#graph").empty();
+			$("#clusterInfo").empty();
+
+
 			// define dimensions of graph
-			var m = [10, 10, 75, 40]; // margins
+			var m = [10, 10, 75, 60]; // margins
 			var w = 900 - m[1] - m[3];	// width
 			var h = 400 - m[0] - m[2]; // height
 			
@@ -186,7 +210,7 @@
 			var data1 = data.real;
 			var data2 = data.predicted1;
 			var data3 = data.predicted2;
-			var data4 = data.predicted3;
+			data4 = data.predicted3;
 
 
 			var seasons = data.seasons;
@@ -318,10 +342,17 @@
 			// do this AFTER the axes above so that the line is above the tick-lines
   			graph.append("svg:path").attr("d", line1(data1)).attr("class", "data1");
   			graph.append("svg:path").attr("d", line2(data2)).attr("class", "data2");
-  			graph.append("svg:path").attr("d", line2(data3)).attr("class", "data3");
-  			graph.append("svg:path").attr("d", line2(data4)).attr("class", "data4");
+  			graph.append("svg:path").attr("d", line3(data3)).attr("class", "data3");
+  			graph.append("svg:path").attr("d", line4(data4)).attr("class", "data4");
 
+  			var colors = ["orange", "red", "green"];
+  			var modelInfo = data.modelInfo;
+  			
+  			for (var i=0; i<3; i++) {
+                $("#clusterInfo").append("<div class=row-fluid><div class='span8 offset2'><div class=span1 style='background-color:"+colors[i]+";'></div><div class=span2>"+"</div><div class=span3>"+modelInfo[i][1]+"</div><div class=span3>"+modelInfo[i][2]+"</div><div class=span3>"+modelInfo[i][0]+"</div></div></div>");
+            }
   		});
+
 		});
 			
 
