@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Predict Stats</title>
+		<script src="http://mbostock.github.com/d3/d3.v2.js"></script>
+		<style>
+			/* tell the SVG path to be a thin blue line without any area fill */
+			path {
+				stroke-width: 1;
+				fill: none;
+			}
+			
+			.data1 {
+				stroke: steelblue;
+				stroke-width: 4;
+			}
+
+			.data2 {
+				stroke: orange;
+			}
+
+			.data3 {
+				stroke: red;
+			}
+
+			.data4 {
+				stroke: green;
+			}
+
+			.axis {
+			  shape-rendering: crispEdges;
+			}
+
+			.x.axis line {
+			  stroke: lightgrey;
+			}
+
+			.x.axis .minor {
+			  stroke-opacity: .5;
+			}
+
+			.x.axis path {
+			  display: none;
+			}
+			
+			.x.axis text {
+				font-size: 14;
+			}
+
+			.y.axis line, .y.axis path {
+			  fill: none;
+			  stroke: #000;
+			}
+
+			.y.axis text {
+				font-size: 14;
+			}
+
+		</style>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link href="/static/css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+		<div class="navbar navbar-inverse navbar-fixed-top">
+          <div class="navbar-inner">
+            <a class="brand" href="/" style="padding-left:50px;">NBA Stats Modeling</a>
+            <ul class="nav">
+                <li><a href="/plot">Clustering</a></li>
+                <li class="active"><a href="/predict">Regression</a></li>
+                <li><a href="#">Network</a></li>
+            </ul>
+          </div>
+    	</div>
+	</head>
+	<body style="margin:50px;">
+		<div class="row-fluid" style="margin-bottom:50px;">
+	      <h1 class="span12 text-center">Stats Regression Model</h1>
+	    </div>
+	    <script src="http://code.jquery.com/jquery.js"></script>
+	    <script src="/static/js/bootstrap.js"></script>
+	    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	    <div class="row-fluid">
+	      <div class="span2 offset4 text-center">Player</div>
+	      <div class="span2 text-center">Stat</div>
+	    </div>
+	    <div class="row-fluid">
+	      <div class="span2 offset4">
+	      	<select id = "playerName" style="width:100%">
+	      	  <option>Kobe Bryant</option>
+	      	  <option>LeBron James</option>
+	      	</select>
+	      </div>
+	      <div class="span2">
+	        <select id = "expVar1" style="width: 100%;">
+	          <option>G</option>
+	          <option>GS</option>
+	          <option>MP</option>
+	          <option>FG</option>
+	          <option>FGA</option>
+	          <option>FG%</option>
+	          <option>3P</option>
+	          <option>3PA</option>
+	          <option>3P%</option>
+	          <option>2P</option>
+	          <option>2P%</option>
+	          <option>FT</option>
+	          <option>FTA</option>
+	          <option>FT%</option>
+	          <option>ORB</option>
+	          <option>DRB</option>
+	          <option>TRB</option>
+	          <option>AST</option>
+	          <option>STK</option>
+	          <option>BLK</option>
+	          <option>TOV</option>
+	          <option>PF</option>
+	          <option>PTS</option>
+	          <option>PER</option>
+	          <option>TS%</option>
+	          <option>eFG%</option>
+	          <option>FTr</option>
+	          <option>3PAr</option>
+	          <option>ORB%</option>
+	          <option>DRB%</option>
+	          <option>TRB%</option>
+	          <option>AST%</option>
+	          <option>STL%</option>
+	          <option>BLK%</option>
+	          <option>TOV%</option>
+	          <option>USG%</option>
+	          <option>ORtg</option>
+	          <option>DRtg</option>
+	          <option>OWS</option>
+	          <option>DWS</option>
+	          <option>WS</option>
+	          <option>WS/48</option>
+	        </select>
+	      </div>
+	    </div>
+	</div>
+	<div class="row-fluid">
+      <div class="span3 offset5">
+        <button id="go" class="btn btn-large btn-primary" type="button" style="margin-bottom:25px;">Generate Plot</button>
+      </div>
+    </div>
+
+    <div class="row-fluid">
+		<div id="graph" class="aGraph span10"></div>
+		<div class="span2">
+			<div class="row-fluid">
+				<div class="span1" style="width:25px;background-color:steelblue"></div>
+				<div class="span1" style="width:200px;">Actual</div>
+			</div>
+			<div class="row-fluid">
+				<div class="span1" style="width:25px;background-color:orange"></div>
+				<div class="span1" style="width:200px;">Predicted: Past 3 Seasons</div>
+			</div>
+			<div class="row-fluid">
+				<div class="span1" style="width:25px;background-color:red"></div>
+				<div class="span1" style="width:200px;">Predicted: Past Season</div>
+			</div>
+			<div class="row-fluid">
+				<div class="span1" style="width:25px;background-color:green"></div>
+				<div class="span1" style="width:200px;">Predicted: Weighted Average of Past 3 Seasons</div>
+			</div>
+		</div>
+	</div>
+
+
+	<script>
+		/* implementation heavily influenced by http://bl.ocks.org/1166403 */
+		/* some arguments AGAINST the use of dual-scaled axes line graphs can be found at http://www.perceptualedge.com/articles/visual_business_intelligence/dual-scaled_axes.pdf */
+		$("#go").click(function() {
+			$("#graph").empty();
+			var name = $("#playerName :selected").text()
+			var stat = $("#expVar1 :selected").text()
+
+		var url = "/predictStats/" + name + "/" + stat;
+		$.getJSON(url, function(data) {
+			// define dimensions of graph
+			var m = [10, 10, 75, 40]; // margins
+			var w = 900 - m[1] - m[3];	// width
+			var h = 400 - m[0] - m[2]; // height
+			
+			// create a simple data array that we'll plot with a line (this array represents only the Y values, X will just be the index location)
+			var data1 = data.real;
+			var data2 = data.predicted1;
+			var data3 = data.predicted2;
+			var data4 = data.predicted3;
+
+
+			var seasons = data.seasons;
+
+			var max = 0;
+            var min = 999999999;
+
+            for (var i = 0; i < data2.length; i++) {
+              var temp_1, temp_2, temp_3, temp_4;
+              var temp_1= parseFloat(data1[i]);
+              var temp_2 = parseFloat(data2[i]);
+              var temp_3 = parseFloat(data3[i]);
+              var temp_4 = parseFloat(data4[i]);
+
+              if ( temp_1 >= max ) { max = temp_1; }
+              if ( temp_1 < min ) { min = temp_1; }
+
+              if ( temp_2 >= max ) { max = temp_2; }
+              if ( temp_2 < min ) { min = temp_2; }
+
+              if ( temp_3 >= max ) { max = temp_3; }
+              if ( temp_3 < min ) { min = temp_3; }
+
+              if ( temp_4 >= max ) { max = temp_4; }
+              if ( temp_4 < min ) { min = temp_4; }
+            }
+
+			// X scale will fit all values from data[] within pixels 0-w
+			var x = d3.scale.linear().domain([0, data2.length]).range([0, w]);
+			var x2 = d3.scale.ordinal()
+				.domain(seasons)
+				.rangeRoundBands([0,w], .1);
+			// Y scale will fit values from 0-10 within pixels h-0 (Note the inverted domain for the y-scale: bigger is up!)
+			var y = d3.scale.linear().domain([min, max]).range([h, 0]); // in real world the domain would be dynamically calculated from the data
+			//var y2 = d3.scale.linear().domain([min, max]).range([h, 0]);  // in real world the domain would be dynamically calculated from the data
+				// automatically determining max range can work something like this
+				// var y = d3.scale.linear().domain([0, d3.max(data)]).range([h, 0]);
+
+			// create a line function that can convert data[] into x and y points
+			var line1 = d3.svg.line()
+				// assign the X function to plot our line as we wish
+				.x(function(d,i) { 
+					// verbose logging to show what's actually being done
+					
+					// return the X coordinate where we want to plot this datapoint
+					return x(i); 
+				})
+				.y(function(d) { 
+					// verbose logging to show what's actually being done
+					// return the Y coordinate where we want to plot this datapoint
+					return y(d); 
+				})
+				
+			// create a line function that can convert data[] into x and y points
+			var line2 = d3.svg.line()
+				// assign the X function to plot our line as we wish
+				.x(function(d,i) { 
+					// verbose logging to show what's actually being done
+					
+					// return the X coordinate where we want to plot this datapoint
+					return x(i); 
+				})
+				.y(function(d) { 
+					// verbose logging to show what's actually being done
+					// return the Y coordinate where we want to plot this datapoint
+					return y(d); 
+				})
+
+			var line3 = d3.svg.line()
+				// assign the X function to plot our line as we wish
+				.x(function(d,i) { 
+					// verbose logging to show what's actually being done
+					
+					// return the X coordinate where we want to plot this datapoint
+					return x(i); 
+				})
+				.y(function(d) { 
+					// verbose logging to show what's actually being done
+					// return the Y coordinate where we want to plot this datapoint
+					return y(d); 
+				})
+
+			var line4 = d3.svg.line()
+				// assign the X function to plot our line as we wish
+				.x(function(d,i) { 
+					// verbose logging to show what's actually being done
+					
+					// return the X coordinate where we want to plot this datapoint
+					return x(i); 
+				})
+				.y(function(d) { 
+					// verbose logging to show what's actually being done
+					// return the Y coordinate where we want to plot this datapoint
+					return y(d); 
+				})
+
+			// Add an SVG element with the desired dimensions and margin.
+			var graph = d3.select("#graph").append("svg:svg")
+			      .attr("width", w + m[1] + m[3])
+			      .attr("height", h + m[0] + m[2])
+			    .append("svg:g")
+			      .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
+
+			// create yAxis
+		    var xAxis = d3.svg.axis().scale(x2);
+			// Add the x-axis.
+			graph.append("svg:g")
+			      .attr("class", "x axis")
+			      .attr("transform", "translate(0," + h + ")")
+			      .call(xAxis)
+			      .selectAll("text")  
+            		.style("text-anchor", "end")
+            		.attr("dx", "-.8em")
+            		.attr("dy", ".15em")
+            		.attr("transform", function(d) {
+                		return "rotate(-65)" 
+                	});
+
+
+			// create left yAxis
+			var yAxisLeft = d3.svg.axis().scale(y).ticks(6).orient("left");
+			// Add the y-axis to the left
+			graph.append("svg:g")
+			      .attr("class", "y axis axisLeft")
+			      .attr("transform", "translate(-15,0)")
+			      .call(yAxisLeft);
+			
+			// add lines
+			// do this AFTER the axes above so that the line is above the tick-lines
+  			graph.append("svg:path").attr("d", line1(data1)).attr("class", "data1");
+  			graph.append("svg:path").attr("d", line2(data2)).attr("class", "data2");
+  			graph.append("svg:path").attr("d", line2(data3)).attr("class", "data3");
+  			graph.append("svg:path").attr("d", line2(data4)).attr("class", "data4");
+
+  		});
+		});
+			
+
+	</script>
+
+
+
+	</body>
+</html>
