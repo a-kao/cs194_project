@@ -41,6 +41,10 @@ def gindex():
     """
     return flask.render_template("index.html")
 
+@app.route("/graph")
+def graphRender():
+    return flask.render_template("graph.html")
+
 @app.route("/plot")
 def getPlot():
     return flask.render_template("plot.html")
@@ -57,6 +61,12 @@ def predictStats(name, stat):
     predicted1 = m1[0].predict(feat1)[:,0].tolist()
     predicted2 = m2[0].predict(feat2)[:,0].tolist()
     predicted3 = m3[0].predict(feat3)[:,0].tolist()
+
+    modelInfo = {}
+    modelInfo[0] = [m1[1], m1[2], m1[3]]
+    modelInfo[1] = [m2[1], m2[2], m2[3]]
+    modelInfo[2] = [m3[1], m3[2], m3[3]]
+    
     
     for i in range (0,2):
         predicted1.insert(0,predicted1[i])
@@ -64,7 +74,7 @@ def predictStats(name, stat):
         predicted3.insert(0,predicted3[i])
     predicted2.insert(0,predicted2[0])
 
-    return json.dumps({"seasons": season.tolist(), "real": resp.tolist(), "predicted1": predicted1, "predicted2": predicted2, "predicted3": predicted3})
+    return json.dumps({"seasons": season.tolist(), "real": resp.tolist(), "predicted1": predicted1, "predicted2": predicted2, "predicted3": predicted3, "modelInfo": modelInfo})
 
 @app.route("/cluster/<int:season>/<pos>/<expVar1>/<expVar2>/<int:clusterNum>")
 def getClusterResults(season, pos, expVar1, expVar2, clusterNum):
@@ -317,7 +327,7 @@ def train_stat_model(option, target):
     response_df.reset_index(inplace = True, drop=True)
 
     #Function 3: sample data
-    amount = int(round(len(features) * 0.1))
+    amount = int(round(len(features) * 0.2))
     rows = random.sample(feature_df.index, amount)
     testing_data = feature_df.ix[rows]
     training_data = feature_df.drop(rows)
