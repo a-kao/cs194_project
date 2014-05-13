@@ -76,6 +76,7 @@ d3.csv("static/player_edges.csv", function(links) {
   force
       .nodes(nodes)
       .links(links)
+      .charge(-500)
       .on("tick", tick)
       .start();
 
