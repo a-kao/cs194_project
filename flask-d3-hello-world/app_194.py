@@ -8,6 +8,7 @@ from flask import request
 import numpy as np
 import pandas as pd
 from sklearn.cluster import KMeans
+import sklearn
 from jinja2 import Template
 from sklearn import linear_model
 import random
@@ -133,33 +134,20 @@ def getClusterResults(season, pos, expVar1, expVar2, clusterNum):
     clusterRadius = {}
     clusterSalaryAverage = {}
     clusterAgeAverage = {}
+
     for i in range(clusterNum):
     	playerCluster = playerDF[playerDF["Cluster"] == i]
     	numPlayers = len(playerCluster)
-    	'''
-    	majorLength = playerDF[playerDF["Cluster"] == i][expVar1].std() * float(max(numPlayers, 8)/8)
-    	minorLength = playerDF[playerDF["Cluster"] == i][expVar2].std() * float(max(numPlayers, 8)/8)
-    	'''
+
     	majorLength = playerCluster[expVar1].std() * .9**(-1 * math.log(numPlayers, 2))
     	minorLength = playerCluster[expVar2].std() * .9**(-1 * math.log(numPlayers, 2))
     	clusterRadius[i] = (majorLength + np.asscalar(centroids[i, 0]), minorLength + np.asscalar(centroids[i, 1]))
 
     	clusterSalaryAverage[i] = playerCluster["Salary"].mean()
     	clusterAgeAverage[i] = playerCluster["Age"].astype('float').mean()
-    '''
-    for name, group in playerDF.groupby(['Cluster']):
-        radius = 0
-        coordinate = (0,0)
-        for index, row in group.iterrows():
-            dist = math.sqrt((float(row[expVar1])-float(centroids[name, 0]))**2 + (float(row[expVar2])-float(centroids[name, 1]))**2)
-            if (dist > radius):
-                radius = dist
-                coordinate = (row[expVar1], row[expVar2])
-        clusterRadius[name] = coordinate
-     '''
 
     #Create the result json object
-    playerObj = [{"_name": playerDF.ix[i, "Player"], "_tm": playerDF.ix[i, "Tm"], "age": playerDF.ix[i, "Age"],
+	playerObj = [{"_name": playerDF.ix[i, "Player"], "_tm": playerDF.ix[i, "Tm"], "age": playerDF.ix[i, "Age"],
     	"salary": playerDF.ix[i,"Salary"], "var1": playerDF.ix[i, 4], "var2": playerDF.ix[i, 5], 
     	"cluster": np.asscalar(playerDF.ix[i, "Cluster"])}
         for i in range(len(playerDF))]
